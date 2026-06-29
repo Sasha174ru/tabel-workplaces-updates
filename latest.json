@@ -1,5 +1,5 @@
 {
-  "version": "2026.06.29.9",
+  "version": "2026.06.29.10",
   "apkUrl": "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
-  "notes": "Исправлено автообновление Android: добавлено разрешение установки APK и переход в настройки, если Android блокирует установку."
+  "notes": "Единый штат и график отпусков открываются отдельной полноэкранной страницей без графика смен."
 }
