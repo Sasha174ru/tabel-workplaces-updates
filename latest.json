@@ -1,5 +1,5 @@
 {
-  "version": "2026.06.29.11",
+  "version": "2026.06.29.12",
   "apkUrl": "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
-  "notes": "Исправлена стартовая синхронизация: при медленном Supabase приложение открывает локальные данные и не блокирует запуск."
+  "notes": "Стартовая синхронизация Supabase читает таблицы последовательно и повторяет попытку в фоне при сбое сети."
 }
