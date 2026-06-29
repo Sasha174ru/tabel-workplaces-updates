@@ -1,5 +1,5 @@
 {
-  "version": "2026.06.29.2",
+  "version": "2026.06.29.3",
   "apkUrl": "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
-  "notes": "Исправлена ошибка открытия смены: autoSyncTimer is not defined."
+  "notes": "Ускорен запуск: стартовая синхронизация больше не зависает на сохранении общего варианта."
 }
