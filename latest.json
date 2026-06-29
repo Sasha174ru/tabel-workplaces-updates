@@ -1,5 +1,1 @@
-{
-  "version": "2026.06.29.14",
-  "apkUrl": "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
-  "notes": "Исправлено зависание при стартовой синхронизации Supabase: приложение открывается с локальными данными, если сервер не ответил за 6 секунд."
-}
+{"version":"2026.06.29.15","apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","sha256":"F1F5D7A6937D2837651DF53E65D4A02F7B26AD2E1163173994D2BD9476F6BA4B","size":2156865,"notes":"Исправлена синхронизация Supabase: параллельное чтение таблиц, увеличен таймаут старта, сбой одной таблицы больше не блокирует запуск."}
