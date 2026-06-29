@@ -1,0 +1,5 @@
+{
+  "version": "2026.06.29.1",
+  "apkUrl": "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
+  "notes": "Исправлен запуск смены после синхронизации Supabase. Убрана зависимость от GitHub-токена для данных."
+}
