@@ -1,1 +1,8 @@
-{"version":"2026.06.30.22","apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","size":2148514,"sha256":"E55D2613F8E996958D099AFEFCB3E46ED431E09646BBFAC47BC4A6D77BE9B8A1","updatedAt":"2026-06-30T18:53:30.8854024Z","notes":"Исправлено удаление сотрудника с рабочего места: запись удаляется из базы, кэш очищается, экран обновляется сразу."}
+{
+    "version":  "2026.06.30.23",
+    "updatedAt":  "2026-07-01T00:07:39",
+    "sha256":  "8397FB6B6F8C877F38AF473F30D29D80C3C5C487EC5BBF471252754105C838C6",
+    "notes":  "Исправлено удаление сотрудников с рабочих мест: запись удаляется по дате, табельному номеру и рабочему месту, даже если строка устарела или продублирована.",
+    "fileName":  "default.apk",
+    "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
+}
