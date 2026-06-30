@@ -1,8 +1,1 @@
-{
-    "version":  "2026.06.30.23",
-    "updatedAt":  "2026-07-01T00:07:39",
-    "sha256":  "8397FB6B6F8C877F38AF473F30D29D80C3C5C487EC5BBF471252754105C838C6",
-    "notes":  "Исправлено удаление сотрудников с рабочих мест: запись удаляется по дате, табельному номеру и рабочему месту, даже если строка устарела или продублирована.",
-    "fileName":  "default.apk",
-    "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
-}
+{"version":"2026.07.01.2","publishedAt":"2026-07-01T04:07:17","required":false,"notes":"Исправлена синхронизация удаления записей, ускорено открытие и сохранение, возвращён красивый визуальный стиль.","name":"Табель рабочих мест.apk","apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"}
