@@ -1,7 +1,7 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
     "mandatory":  false,
-    "version":  "2026.07.01.6",
-    "updatedAt":  "2026-07-01T10:09:17",
-    "notes":  "Разделены Бланки и Печать: просмотр бланков перенесён во вкладку Бланки, в Печать оставлены действия печати и отправки."
+    "version":  "2026.07.01.7",
+    "updatedAt":  "2026-07-01T10:18:20",
+    "notes":  "Во вкладке Бланки добавлены кнопки выбора бланка без горизонтального листания."
 }
