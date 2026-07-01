@@ -1,8 +1,8 @@
 {
-    "version":  "2026.07.01.3",
+    "version":  "2026.07.01.4",
     "url":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
-    "notes":  "Кнопка сохранения перенесена на страницы единого штата и графика отпусков. На стартовом экране кнопка сохранения убрана. В график отпусков добавлен бланк, печать и отправка.",
+    "notes":  "Стартовый экран открывает текущий месяц. Раздел печати очищен от графика отпусков; график отпусков печатается и отправляется со своей страницы. Бланки переводов и ремонта строятся по текущему месяцу.",
     "mandatory":  false,
-    "publishedAt":  "2026-07-01T09:22:21"
+    "publishedAt":  "2026-07-01T09:38:38"
 }
