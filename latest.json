@@ -1,8 +1,1 @@
-{
-    "version":  "2026.07.01.4",
-    "url":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
-    "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
-    "notes":  "Стартовый экран открывает текущий месяц. Раздел печати очищен от графика отпусков; график отпусков печатается и отправляется со своей страницы. Бланки переводов и ремонта строятся по текущему месяцу.",
-    "mandatory":  false,
-    "publishedAt":  "2026-07-01T09:38:38"
-}
+{"version":"2026.07.01.5","url":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","notes":"Печать переводов и ремонта/разогрева теперь берёт только месяц выбранной смены.","mandatory":false,"publishedAt":"2026-07-01T09:52:24"}
