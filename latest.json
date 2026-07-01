@@ -1,1 +1,8 @@
-{"version":"2026.07.01.2","publishedAt":"2026-07-01T04:07:17","required":false,"notes":"Исправлена синхронизация удаления записей, ускорено открытие и сохранение, возвращён красивый визуальный стиль.","name":"Табель рабочих мест.apk","apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"}
+{
+    "version":  "2026.07.01.3",
+    "url":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
+    "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
+    "notes":  "Кнопка сохранения перенесена на страницы единого штата и графика отпусков. На стартовом экране кнопка сохранения убрана. В график отпусков добавлен бланк, печать и отправка.",
+    "mandatory":  false,
+    "publishedAt":  "2026-07-01T09:22:21"
+}
