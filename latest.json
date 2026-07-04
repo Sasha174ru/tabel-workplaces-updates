@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.8","notes":"Исправлена подсветка в списке добавленных на рабочее место: пролётчик и капремонт зелёные, подработка красная; в колонке Вид показывается роль работника."}
+{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.9","notes":"Подработчик теперь определяется по текущей бригаде: если сотрудника нет в данной бригаде, строка красная и в колонке Вид указана Подработка."}
