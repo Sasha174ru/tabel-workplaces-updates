@@ -1,8 +1,8 @@
 {
-    "version":  "2026.07.04.22",
-    "publishedAt":  "2026-07-04T23:59:46",
-    "sha256":  "2f30e048a51df2dbd09672ccf228bd5d2a63c2897da484bc0dab6ddd4ae17718",
-    "notes":  "Изменён ярлык приложения: оставлен только внутренний серебристый знак с красной вставкой, без круга и без надписи ЦЕХ 7.",
+    "version":  "2026.07.05.1",
+    "publishedAt":  "2026-07-05T00:19:04",
+    "sha256":  "7c4cc1fd5d105b507a6ff0355ab446cf52d754c7c67beabde7433cd74063c5be",
+    "notes":  "Убран чёрный фон ярлыка: отключён adaptive icon, приложение использует прозрачный PNG с одной эмблемой.",
     "name":  "Табель рабочих мест.apk",
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
 }
