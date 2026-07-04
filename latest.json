@@ -1,8 +1,8 @@
 {
-    "version":  "2026.07.05.2",
-    "publishedAt":  "2026-07-05T00:24:58",
-    "sha256":  "67a4aff06eda87363963b0102c8949b2789b14c0cd042bd107736c66351e2f00",
-    "notes":  "Ярлык оставлен без плитки: только прозрачная эмблема в виде ковша и красного металла.",
+    "version":  "2026.07.05.3",
+    "publishedAt":  "2026-07-05T00:28:39",
+    "sha256":  "be526374a67fe00262849dc054fda5a68cb3f580264d771f2515cda611a8b140",
+    "notes":  "Ярлык подключён напрямую к прозрачной foreground-эмблеме, без adaptive icon и без фоновой подложки со стороны APK.",
     "name":  "Табель рабочих мест.apk",
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
 }
