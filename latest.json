@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.9","notes":"Подработчик теперь определяется по текущей бригаде: если сотрудника нет в данной бригаде, строка красная и в колонке Вид указана Подработка."}
+{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.10","notes":"Убран лишний фильтр рабочих мест Все/Печи/РМ/Прочее. Список рабочих мест теперь показывается сразу полностью."}
