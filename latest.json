@@ -1,8 +1,8 @@
 {
-    "version":  "2026.07.05.1",
-    "publishedAt":  "2026-07-05T00:19:04",
-    "sha256":  "7c4cc1fd5d105b507a6ff0355ab446cf52d754c7c67beabde7433cd74063c5be",
-    "notes":  "Убран чёрный фон ярлыка: отключён adaptive icon, приложение использует прозрачный PNG с одной эмблемой.",
+    "version":  "2026.07.05.2",
+    "publishedAt":  "2026-07-05T00:24:58",
+    "sha256":  "67a4aff06eda87363963b0102c8949b2789b14c0cd042bd107736c66351e2f00",
+    "notes":  "Ярлык оставлен без плитки: только прозрачная эмблема в виде ковша и красного металла.",
     "name":  "Табель рабочих мест.apk",
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
 }
