@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.14","notes":"Исправлена кнопка Позвонить: теперь она видна всегда, берёт номер прямо из поля и в Android выполняет звонок через нативный мост с разрешением CALL_PHONE; при отказе открывается набор номера."}
+{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.15","notes":"Кнопка Позвонить в номерах телефонов переименована в Вызов."}
