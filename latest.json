@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.5","notes":"Исправлено исчезновение штатного сотрудника после добавления на рабочее место."}
+{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.6","notes":"Исправлено исчезновение только что добавленного штатного сотрудника при фоновой синхронизации Supabase: свежая локальная запись снимает старый след удаления."}
