@@ -1,8 +1,8 @@
 {
-    "version":  "2026.07.05.3",
-    "publishedAt":  "2026-07-05T00:28:39",
-    "sha256":  "be526374a67fe00262849dc054fda5a68cb3f580264d771f2515cda611a8b140",
-    "notes":  "Ярлык подключён напрямую к прозрачной foreground-эмблеме, без adaptive icon и без фоновой подложки со стороны APK.",
+    "version":  "2026.07.05.4",
+    "publishedAt":  "2026-07-05T00:37:07",
+    "sha256":  "73344f533d3a10f75f081c3b79988a235f73eeaada467384cdb6965ee6cf4ed2",
+    "notes":  "Ярлык возвращён к круглой эмблеме как раньше, но без надписи ЦЕХ 7: тёмный круг, золотая окантовка и знак ковша с красным металлом.",
     "name":  "Табель рабочих мест.apk",
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
 }
