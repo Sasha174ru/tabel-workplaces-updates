@@ -1,6 +1,6 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
-    "publishedAt":  "2026-07-04T21:42:12",
-    "version":  "2026.07.04.17",
-    "notes":  "Обновлён ярлык приложения: добавлена иконка с логотипом ЦЕХ 7."
+    "publishedAt":  "2026-07-04T21:49:55",
+    "version":  "2026.07.04.18",
+    "notes":  "Ярлык приложения переделан в круглый логотип ЦЕХ 7 с прозрачными углами, без белой квадратной подложки."
 }
