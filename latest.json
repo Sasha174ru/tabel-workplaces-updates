@@ -1,8 +1,8 @@
 {
-    "version":  "2026.07.04.20",
-    "publishedAt":  "2026-07-04T22:08:30",
-    "sha256":  "3cf19504189b3a79ce374f7e1267753c45cc867766cca585c9d7f354be13f05b",
-    "notes":  "Добавлена поддержка безопасного Supabase RLS через Supabase Auth. SQL настройки RLS закрывает anon-доступ и разрешает синхронизацию только пользователям из tabel_allowed_users.",
+    "version":  "2026.07.04.21",
+    "publishedAt":  "2026-07-04T23:13:01",
+    "sha256":  "755ccf66e65f0874f78113906b7a2512fd6d1caaab8eba5c5756a1813235e1c4",
+    "notes":  "Возвращён общий режим Supabase: все устройства могут пользоваться и сохранять данные без входа. Административные действия со штатом остаются защищены паролем 050282.",
     "name":  "Табель рабочих мест.apk",
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
 }
