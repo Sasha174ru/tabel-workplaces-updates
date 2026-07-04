@@ -1,1 +1,6 @@
-{"apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk","version":"2026.07.04.16","notes":"Задан единый пароль администратора 050282. Кадровые изменения и удаления записей, отсутствий, отпусков, телефонов и очистка месяца требуют пароль."}
+{
+    "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk",
+    "publishedAt":  "2026-07-04T21:42:12",
+    "version":  "2026.07.04.17",
+    "notes":  "Обновлён ярлык приложения: добавлена иконка с логотипом ЦЕХ 7."
+}
