@@ -1,8 +1,8 @@
 {
-    "version":  "2026.07.04.19",
-    "publishedAt":  "2026-07-04T22:00:44",
-    "sha256":  "a0da992c56dcb1b65d99bdf1bd85d1193ceca815af4c1e5962c19339c690038e",
-    "notes":  "Пакет безопасности: отключено резервное копирование Android, добавлен настоящий versionCode/versionName, PIN администратора убран из JS в открытом виде, обновления APK проверяются по SHA-256.",
+    "version":  "2026.07.04.20",
+    "publishedAt":  "2026-07-04T22:08:30",
+    "sha256":  "3cf19504189b3a79ce374f7e1267753c45cc867766cca585c9d7f354be13f05b",
+    "notes":  "Добавлена поддержка безопасного Supabase RLS через Supabase Auth. SQL настройки RLS закрывает anon-доступ и разрешает синхронизацию только пользователям из tabel_allowed_users.",
     "name":  "Табель рабочих мест.apk",
     "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
 }
