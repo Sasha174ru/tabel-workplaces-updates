@@ -1,8 +1,1 @@
-{
-    "version":  "2026.07.05.6",
-    "publishedAt":  "2026-07-05T17:44:42",
-    "sha256":  "7c9dd800677ca288259a708ac5edb7b61e09093f7116ece75b1cece2fd680a14",
-    "notes":  "В редактирование сотрудника добавлены поля ФИО и табельный номер. При смене табельного переносится номер телефона и проверяются дубли.",
-    "name":  "Табель рабочих мест.apk",
-    "apkUrl":  "https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"
-}
+{"version":"2026.07.05.7","publishedAt":"2026-07-05T13:18:44Z","sha256":"5a9c2eb9d334926e4bca08056b2406317e2c91092fc3b0a88e942797b2be771e","notes":"Убраны поля Кол-во смен и Комментарий из форм добавления смены/рабочего места. По умолчанию сохраняется 1 смена и пустой комментарий.","name":"Табель рабочих мест.apk","apkUrl":"https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk"}
