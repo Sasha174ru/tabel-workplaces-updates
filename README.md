@@ -1,9 +1,9 @@
 # Табель рабочих мест - обновления
 
-Базовая релизная сборка: `2026.07.11.22`.
+Базовая релизная сборка: `2026.07.11.23`.
 
 Актуальный APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071122-repair-warmup-stats.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071123-stat-plurals.apk
 
 Служебный файл автообновления: `latest.json`.
 
