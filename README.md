@@ -1,9 +1,9 @@
 # Табель рабочих мест - обновления
 
-Базовая релизная сборка: `2026.07.11.19`.
+Базовая релизная сборка: `2026.07.11.20`.
 
 Актуальный APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071119-compact-workplace-cards.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071120-combined-shift-card.apk
 
 Служебный файл автообновления: `latest.json`.
 
