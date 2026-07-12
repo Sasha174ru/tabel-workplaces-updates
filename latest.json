@@ -1,1 +1,7 @@
-{"version":"2026.07.12.02","publishedAt":"2026-07-12T03:45:38Z","sha256":"dcf9d649982d2b7fa167adae91068c19362edd87d5e457730fac9506d31eae3c","notes":"Статистика за месяц теперь считается с первого числа месяца по выбранную дату, поэтому смены не включают будущие дни месяца.","name":"Табель рабочих мест.apk","apkUrl":"https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071202-stats-to-selected-date.apk"}
+﻿{
+    "notes":  "Исправлены логические ошибки статистики и синхронизации увольнения/повторного приема сотрудников.",
+    "published_at":  "2026-07-12T09:03:35",
+    "default_url":  "https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk",
+    "version":  "2026.07.12.03",
+    "apk_url":  "https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071203-logic-sync-audit.apk"
+}
