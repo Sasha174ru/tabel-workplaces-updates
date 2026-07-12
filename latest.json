@@ -1,7 +1,7 @@
 {
-    "version":  "2026.07.12.03",
-    "apk_url":  "https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071203-logic-sync-audit.apk",
+    "version":  "2026.07.12.04",
+    "apk_url":  "https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071204-unique-tabs.apk",
     "default_url":  "https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk",
-    "notes":  "Исправлены логические ошибки статистики и синхронизации увольнения/повторного приема сотрудников.",
-    "published_at":  "2026-07-12T09:06:39"
+    "notes":  "Убраны дубли табельных: Индюков оставлен в бригаде 1, Новиков оставлен в бригаде 2.",
+    "published_at":  "2026-07-12T09:12:30"
 }
