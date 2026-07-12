@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.12.04",
-    "name":  "default-2026071204-unique-tabs.apk",
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.12.04/default-2026071204-unique-tabs.apk",
-    "notes":  "Убраны дубли табельных: Индюков оставлен в бригаде 1, Новиков оставлен в бригаде 2."
+    "version":  "2026.07.12.05",
+    "name":  "default-2026071205-novikov-brigade1.apk",
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.12.05/default-2026071205-novikov-brigade1.apk",
+    "notes":  "Новиков Максим Николаевич перенесён в бригаду 1 без дублей табельных."
 }
