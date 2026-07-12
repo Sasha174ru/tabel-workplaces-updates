@@ -1,7 +1,7 @@
 {
-  "version": "2026.07.12.07",
-  "name": "default-2026071207-diagnostics-fixes.apk",
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.12.07/default-2026071207-diagnostics-fixes.apk",
-  "sha256": "2E438DC5A4E9E15033DEBE8CEEA2006B7A16B2DC30EA3B1AC9177C71E9E33739",
-  "notes": "Полная диагностика: исправлены повторный приём, синхронизация удалений, двойная проверка обновлений, кэш файлов, адаптация экранов и ошибки Android Lint."
+  "version": "2026.07.12.08",
+  "name": "default-2026071208-transfer-grouping.apk",
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.12.08/default-2026071208-transfer-grouping.apk",
+  "sha256": "9C5F1EA652C766B238406957BF8A93C8EF852537533D8A467EA3DF9A95C59E1D",
+  "notes": "Исправлено объединение строк в бланке переводов: последовательные смены одного сотрудника на одном месте и разряде объединяются независимо от служебной роли."
 }
