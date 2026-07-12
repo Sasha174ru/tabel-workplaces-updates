@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.12.05",
-    "name":  "default-2026071205-novikov-brigade1.apk",
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.12.05/default-2026071205-novikov-brigade1.apk",
-    "notes":  "Новиков Максим Николаевич перенесён в бригаду 1 без дублей табельных."
+    "version":  "2026.07.12.06",
+    "name":  "default-2026071206-adaptive-layout.apk",
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.12.06/default-2026071206-adaptive-layout.apk",
+    "notes":  "Добавлена адаптивная подстройка интерфейса под телефон, планшет и ПК."
 }
