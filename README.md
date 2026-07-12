@@ -1,9 +1,9 @@
 # Табель рабочих мест - обновления
 
-Базовая релизная сборка: `2026.07.12.01`.
+Базовая релизная сборка: `2026.07.12.02`.
 
 Актуальный APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071201-scheduled-shift-count.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071202-stats-to-selected-date.apk
 
 Служебный файл автообновления: `latest.json`.
 
