@@ -1,0 +1,55 @@
+name: Publish 2026.07.13.01
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".release-staging/2026.07.13.01/**"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Rebuild and verify APK
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f .release-staging/2026.07.13.01/part-000.bin
+          cat .release-staging/2026.07.13.01/part-*.bin > default-2026071301-design-refresh.apk
+          actual="$(sha256sum default-2026071301-design-refresh.apk | awk '{print toupper($1)}')"
+          test "$actual" = "C95A1A2DCBE687F348B5F6D8F9BE2891D6F44E64B99DE004C21BB51800944FB3"
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh release create "v2026.07.13.01"             "default-2026071301-design-refresh.apk"             --title "Табель рабочих мест 2026.07.13.01"             --notes "Обновлён дизайн интерфейса: повышен контраст, упрощены цвета и тени, добавлен постоянный статус сохранения и синхронизации. Исправлена компоновка на планшетах и уход кнопки «Добавить» за край экрана."
+
+      - name: Update application channel
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp default-2026071301-design-refresh.apk default.apk
+          cat > latest.json <<'JSON'
+          {
+            "version": "2026.07.13.01",
+            "name": "default-2026071301-design-refresh.apk",
+            "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.01/default-2026071301-design-refresh.apk",
+            "sha256": "C95A1A2DCBE687F348B5F6D8F9BE2891D6F44E64B99DE004C21BB51800944FB3",
+            "notes": "Обновлён дизайн, добавлен постоянный статус сохранения и синхронизации, исправлена адаптация планшетов."
+          }
+          JSON
+          rm -rf .release-staging/2026.07.13.01
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A default.apk latest.json .release-staging/2026.07.13.01
+          git commit -m "Release 2026.07.13.01: update channel [skip ci]"
+          git push
