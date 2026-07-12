@@ -1,9 +1,9 @@
 ﻿# Табель рабочих мест - обновления
 
-Базовая релизная сборка: `2026.07.12.03`.
+Базовая релизная сборка: `2026.07.12.04`.
 
 Актуальный APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071203-logic-sync-audit.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071204-unique-tabs.apk
 
 Постоянная ссылка APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
