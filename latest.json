@@ -1,9 +1,6 @@
 {
     "version":  "2026.07.12.04",
     "name":  "default-2026071204-unique-tabs.apk",
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071204-unique-tabs.apk",
-    "apk_url":  "https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default-2026071204-unique-tabs.apk",
-    "default_url":  "https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk",
-    "notes":  "Убраны дубли табельных: Индюков оставлен в бригаде 1, Новиков оставлен в бригаде 2.",
-    "published_at":  "2026-07-12T09:17:51"
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.12.04/default-2026071204-unique-tabs.apk",
+    "notes":  "Убраны дубли табельных: Индюков оставлен в бригаде 1, Новиков оставлен в бригаде 2."
 }
