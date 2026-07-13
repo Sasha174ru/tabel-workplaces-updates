@@ -1,7 +1,7 @@
 {
-    "version":  "2026.07.13.06",
-    "name":  "default-2026071306-uniform-print-font.apk",
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.06/default-2026071306-uniform-print-font.apk",
-    "sha256":  "A0B8FB4110D992952DCB95C51D8550D7EB4C899026C6F32906F6059347D7EE5F",
-    "notes":  "Во всех колонках переводов, ремонта, встречно-сменных и отпусков установлен единый шрифт 12 px; ФИО выровнено по центру строки и отображается полностью в одну строку."
+    "version":  "2026.07.13.07",
+    "name":  "default-2026071307-centered-columns.apk",
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.07/default-2026071307-centered-columns.apk",
+    "sha256":  "3AB714B213A80B4EACF5A8A31B5BB14571AE52B68588E87308AC49BAAF99CA09",
+    "notes":  "Во всех колонках переводов, ремонта/разогрева, встречно-сменных и отпусков текст выровнен по горизонтальному и вертикальному центру. Единый шрифт 12 px сохранён."
 }
