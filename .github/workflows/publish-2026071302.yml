@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - .github/workflows/publish-2026071302.yml
-      - staging/2026071302/**
+      - staging/2026071302b/**
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
         run: |
           set -euo pipefail
           apk="$RUNNER_TEMP/default-2026071302-sync-revision.apk"
-          cat staging/2026071302/part-*.bin > "$apk"
+          cat staging/2026071302b/part-*.bin > "$apk"
           echo "F254B64B552DD954D6339B1C623E58291C6C07024550734B3847FFC283D19318  $apk" | sha256sum -c -
           test "$(stat -c%s "$apk")" = "2478397"
 
