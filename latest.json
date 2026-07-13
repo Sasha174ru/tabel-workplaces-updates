@@ -1,7 +1,7 @@
 {
-    "version":  "2026.07.13.07",
-    "name":  "default-2026071307-centered-columns.apk",
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.07/default-2026071307-centered-columns.apk",
-    "sha256":  "3AB714B213A80B4EACF5A8A31B5BB14571AE52B68588E87308AC49BAAF99CA09",
-    "notes":  "Во всех колонках переводов, ремонта/разогрева, встречно-сменных и отпусков текст выровнен по горизонтальному и вертикальному центру. Единый шрифт 12 px сохранён."
+    "version":  "2026.07.13.08",
+    "name":  "default-2026071308-fixed-page-bottom.apk",
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.08/default-2026071308-fixed-page-bottom.apk",
+    "sha256":  "821FEE10F47EF60F4E440441342239E3810701A7E771D53006C0EF062076A6F9",
+    "notes":  "Исправлен нижний край бланка переводов: 35 строк и обе строки подписей полностью помещаются на каждом листе A4. Шрифт 12 px и центрирование всех колонок сохранены."
 }
