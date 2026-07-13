@@ -1,7 +1,7 @@
 {
-    "version":  "2026.07.13.03",
-    "name":  "default-2026071303-full-names.apk",
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.03/default-2026071303-full-names.apk",
-    "sha256":  "A77E9EFDEEDD17E126DBDBCE01ED7DDF673FC987FD2E8B6E359995649941C2EB",
-    "notes":  "Полные ФИО в бланках без обрезания: отчество теперь отображается полностью."
+    "version":  "2026.07.13.04",
+    "name":  "default-2026071304-wide-fio.apk",
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.04/default-2026071304-wide-fio.apk",
+    "sha256":  "FD78CF7D5524C0E38952A026781B7C9B397AAC946F0627D126A78C19D56ABB43",
+    "notes":  "Столбец ФИО расширен, полные имена и отчества не выходят за границы таблицы."
 }
