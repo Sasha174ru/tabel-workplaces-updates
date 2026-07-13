@@ -1,7 +1,7 @@
 {
-  "version": "2026.07.13.01",
-  "name": "default-2026071301-design-refresh.apk",
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.01/default-2026071301-design-refresh.apk",
-  "sha256": "C95A1A2DCBE687F348B5F6D8F9BE2891D6F44E64B99DE004C21BB51800944FB3",
-  "notes": "Обновлён дизайн, добавлен постоянный статус сохранения и синхронизации, исправлена адаптация планшетов."
+  "version": "2026.07.13.02",
+  "name": "default-2026071302-sync-revision.apk",
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.02/default-2026071302-sync-revision.apk",
+  "sha256": "F254B64B552DD954D6339B1C623E58291C6C07024550734B3847FFC283D19318",
+  "notes": "Надёжная синхронизация между устройствами, защита ревизий и проверенный кадровый цикл."
 }
