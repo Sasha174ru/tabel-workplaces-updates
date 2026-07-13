@@ -1,7 +1,7 @@
 {
-    "version":  "2026.07.13.05",
-    "name":  "default-2026071305-single-line-fio.apk",
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.05/default-2026071305-single-line-fio.apk",
-    "sha256":  "B4AE6FDBB77F5DE430E8DD40D198F6987AF7A2A4A4243E399F2C89CDFD903B71",
-    "notes":  "Полное ФИО отображается одной строкой увеличенным шрифтом; на странице сохранено 35 строк."
+    "version":  "2026.07.13.06",
+    "name":  "default-2026071306-uniform-print-font.apk",
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.06/default-2026071306-uniform-print-font.apk",
+    "sha256":  "A0B8FB4110D992952DCB95C51D8550D7EB4C899026C6F32906F6059347D7EE5F",
+    "notes":  "Во всех колонках переводов, ремонта, встречно-сменных и отпусков установлен единый шрифт 12 px; ФИО выровнено по центру строки и отображается полностью в одну строку."
 }
