@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.02/default-2026071502-pc-style-android-forms.apk",
-    "sha256":  "5A74BDC762356026A436EEEDD87D59D82E27964F7EBCF53921E687BA704D33A3",
-    "name":  "default-2026071502-pc-style-android-forms.apk",
-    "version":  "2026.07.15.02",
-    "notes":  "Бланки на Android теперь используют тот же фиксированный формат A4, размеры таблиц, поля и подписи, что и ПК-версия. На узком экране весь готовый лист уменьшается пропорционально без перестройки документа."
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.03/default-2026071503-desktop-form-geometry.apk",
+    "sha256":  "6896946550DC609F96BE2DE282DFB18E7AADB76232DAE83B1DE460B719CC058F",
+    "name":  "default-2026071503-desktop-form-geometry.apk",
+    "version":  "2026.07.15.03",
+    "notes":  "Android-бланки используют печатную геометрию ПК: поля 12×10 мм и широкую таблицу. Заголовки «Разряд» и «Ознакомлен(а)» больше не разрываются внутри слов."
 }
