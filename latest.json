@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.03/default-2026071503-desktop-form-geometry.apk",
-    "sha256":  "6896946550DC609F96BE2DE282DFB18E7AADB76232DAE83B1DE460B719CC058F",
-    "name":  "default-2026071503-desktop-form-geometry.apk",
-    "version":  "2026.07.15.03",
-    "notes":  "Android-бланки используют печатную геометрию ПК: поля 12×10 мм и широкую таблицу. Заголовки «Разряд» и «Ознакомлен(а)» больше не разрываются внутри слов."
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.04/default-2026071504-form-column-widths.apk",
+    "sha256":  "1991E50F230A5A0AC1E83E28D749ABA8B92ED0B0A46A4C9AF2308E42A315844C",
+    "name":  "default-2026071504-form-column-widths.apk",
+    "version":  "2026.07.15.04",
+    "notes":  "В бланках ПК и Android расширены колонки «Разряд» и «Ознакомлен(а), подпись». Заголовки больше не разрываются внутри слов; формат A4 и количество строк сохранены."
 }

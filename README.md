@@ -1,9 +1,9 @@
 # Табель рабочих мест - обновления
 
-Базовая релизная сборка: $version.
+Базовая релизная сборка: 2026.07.15.04.
 
 Актуальный APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.03/default-2026071503-desktop-form-geometry.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.04/default-2026071504-form-column-widths.apk
 
 Постоянная ссылка APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
