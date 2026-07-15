@@ -1,7 +1,7 @@
 {
-  "version": "2026.07.13.09",
-  "name": "default-2026071309-45-person-forms.apk",
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.13.09/default-2026071309-45-person-forms.apk",
-  "sha256": "55628E6795CD1E1136F5617186CD21521D5393A7A4B3A2503AF9E6C933163D64",
-  "notes": "Бланки графика отпусков и встречно-сменных рассчитаны на 45 человек на страницу. При большем количестве сотрудников автоматически создаются следующие листы с продолжением нумерации."
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.01/default-2026071501-simplified-forms.apk",
+    "sha256":  "D85743CBB7BF0A96FF3C444DE84463D60EDFFC37C92CCBE03DDA7B20B2E95EE0",
+    "name":  "default-2026071501-simplified-forms.apk",
+    "version":  "2026.07.15.01",
+    "notes":  "Раздел «Бланки» упрощён на ПК и Android: один выбор документа, единый предпросмотр и одна команда отправки. На ПК дополнительно доступна одна кнопка печати; на Android печать скрыта."
 }
