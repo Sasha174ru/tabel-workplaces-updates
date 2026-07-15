@@ -3,7 +3,7 @@
 Базовая релизная сборка: $version.
 
 Актуальный APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.01/default-2026071501-simplified-forms.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.02/default-2026071502-pc-style-android-forms.apk
 
 Постоянная ссылка APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk

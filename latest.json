@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.01/default-2026071501-simplified-forms.apk",
-    "sha256":  "D85743CBB7BF0A96FF3C444DE84463D60EDFFC37C92CCBE03DDA7B20B2E95EE0",
-    "name":  "default-2026071501-simplified-forms.apk",
-    "version":  "2026.07.15.01",
-    "notes":  "Раздел «Бланки» упрощён на ПК и Android: один выбор документа, единый предпросмотр и одна команда отправки. На ПК дополнительно доступна одна кнопка печати; на Android печать скрыта."
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.02/default-2026071502-pc-style-android-forms.apk",
+    "sha256":  "5A74BDC762356026A436EEEDD87D59D82E27964F7EBCF53921E687BA704D33A3",
+    "name":  "default-2026071502-pc-style-android-forms.apk",
+    "version":  "2026.07.15.02",
+    "notes":  "Бланки на Android теперь используют тот же фиксированный формат A4, размеры таблиц, поля и подписи, что и ПК-версия. На узком экране весь готовый лист уменьшается пропорционально без перестройки документа."
 }
