@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.15.04/default-2026071504-form-column-widths.apk",
-    "sha256":  "CAA8F81918DFF6833D52BBD8BCC800B87BC2F303A1ED347C7132C7782567EAB3",
-    "name":  "default-2026071504-form-column-widths.apk",
-    "version":  "2026.07.15.04",
-    "notes":  "В бланках ПК и Android расширены колонки «Разряд» и «Ознакомлен(а), подпись». Заголовки больше не разрываются внутри слов; формат A4 и количество строк сохранены."
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.16.01/default-2026071601-pc-full-width.apk",
+    "sha256":  "1523E0199DCA274FE837361A81CD3C82E2EE450E6BFB29A7FCEB0B290FBD7292",
+    "name":  "default-2026071601-pc-full-width.apk",
+    "version":  "2026.07.16.01",
+    "notes":  "ПК-версия теперь занимает всю доступную ширину окна на мониторах разных разрешений. Убрано ограничение 1500 px, сохранены адаптивные поля и неизменный формат печатных листов A4."
 }
