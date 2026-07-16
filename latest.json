@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.16.02/default-2026071602-vacation-brigade-name-align.apk",
-    "sha256":  "E4D445778671CE0E1A93F5A6A86CD4FCE683C0A8F19FDF819E44D68C66389E44",
-    "name":  "default-2026071602-vacation-brigade-name-align.apk",
-    "version":  "2026.07.16.02",
-    "notes":  "Бланк отпусков формируется только для бригады, выбранной в графике смен. Во всех бланках ФИО выровнены по левому краю, остальные колонки не изменены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.16.03/default-2026071603-vacation-stats-redesign.apk",
+  "sha256": "EC079CE9A472B2B10C61179EA7933B716C6E3C9768EC63A212B23AB7943C9F34",
+  "name": "default-2026071603-vacation-stats-redesign.apk",
+  "version": "2026.07.16.03",
+  "notes": "Бланк отпусков сокращён до необходимых колонок. Статистика разделена на общую за месяц, по смене и индивидуальную по сотруднику."
 }
