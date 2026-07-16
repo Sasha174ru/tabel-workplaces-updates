@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.16.03/default-2026071603-vacation-stats-redesign.apk",
-  "sha256": "EC079CE9A472B2B10C61179EA7933B716C6E3C9768EC63A212B23AB7943C9F34",
-  "name": "default-2026071603-vacation-stats-redesign.apk",
-  "version": "2026.07.16.03",
-  "notes": "Бланк отпусков сокращён до необходимых колонок. Статистика разделена на общую за месяц, по смене и индивидуальную по сотруднику."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.16.04/default-2026071604-scheduled-shift-statistics.apk",
+  "sha256": "EF3AE5749B5CC423A6C838C60BE7E9F6DFDD85C2A75C210679D60FF3E8C47672",
+  "name": "default-2026071604-scheduled-shift-statistics.apk",
+  "version": "2026.07.16.04",
+  "notes": "В статистике за смену дата выбирается только из текущей и уже отработанных смен выбранной бригады по графику. Кнопки режимов статистики приведены к единому бирюзовому стилю с затемнением выбранной."
 }
