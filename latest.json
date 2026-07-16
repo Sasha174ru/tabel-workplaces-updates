@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.16.01/default-2026071601-pc-full-width.apk",
-    "sha256":  "1523E0199DCA274FE837361A81CD3C82E2EE450E6BFB29A7FCEB0B290FBD7292",
-    "name":  "default-2026071601-pc-full-width.apk",
-    "version":  "2026.07.16.01",
-    "notes":  "ПК-версия теперь занимает всю доступную ширину окна на мониторах разных разрешений. Убрано ограничение 1500 px, сохранены адаптивные поля и неизменный формат печатных листов A4."
+    "apkUrl":  "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.16.02/default-2026071602-vacation-brigade-name-align.apk",
+    "sha256":  "E4D445778671CE0E1A93F5A6A86CD4FCE683C0A8F19FDF819E44D68C66389E44",
+    "name":  "default-2026071602-vacation-brigade-name-align.apk",
+    "version":  "2026.07.16.02",
+    "notes":  "Бланк отпусков формируется только для бригады, выбранной в графике смен. Во всех бланках ФИО выровнены по левому краю, остальные колонки не изменены."
 }
