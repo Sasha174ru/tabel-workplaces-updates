@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.17.02/default-2026071702-vacation-shift-calendar.apk",
-  "sha256": "CBC9971A891355D51DFA783B7C224443A7ED081DA17EC16822A219D0C507CF2E",
-  "name": "default-2026071702-vacation-shift-calendar.apk",
-  "version": "2026.07.17.02",
-  "notes": "Начало и окончание отпуска теперь выбираются во встроенном календаре смен. В каждой дате видны дневная и ночная бригады, выбранный период выделяется, а окончание нельзя установить раньше начала. Системный календарь Android больше не открывается."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.17.03/default-2026071703-vacation-range-picker.apk",
+  "sha256": "9ABD3174350201AAB5448DD9A609C195CE58F799C013BA81A759FEEB4EAA2C28",
+  "name": "default-2026071703-vacation-range-picker.apk",
+  "version": "2026.07.17.03",
+  "notes": "Начало и окончание отпуска объединены в одну кнопку «Период отпуска». Первое нажатие в календаре выбирает начало, второе — окончание. На кнопке и под формой сразу показывается рассчитанное количество календарных дней. Отмена незавершённого выбора не изменяет прежний период."
 }
