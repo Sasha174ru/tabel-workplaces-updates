@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.17.03/default-2026071703-vacation-range-picker.apk",
-  "sha256": "9ABD3174350201AAB5448DD9A609C195CE58F799C013BA81A759FEEB4EAA2C28",
-  "name": "default-2026071703-vacation-range-picker.apk",
-  "version": "2026.07.17.03",
-  "notes": "Начало и окончание отпуска объединены в одну кнопку «Период отпуска». Первое нажатие в календаре выбирает начало, второе — окончание. На кнопке и под формой сразу показывается рассчитанное количество календарных дней. Отмена незавершённого выбора не изменяет прежний период."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.17.04/default-2026071704-vacation-empty-defaults.apk",
+  "sha256": "C4621CECCDBF8742951D571322CE1AE95AD756300B134C8BCACB105A5433A579",
+  "name": "default-2026071704-vacation-empty-defaults.apk",
+  "version": "2026.07.17.04",
+  "notes": "График отпусков теперь открывается с пустыми полями: год, бригада, месяц, период и сотрудник показывают «Выбрать». Период становится доступен после выбора года, бригады и месяца, сотрудник — после выбора периода. Автоматическая подстановка прежних значений отключена."
 }
