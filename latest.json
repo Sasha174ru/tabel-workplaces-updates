@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.31/default-2026071931-department-choice.apk",
-  "sha256": "7E8FC99BC06E060041084A51B8F8FED0549CBE8E1E3CEDA8D8D46A1D5F561EBD",
-  "name": "default-2026071931-department-choice.apk",
-  "version": "2026.07.19.31",
-  "notes": "При выборе смены добавлен обязательный выбор подразделения: Цех 2, Цех 5 или Цех 7. После выбора открываются участки выбранного подразделения; дата, вид смены и бригада сохраняются. Старые рабочие места и история смен остаются без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.33/default-2026071933-vacation-hierarchy-rsc.apk",
+  "sha256": "43BC4EA609FEB28AAFF5F35B67BDCD68DC2203B01799EDBC7710269EEBF9AA77",
+  "name": "default-2026071933-vacation-hierarchy-rsc.apk",
+  "version": "2026.07.19.33",
+  "notes": "В графике отпусков добавлен последовательный выбор цеха и участка перед выбором бригады и сотрудника. В выборе текущей смены добавлен цех РСЦ. Из настроек скрыт блок старых рабочих мест без участка, при этом исторические записи сохранены."
 }
