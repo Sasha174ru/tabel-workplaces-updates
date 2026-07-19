@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.27/default-2026071927-tablet-menu-fit.apk",
-  "sha256": "147AFACA5782AA0B9371F4E4F015274DDFDB506695A05E035693826C4A43B504",
-  "name": "default-2026071927-tablet-menu-fit.apk",
-  "version": "2026.07.19.27",
-  "notes": "На стартовом экране планшета календарь и все четыре кнопки меню, включая Настройки, помещаются по высоте без перекрытий."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.28/default-2026071928-workplace-migration.apk",
+  "sha256": "69E9908858C280AB4F9265864B7DB30F7921618D107F7FE2C83976F527909FA4",
+  "name": "default-2026071928-workplace-migration.apk",
+  "version": "2026.07.19.28",
+  "notes": "Смены за июнь и июль в Цехе 2, Цехе 5 и РСЦ перенесены из раздела «Другое место» в созданные рабочие места без изменения записей и бланков."
 }
