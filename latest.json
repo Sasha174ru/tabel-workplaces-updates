@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.30/default-2026071930-departments.apk",
-  "sha256": "F78A924E4CA5559EC0058DBCC18733BA170264BB9C35EA12942995DCBCBD8BBD",
-  "name": "default-2026071930-departments.apk",
-  "version": "2026.07.19.30",
-  "notes": "Добавлена структура Цех 7 → участок → рабочее место. В Цехе 7 доступны печной и литейный пролёты, склад готовой продукции, шихтовый двор, газоочистка 1 и 2, участок БРЭКСЫ. Печи 41–48 и разливочная машина распределены автоматически, история смен сохранена."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.31/default-2026071931-department-choice.apk",
+  "sha256": "7E8FC99BC06E060041084A51B8F8FED0549CBE8E1E3CEDA8D8D46A1D5F561EBD",
+  "name": "default-2026071931-department-choice.apk",
+  "version": "2026.07.19.31",
+  "notes": "При выборе смены добавлен обязательный выбор подразделения: Цех 2, Цех 5 или Цех 7. После выбора открываются участки выбранного подразделения; дата, вид смены и бригада сохраняются. Старые рабочие места и история смен остаются без изменений."
 }
