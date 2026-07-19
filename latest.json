@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.13/default-2026071913-calendar-workplaces.apk",
-  "sha256": "9B0F2163CCC1C97B6C6D87FE67A4DF7289938E96921960113BEA52671A85A30D",
-  "name": "default-2026071913-calendar-workplaces.apk",
-  "version": "2026.07.19.13",
-  "notes": "Исправлено наложение ячеек графика смен. Новые рабочие места сразу появляются на рабочем экране, удаление выполняется без кнопки восстановления. Улучшена читаемость тёмной темы и добавлена отдельная подсветка капремонта с выбором цвета."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.14/default-2026071914-vacation-limits.apk",
+  "sha256": "C91981E5A2F8652525B7B7027CB14F5D4C2C8EEE36015D0126222DA8B589CA17",
+  "name": "default-2026071914-vacation-limits.apk",
+  "version": "2026.07.19.14",
+  "notes": "В настройках отпусков поля Год, Бригада и Месяц по умолчанию установлены в значение Все. Общий лимит применяется ко всем периодам, а более точные настройки конкретного года, бригады или месяца имеют приоритет."
 }
