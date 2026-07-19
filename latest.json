@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.29/default-2026071929-shift-contrast.apk",
-  "sha256": "CC3913600D9F764B52FD65E0EBE6C6A6FA2E7E07745A6383CF0A5CB91B9F2B79",
-  "name": "default-2026071929-shift-contrast.apk",
-  "version": "2026.07.19.29",
-  "notes": "Выбранная дневная смена выделяется тёмно-синим, ночная — чёрным. Название смены и номер бригады отображаются белым цветом."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.30/default-2026071930-departments.apk",
+  "sha256": "93E53AEC095EB762B2DA31CCE8628F59AD038CC1E11719B1175BFAD0149EC839",
+  "name": "default-2026071930-departments.apk",
+  "version": "2026.07.19.30",
+  "notes": "Добавлена структура Цех 7 → участок → рабочее место. В Цехе 7 доступны печной и литейный пролёты, склад готовой продукции, шихтовый двор, газоочистка 1 и 2, участок БРЭКСЫ. Печи 41–48 и разливочная машина распределены автоматически, история смен сохранена."
 }
