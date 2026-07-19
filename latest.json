@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.17/default-2026071917-all-years.apk",
-  "sha256": "15C420E8F102787F9D7FF5E69468A877A27DC02038292110DF7EDE6746BDDB38",
-  "name": "default-2026071917-all-years.apk",
-  "version": "2026.07.19.17",
-  "notes": "В административной очистке поле Год по умолчанию установлено в значение Все. Можно удалить рабочие данные за все годы или выбрать конкретный год; штат сотрудников при удалении периода сохраняется."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.18/default-2026071918-dismissed-reason.apk",
+  "sha256": "4CF58617C99A41481580DEFF7FF60C41463888B19742FC69CC78B15DAB449BC2",
+  "name": "default-2026071918-dismissed-reason.apk",
+  "version": "2026.07.19.18",
+  "notes": "В список причин отсутствия добавлен пункт Уволен. Причина доступна на Android и ПК, сохраняется в данных смены и отображается в статистике и бланках."
 }
