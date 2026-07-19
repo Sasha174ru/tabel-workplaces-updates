@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.14/default-2026071914-vacation-limits.apk",
-  "sha256": "C91981E5A2F8652525B7B7027CB14F5D4C2C8EEE36015D0126222DA8B589CA17",
-  "name": "default-2026071914-vacation-limits.apk",
-  "version": "2026.07.19.14",
-  "notes": "В настройках отпусков поля Год, Бригада и Месяц по умолчанию установлены в значение Все. Общий лимит применяется ко всем периодам, а более точные настройки конкретного года, бригады или месяца имеют приоритет."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.15/default-2026071915-working-screen-settings.apk",
+  "sha256": "1533CD9E743F2655D07CAD6936F909B47653A3A974D173B1D523DD030CE53EC0",
+  "name": "default-2026071915-working-screen-settings.apk",
+  "version": "2026.07.19.15",
+  "notes": "Исправлена работа настроек экрана. Режимы Смартфон, Планшет и Компьютер сразу меняют компоновку активной страницы. Компактная, обычная и крупная плотность теперь применяются ко всем вкладкам, таблицам, полям, кнопкам и карточкам."
 }
