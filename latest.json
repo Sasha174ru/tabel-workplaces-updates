@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.33/default-2026071933-vacation-hierarchy-rsc.apk",
-  "sha256": "43BC4EA609FEB28AAFF5F35B67BDCD68DC2203B01799EDBC7710269EEBF9AA77",
-  "name": "default-2026071933-vacation-hierarchy-rsc.apk",
-  "version": "2026.07.19.33",
-  "notes": "В графике отпусков добавлен последовательный выбор цеха и участка перед выбором бригады и сотрудника. В выборе текущей смены добавлен цех РСЦ. Из настроек скрыт блок старых рабочих мест без участка, при этом исторические записи сохранены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.34/default-2026071934-structure-filters.apk",
+  "sha256": "ACD8355C95E18952AF7729E9CC96A0FC8645305817FC5165D58D444CA9BEEDA0",
+  "name": "default-2026071934-structure-filters.apk",
+  "version": "2026.07.19.34",
+  "notes": "В статистике, едином штате и номерах телефонов добавлена единая последовательная фильтрация: Цех, Участок, Рабочее место. Расчёты статистики и списки сотрудников учитывают выбранную структуру, а режим Все сохраняет доступ ко всем прежним данным."
 }
