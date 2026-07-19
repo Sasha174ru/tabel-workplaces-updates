@@ -1,12 +1,12 @@
 # Табель рабочих мест - обновления
 
-Текущая релизная сборка: 2026.07.19.29.
+Текущая релизная сборка: 2026.07.19.30.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.29/default-2026071929-shift-contrast.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.30/default-2026071930-departments.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.29/tabel-workplaces-pc-portable-2026071929.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.30/tabel-workplaces-pc-portable-2026071930.zip
 
 Постоянная ссылка на актуальный APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
