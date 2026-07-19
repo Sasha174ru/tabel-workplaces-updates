@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.30/default-2026071930-departments.apk",
-  "sha256": "93E53AEC095EB762B2DA31CCE8628F59AD038CC1E11719B1175BFAD0149EC839",
+  "sha256": "F78A924E4CA5559EC0058DBCC18733BA170264BB9C35EA12942995DCBCBD8BBD",
   "name": "default-2026071930-departments.apk",
   "version": "2026.07.19.30",
   "notes": "Добавлена структура Цех 7 → участок → рабочее место. В Цехе 7 доступны печной и литейный пролёты, склад готовой продукции, шихтовый двор, газоочистка 1 и 2, участок БРЭКСЫ. Печи 41–48 и разливочная машина распределены автоматически, история смен сохранена."
