@@ -1,12 +1,12 @@
 # Табель рабочих мест - обновления
 
-Текущая релизная сборка: 2026.07.19.34.
+Текущая релизная сборка: 2026.07.20.01.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.34/default-2026071934-structure-filters.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.20.01/default-2026072001-section-shift-filter.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.34/tabel-workplaces-pc-portable-2026071934.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.20.01/tabel-workplaces-pc-portable-2026072001.zip
 
 Постоянная ссылка на актуальный APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
