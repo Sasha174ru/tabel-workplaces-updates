@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.24/default-2026071924-white-forms-dark-canvas.apk",
-  "sha256": "40EAA4A8BF6F1B97AF834AA506AEFF3E2348A22B858EE998591739B7B1DF812C",
-  "name": "default-2026071924-white-forms-dark-canvas.apk",
-  "version": "2026.07.19.24",
-  "notes": "Бланки отображаются белыми на тёмном фоне просмотрщика. Убраны чередующиеся чёрные строки внутри таблиц; текст и линии бланка остаются чёрными."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.25/default-2026071925-tablet-calendar-edge.apk",
+  "sha256": "E95DEBEED8D13447CE27344717AB2DE40E5EA1D716017A22EE24218AD73901AA",
+  "name": "default-2026071925-tablet-calendar-edge.apk",
+  "version": "2026.07.19.25",
+  "notes": "На планшетах усилена нижняя граница графика смен. В тёмной теме сделан контрастным текст карточки с номером бригады, датой и часами."
 }
