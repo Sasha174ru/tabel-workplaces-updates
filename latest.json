@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.28/default-2026071928-workplace-migration.apk",
-  "sha256": "69E9908858C280AB4F9265864B7DB30F7921618D107F7FE2C83976F527909FA4",
-  "name": "default-2026071928-workplace-migration.apk",
-  "version": "2026.07.19.28",
-  "notes": "Смены за июнь и июль в Цехе 2, Цехе 5 и РСЦ перенесены из раздела «Другое место» в созданные рабочие места без изменения записей и бланков."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.29/default-2026071929-shift-contrast.apk",
+  "sha256": "CC3913600D9F764B52FD65E0EBE6C6A6FA2E7E07745A6383CF0A5CB91B9F2B79",
+  "name": "default-2026071929-shift-contrast.apk",
+  "version": "2026.07.19.29",
+  "notes": "Выбранная дневная смена выделяется тёмно-синим, ночная — чёрным. Название смены и номер бригады отображаются белым цветом."
 }
