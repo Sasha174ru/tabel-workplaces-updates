@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.20/default-2026071920-global-dark-theme.apk",
-  "sha256": "CE7CC4CD7DD2688A460F77F162F59B2CD47D6DA623A05F28F743C91B57F46B42",
-  "name": "default-2026071920-global-dark-theme.apk",
-  "version": "2026.07.19.20",
-  "notes": "Тёмная тема применяется ко всем рабочим страницам приложения. Календарь смен, рабочие места, штат, отпуска, телефоны, статистика, настройки, таблицы и диалоги получили единое тёмное оформление. Печатные бланки сохранены белыми."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.21/default-2026071921-dark-calendar-contrast.apk",
+  "sha256": "D8E5F30F1BEA150AF6B92D76434481EA7B4AC5864DA21AD0E731D44D202E2C54",
+  "name": "default-2026071921-dark-calendar-contrast.apk",
+  "version": "2026.07.19.21",
+  "notes": "Повышена читаемость графика смен в тёмной теме. Подписи День, Ночь и номер бригады теперь светлые, а выбранная смена выделяется контрастнее."
 }
