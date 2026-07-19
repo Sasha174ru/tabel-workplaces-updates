@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.23/default-2026071923-light-documents.apk",
-  "sha256": "D37E8C860771931A300DC2DB57A0B7A3331230CAF4B87FDEAF63CFA9C6BDAE42",
-  "name": "default-2026071923-light-documents.apk",
-  "version": "2026.07.19.23",
-  "notes": "Тёмная тема больше не применяется к содержимому бланков. Печатные листы, таблицы, текст и линии всегда отображаются в чёрно-белом виде; интерфейс приложения сохраняет выбранную тему."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.24/default-2026071924-white-forms-dark-canvas.apk",
+  "sha256": "40EAA4A8BF6F1B97AF834AA506AEFF3E2348A22B858EE998591739B7B1DF812C",
+  "name": "default-2026071924-white-forms-dark-canvas.apk",
+  "version": "2026.07.19.24",
+  "notes": "Бланки отображаются белыми на тёмном фоне просмотрщика. Убраны чередующиеся чёрные строки внутри таблиц; текст и линии бланка остаются чёрными."
 }
