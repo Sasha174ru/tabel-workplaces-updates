@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.20.01/default-2026072001-section-shift-filter.apk",
-  "sha256": "08CB84DA8215E74B921665620CAF43EE03DC1BE294B72A170C04E2E0DDF9790C",
-  "name": "default-2026072001-section-shift-filter.apk",
-  "version": "2026.07.20.01",
-  "notes": "В сводных карточках «В смене» и «Отсутствуют» сотрудники распределяются по выбранному участку согласно штатному месту. Разливщики РМ отображаются в литейном пролёте и больше не попадают в печной пролёт. История смен не изменяется."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.20.02/default-2026072002-department-summary.apk",
+  "sha256": "F07921AD76FC6DA5C3D5E0CEE41205F79DE52BD0D64878D07452329510CBDF59",
+  "name": "default-2026072002-department-summary.apk",
+  "version": "2026.07.20.02",
+  "notes": "Исправлена сводка выбранного цеха. Работающие определяются по фактическому месту смены, включая старые записи «Цех 2», а отсутствующие — по штатным местам выбранного цеха. Цех без участков сразу открывает список смены. Исторические записи не изменяются."
 }
