@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.16/default-2026071916-open-vacation-load.apk",
-  "sha256": "43C064845A673574F8694BCEB585A684DCA8F31E566A5920D1C72846C5405C09",
-  "name": "default-2026071916-open-vacation-load.apk",
-  "version": "2026.07.19.16",
-  "notes": "Загрузка отпусков по месяцам теперь всегда открыта. До выбора бригады показывается суммарная загрузка всех бригад, после выбора — загрузка и остаток лимита выбранной бригады."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.17/default-2026071917-all-years.apk",
+  "sha256": "15C420E8F102787F9D7FF5E69468A877A27DC02038292110DF7EDE6746BDDB38",
+  "name": "default-2026071917-all-years.apk",
+  "version": "2026.07.19.17",
+  "notes": "В административной очистке поле Год по умолчанию установлено в значение Все. Можно удалить рабочие данные за все годы или выбрать конкретный год; штат сотрудников при удалении периода сохраняется."
 }
