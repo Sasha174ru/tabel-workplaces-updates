@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.26/default-2026071926-tablet-full-calendar.apk",
-  "sha256": "42FBE54FD55B7C409BBBE2403FF1AFEDC441F53205B9B5E553E6207743C0118B",
-  "name": "default-2026071926-tablet-full-calendar.apk",
-  "version": "2026.07.19.26",
-  "notes": "На планшете последняя неделя графика смен полностью видна: кнопки меню больше не перекрывают нижние смены, а стартовая страница при необходимости прокручивается."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.27/default-2026071927-tablet-menu-fit.apk",
+  "sha256": "147AFACA5782AA0B9371F4E4F015274DDFDB506695A05E035693826C4A43B504",
+  "name": "default-2026071927-tablet-menu-fit.apk",
+  "version": "2026.07.19.27",
+  "notes": "На стартовом экране планшета календарь и все четыре кнопки меню, включая Настройки, помещаются по высоте без перекрытий."
 }
