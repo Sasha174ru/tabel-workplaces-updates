@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.21/default-2026071921-dark-calendar-contrast.apk",
-  "sha256": "D8E5F30F1BEA150AF6B92D76434481EA7B4AC5864DA21AD0E731D44D202E2C54",
-  "name": "default-2026071921-dark-calendar-contrast.apk",
-  "version": "2026.07.19.21",
-  "notes": "Повышена читаемость графика смен в тёмной теме. Подписи День, Ночь и номер бригады теперь светлые, а выбранная смена выделяется контрастнее."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.22/default-2026071922-dark-role-highlights.apk",
+  "sha256": "3D9408B58436E97C7D8C01EB6F1CD7F38A3D975A62385D816CFB5CFB53CA4FC5",
+  "name": "default-2026071922-dark-role-highlights.apk",
+  "version": "2026.07.19.22",
+  "notes": "В тёмной теме восстановлена цветная подсветка подработчиков, пролётчиков и капремонта. Пользовательские цвета из настроек сохраняются, текст на выделенных строках остаётся читаемым."
 }
