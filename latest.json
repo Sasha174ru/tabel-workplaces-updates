@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.22/default-2026071922-dark-role-highlights.apk",
-  "sha256": "3D9408B58436E97C7D8C01EB6F1CD7F38A3D975A62385D816CFB5CFB53CA4FC5",
-  "name": "default-2026071922-dark-role-highlights.apk",
-  "version": "2026.07.19.22",
-  "notes": "В тёмной теме восстановлена цветная подсветка подработчиков, пролётчиков и капремонта. Пользовательские цвета из настроек сохраняются, текст на выделенных строках остаётся читаемым."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.19.23/default-2026071923-light-documents.apk",
+  "sha256": "D37E8C860771931A300DC2DB57A0B7A3331230CAF4B87FDEAF63CFA9C6BDAE42",
+  "name": "default-2026071923-light-documents.apk",
+  "version": "2026.07.19.23",
+  "notes": "Тёмная тема больше не применяется к содержимому бланков. Печатные листы, таблицы, текст и линии всегда отображаются в чёрно-белом виде; интерфейс приложения сохраняет выбранную тему."
 }
