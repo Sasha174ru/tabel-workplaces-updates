@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.24.07/default-2026072407-hierarchy-dropdowns.apk",
-  "sha256": "0EAE5BB15DBED5421AEC6CDF88EB4F2DC23335F676E704693216AF5B75297151",
-  "name": "default-2026072407-hierarchy-dropdowns.apk",
-  "version": "2026.07.24.07",
-  "notes": "На странице рабочих мест убраны жёлтая сводная карточка, заголовок и отдельные карточки выбора. Подразделение, участок и рабочее место теперь выбираются последовательно из одного выпадающего поля со стрелкой."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.24.08/default-2026072408-workplace-cards.apk",
+  "sha256": "E1219DA25CAA6DF4CB53B6E5E9386BC0666D71A777CCDA9AC818834E8DA93E7D",
+  "name": "default-2026072408-workplace-cards.apk",
+  "version": "2026.07.24.08",
+  "notes": "После выбора участка возвращены жёлтая карточка бригады, даты и часов, карточки «Вся смена», «Отсутствующие» и все карточки рабочих мест участка. Подразделение и участок по-прежнему выбираются через поле со стрелкой."
 }
