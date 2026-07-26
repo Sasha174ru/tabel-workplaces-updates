@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.24.05/default-2026072405-department-dropdown.apk",
-  "sha256": "2D18C80BCA7BF2CB76BA9916413CC56F6B8BA22225DFD05C4F62E27466F6E34D",
-  "name": "default-2026072405-department-dropdown.apk",
-  "version": "2026.07.24.05",
-  "notes": "Выбор подразделения при открытии смены упрощён: вместо отдельных кнопок Цех 2, Цех 5, Цех 7 и РСЦ теперь используется одно выпадающее поле со стрелкой. После выбора подразделение открывается сразу. Интерфейс проверен на смартфоне и планшете."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.24.06/default-2026072406-section-dropdown.apk",
+  "sha256": "53A9BB0CD129DB1719ABA3E3046D09AD5F3FA79B21F92EC79DF572C3015A7C0A",
+  "name": "default-2026072406-section-dropdown.apk",
+  "version": "2026.07.24.06",
+  "notes": "Выбор участка на странице рабочих мест упрощён: вместо отдельных карточек используется одно выпадающее поле со стрелкой. Пункты «Вся смена» и «Отсутствующие» удалены с этого уровня. После выбора участка сразу открываются его рабочие места."
 }
