@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.04/default-2026072604-shift-statistics-cleanup.apk",
-  "sha256": "38713CD74CF7D6C0FCEE5EE703ADE5C38BE24182FBADDDF55D5C28C2386F4C5D",
-  "name": "default-2026072604-shift-statistics-cleanup.apk",
-  "version": "2026.07.26.04",
-  "notes": "Из статистики по сменам удалён месячный блок «Равномерность специальных работ». Комплектация смены, контроль разрядов и цветовые обозначения сотрудников сохранены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.05/default-2026072605-statistics-calendar-month.apk",
+  "sha256": "B7A31698B133E06D35BC99CD7FFF98BC44051DBF99D1FBA2489427D0B5EAA8D6",
+  "name": "default-2026072605-statistics-calendar-month.apk",
+  "version": "2026.07.26.05",
+  "notes": "В статистике убран повторный выбор месяца: используется месяц смены, выбранной в графике. В месячную равномерность специальных работ добавлена отдельная группа подработчиков."
 }
