@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.10/default-2026072610-universal-workplace-rules.apk",
-  "sha256": "B1C602F57537B8C1E915235612AA437C9E95A3ED8CB8992352D9EAA9FB4689AF",
-  "name": "default-2026072610-universal-workplace-rules.apk",
-  "version": "2026.07.26.10",
-  "versionCode": 2026072610,
-  "notes": "Для каждого рабочего места добавлены универсальные правила разрядов: минимум и максимум для 7, 6, 5, 4 и 3 разрядов. Названия специальных должностей можно менять вручную, а их минимальное и максимальное количество настраивается отдельно для каждого рабочего места."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.11/default-2026072611-settings-dropdown.apk",
+  "sha256": "574F58C5A8018998780A77C2793CE29F0F76CB684AC4505DF5F8B9E6C2644049",
+  "name": "default-2026072611-settings-dropdown.apk",
+  "version": "2026.07.26.11",
+  "versionCode": 2026072611,
+  "notes": "Настройки собраны в единое меню выбора. При открытии списка доступны разделы: Экран, Тема, Отпуска, Статистика, Рабочие места, Администратор и О программе."
 }
