@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.05/default-2026072605-statistics-calendar-month.apk",
-  "sha256": "B7A31698B133E06D35BC99CD7FFF98BC44051DBF99D1FBA2489427D0B5EAA8D6",
-  "name": "default-2026072605-statistics-calendar-month.apk",
-  "version": "2026.07.26.05",
-  "notes": "В статистике убран повторный выбор месяца: используется месяц смены, выбранной в графике. В месячную равномерность специальных работ добавлена отдельная группа подработчиков."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.06/default-2026072606-section-direct-workplace.apk",
+  "sha256": "0FBFE6E59EBCEA8EAAA1F06942CC3F42DFAD89213943DE9BC05848DB6EB6F54F",
+  "name": "default-2026072606-section-direct-workplace.apk",
+  "version": "2026.07.26.06",
+  "notes": "После выбора участка сразу открывается первое рабочее место. Рабочие места показаны горизонтальными карточками, а ниже сразу отображаются кнопка добавления и список сотрудников."
 }
