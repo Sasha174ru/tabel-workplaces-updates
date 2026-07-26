@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.02/default-2026072602-statistics-context.apk",
-  "sha256": "A33A5707C62FC60A48CB4447C6574887A5143BC713D6C89CD351CEA35060A4D8",
-  "name": "default-2026072602-statistics-context.apk",
-  "version": "2026.07.26.02",
-  "notes": "Из статистики убраны повторные поля выбора цеха, участка, бригады и рабочего места. Отчёты автоматически используют подразделение, участок, рабочее место и бригаду, выбранные при входе в смену."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.03/default-2026072603-statistics-context-fix.apk",
+  "sha256": "35D2AF81D1A9B1E6C3DBF7AC67F4B1528EAD98ED9B0ECB17902CA3351D8AD4C6",
+  "name": "default-2026072603-statistics-context-fix.apk",
+  "version": "2026.07.26.03",
+  "notes": "Исправлен путь интерфейса Android и принудительно обновлён кэш WebView. В статистике удалены повторные поля выбора цеха, участка, бригады и рабочего места; используется контекст входа в смену."
 }
