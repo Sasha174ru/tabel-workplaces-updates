@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.09/default-2026072609-workplace-settings-rules.apk",
-  "sha256": "F6B335E7477EC92CC4C01F42F7F374F981AB036A48B43F5919964207610A9940",
-  "name": "default-2026072609-workplace-settings-rules.apk",
-  "version": "2026.07.26.09",
-  "versionCode": 2026072609,
-  "notes": "Из создания рабочего места убрано поле «Тип». Правила переводов объединены в одну настройку для рабочего места."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.10/default-2026072610-universal-workplace-rules.apk",
+  "sha256": "B1C602F57537B8C1E915235612AA437C9E95A3ED8CB8992352D9EAA9FB4689AF",
+  "name": "default-2026072610-universal-workplace-rules.apk",
+  "version": "2026.07.26.10",
+  "versionCode": 2026072610,
+  "notes": "Для каждого рабочего места добавлены универсальные правила разрядов: минимум и максимум для 7, 6, 5, 4 и 3 разрядов. Названия специальных должностей можно менять вручную, а их минимальное и максимальное количество настраивается отдельно для каждого рабочего места."
 }
