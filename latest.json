@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.24.06/default-2026072406-section-dropdown.apk",
-  "sha256": "53A9BB0CD129DB1719ABA3E3046D09AD5F3FA79B21F92EC79DF572C3015A7C0A",
-  "name": "default-2026072406-section-dropdown.apk",
-  "version": "2026.07.24.06",
-  "notes": "Выбор участка на странице рабочих мест упрощён: вместо отдельных карточек используется одно выпадающее поле со стрелкой. Пункты «Вся смена» и «Отсутствующие» удалены с этого уровня. После выбора участка сразу открываются его рабочие места."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.24.07/default-2026072407-hierarchy-dropdowns.apk",
+  "sha256": "0EAE5BB15DBED5421AEC6CDF88EB4F2DC23335F676E704693216AF5B75297151",
+  "name": "default-2026072407-hierarchy-dropdowns.apk",
+  "version": "2026.07.24.07",
+  "notes": "На странице рабочих мест убраны жёлтая сводная карточка, заголовок и отдельные карточки выбора. Подразделение, участок и рабочее место теперь выбираются последовательно из одного выпадающего поля со стрелкой."
 }
