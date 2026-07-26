@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.06/default-2026072606-section-direct-workplace.apk",
-  "sha256": "0FBFE6E59EBCEA8EAAA1F06942CC3F42DFAD89213943DE9BC05848DB6EB6F54F",
-  "name": "default-2026072606-section-direct-workplace.apk",
-  "version": "2026.07.26.06",
-  "notes": "После выбора участка сразу открывается первое рабочее место. Рабочие места показаны горизонтальными карточками, а ниже сразу отображаются кнопка добавления и список сотрудников."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.07/default-2026072607-monthly-all-workplaces.apk",
+  "sha256": "C89029485ED2B3EB8BEDFB39DE8073601931B0C513D14024A65BB26899EEA092",
+  "name": "default-2026072607-monthly-all-workplaces.apk",
+  "version": "2026.07.26.07",
+  "notes": "Исправлена общая статистика за месяц: она учитывает все рабочие места выбранного участка, а не только автоматически открытую первую карточку, например Печь 41."
 }
