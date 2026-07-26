@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.08/default-2026072608-shift-statistics-timeline.apk",
-  "sha256": "6C3F691279F1B220BBFF49B17E909D9DCCB1F89B49878DC1ADB3DF5759988C90",
-  "name": "default-2026072608-shift-statistics-timeline.apk",
-  "version": "2026.07.26.08",
-  "versionCode": 2026072608,
-  "notes": "Статистика по сменам отображается единым списком по датам без отдельного выбора смены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.09/default-2026072609-workplace-settings-rules.apk",
+  "sha256": "F6B335E7477EC92CC4C01F42F7F374F981AB036A48B43F5919964207610A9940",
+  "name": "default-2026072609-workplace-settings-rules.apk",
+  "version": "2026.07.26.09",
+  "versionCode": 2026072609,
+  "notes": "Из создания рабочего места убрано поле «Тип». Правила переводов объединены в одну настройку для рабочего места."
 }
