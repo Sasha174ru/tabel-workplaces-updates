@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.01/default-2026072601-statistics-dropdown.apk",
-  "sha256": "7572DCE8A1741EFE081F547CE2642F26C36D355CE1EFD97D46B6D8B765ED0FFB",
-  "name": "default-2026072601-statistics-dropdown.apk",
-  "version": "2026.07.26.01",
-  "notes": "Режим статистики теперь выбирается в одном поле со стрелкой: общая за месяц, по сменам, индивидуальная за месяц и больничный за месяц. Добавлен отдельный отчёт по больничным с количеством сотрудников, сменами и датами."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.02/default-2026072602-statistics-context.apk",
+  "sha256": "A33A5707C62FC60A48CB4447C6574887A5143BC713D6C89CD351CEA35060A4D8",
+  "name": "default-2026072602-statistics-context.apk",
+  "version": "2026.07.26.02",
+  "notes": "Из статистики убраны повторные поля выбора цеха, участка, бригады и рабочего места. Отчёты автоматически используют подразделение, участок, рабочее место и бригаду, выбранные при входе в смену."
 }
