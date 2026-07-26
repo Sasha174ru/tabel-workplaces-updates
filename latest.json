@@ -1,7 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.07/default-2026072607-monthly-all-workplaces.apk",
-  "sha256": "C89029485ED2B3EB8BEDFB39DE8073601931B0C513D14024A65BB26899EEA092",
-  "name": "default-2026072607-monthly-all-workplaces.apk",
-  "version": "2026.07.26.07",
-  "notes": "Исправлена общая статистика за месяц: она учитывает все рабочие места выбранного участка, а не только автоматически открытую первую карточку, например Печь 41."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.08/default-2026072608-shift-statistics-timeline.apk",
+  "sha256": "6C3F691279F1B220BBFF49B17E909D9DCCB1F89B49878DC1ADB3DF5759988C90",
+  "name": "default-2026072608-shift-statistics-timeline.apk",
+  "version": "2026.07.26.08",
+  "versionCode": 2026072608,
+  "notes": "Статистика по сменам отображается единым списком по датам без отдельного выбора смены."
 }
