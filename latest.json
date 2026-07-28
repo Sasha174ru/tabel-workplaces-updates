@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.28.03/default-2026072803-separate-form-sorting.apk",
-  "sha256": "921946413A6E25DD4094B3A1B229D0EA570E3D0B9E9FBD0314B4C5F8AB311146",
-  "name": "default-2026072803-separate-form-sorting.apk",
-  "version": "2026.07.28.03",
-  "versionCode": 2026072803,
-  "notes": "Для переводов, ремонта и разогрева, встречно-сменных и отпускных бланков добавлены отдельные настройки режима и направления сортировки."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.29.01/default-2026072901-settings-redesign.apk",
+  "sha256": "A447D1F66ED755ABD172A1EE3D383AAEF2571DD712213F04ACCB9C6FC88C305A",
+  "name": "default-2026072901-settings-redesign.apk",
+  "version": "2026.07.29.01",
+  "versionCode": 2026072901,
+  "notes": "Полностью упорядочено меню настроек: отдельные разделы для рабочих мест, людей, бланков, отпусков, правил и инструкций; улучшены навигация, мобильный интерфейс и безопасность опасных действий."
 }
