@@ -2,7 +2,7 @@
 
 ## Базовая релизная сборка
 
-Текущая основа проекта: `2026.07.28.01`.
+Текущая основа проекта: `2026.07.28.02`.
 
 Эту сборку считать стабильной базой. Все следующие правки делать от неё.
 
@@ -10,10 +10,10 @@ APK:
 `D:\Табель учёта рабочих мест\Андроид\Табель рабочих мест.apk`
 
 Ссылка обновления:
-`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.28.01/default-2026072801-rules-and-form-sorting.apk`
+`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.28.02/default-2026072802-form-sorting.apk`
 
 GitHub Release:
-`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.07.28.01`
+`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.07.28.02`
 
 ## Основные папки
 
@@ -171,7 +171,7 @@ Compress-Archive -LiteralPath 'D:\Табель учёта рабочих мес�
 - ссылка в `latest.json`;
 - установка APK на телефон.
 
-Релиз `2026.07.28.01` является единственной стабильной базой. Не удалять его, пока новая сборка не проверена и явно не назначена новой релизной основой.
+Релиз `2026.07.28.02` является единственной стабильной базой. Не удалять его, пока новая сборка не проверена и явно не назначена новой релизной основой.
 
 
 
