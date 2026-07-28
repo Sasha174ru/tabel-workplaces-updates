@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.28.02/default-2026072802-form-sorting.apk",
-  "sha256": "00EE287577784FD19B2A95CCAC6CEED0E04FB588EA8CCF5103FA57B2BCC945AF",
-  "name": "default-2026072802-form-sorting.apk",
-  "version": "2026.07.28.02",
-  "versionCode": 2026072802,
-  "notes": "Добавлена комбинированная сортировка бланков по алфавиту и дате, а также по рабочему месту и дате."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.28.03/default-2026072803-separate-form-sorting.apk",
+  "sha256": "921946413A6E25DD4094B3A1B229D0EA570E3D0B9E9FBD0314B4C5F8AB311146",
+  "name": "default-2026072803-separate-form-sorting.apk",
+  "version": "2026.07.28.03",
+  "versionCode": 2026072803,
+  "notes": "Для переводов, ремонта и разогрева, встречно-сменных и отпускных бланков добавлены отдельные настройки режима и направления сортировки."
 }
