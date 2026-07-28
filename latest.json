@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.26.11/default-2026072611-settings-dropdown.apk",
-  "sha256": "574F58C5A8018998780A77C2793CE29F0F76CB684AC4505DF5F8B9E6C2644049",
-  "name": "default-2026072611-settings-dropdown.apk",
-  "version": "2026.07.26.11",
-  "versionCode": 2026072611,
-  "notes": "Настройки собраны в единое меню выбора. При открытии списка доступны разделы: Экран, Тема, Отпуска, Статистика, Рабочие места, Администратор и О программе."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.28.01/default-2026072801-rules-and-form-sorting.apk",
+  "sha256": "F9E356FDE7BA2B93B3D814748AA709D8E48B475BBBC1C5188C88CAB4E498856B",
+  "name": "default-2026072801-rules-and-form-sorting.apk",
+  "version": "2026.07.28.01",
+  "versionCode": 2026072801,
+  "notes": "Добавлены расширенные правила приложения и сортировка бланков по дате, рабочему месту или алфавиту. Исправлены сортировка пустых строк и восстановление прокрутки после календаря отпусков."
 }
