@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.30.01/default-2026073001-subworker-statistics.apk",
-  "sha256": "D54A9CA9A237EA8C0592FAFBA34E26B6528BDFAF72FB7B11AD7E97F53B627A49",
-  "name": "default-2026073001-subworker-statistics.apk",
-  "version": "2026.07.30.01",
-  "versionCode": 2026073001,
-  "notes": "В статистике рабочих мест добавлена отдельная строка «Подработчик» сразу после «Пролётчика»."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.30.02/default-2026073002-special-statistics-counts.apk",
+  "sha256": "AB27F91355567D65280E517DF82371ADA10AEF142E8BD724778B77C180AA1152",
+  "name": "default-2026073002-special-statistics-counts.apk",
+  "version": "2026.07.30.02",
+  "versionCode": 2026073002,
+  "notes": "Исправлен подсчёт специальных работ: в индивидуальной статистике пролётчик, капремонт и подработчик теперь показываются по количеству смен."
 }
