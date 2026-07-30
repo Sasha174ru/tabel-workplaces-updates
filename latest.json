@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.29.01/default-2026072901-settings-redesign.apk",
-  "sha256": "A447D1F66ED755ABD172A1EE3D383AAEF2571DD712213F04ACCB9C6FC88C305A",
-  "name": "default-2026072901-settings-redesign.apk",
-  "version": "2026.07.29.01",
-  "versionCode": 2026072901,
-  "notes": "Полностью упорядочено меню настроек: отдельные разделы для рабочих мест, людей, бланков, отпусков, правил и инструкций; улучшены навигация, мобильный интерфейс и безопасность опасных действий."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.30.01/default-2026073001-subworker-statistics.apk",
+  "sha256": "D54A9CA9A237EA8C0592FAFBA34E26B6528BDFAF72FB7B11AD7E97F53B627A49",
+  "name": "default-2026073001-subworker-statistics.apk",
+  "version": "2026.07.30.01",
+  "versionCode": 2026073001,
+  "notes": "В статистике рабочих мест добавлена отдельная строка «Подработчик» сразу после «Пролётчика»."
 }
