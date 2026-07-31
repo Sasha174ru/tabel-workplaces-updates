@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.31.02/default-2026073102-special-hours-colors.apk",
-  "sha256": "C00F0A1CE75402357F98BE61F5BC4E02B03CB0D602E8920411A73DB56A6C9972",
-  "name": "default-2026073102-special-hours-colors.apk",
-  "version": "2026.07.31.02",
-  "versionCode": 2026073102,
-  "notes": "В статистике рабочих мест часы пролётчика, подработчика и капремонта выделяются соответствующими цветами на всех печах; нулевые значения остаются без подсветки."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.31.03/default-2026073103-structure-and-stat-colors.apk",
+  "sha256": "ECB3D85B1DA2003B1AEAF3B870F5E7B74E8C8F63006636437E6E8B1A665EE4D7",
+  "name": "default-2026073103-structure-and-stat-colors.apk",
+  "version": "2026.07.31.03",
+  "versionCode": 2026073103,
+  "notes": "В настройках подразделениям и рабочим местам можно назначать цвета; новые места наследуют цвет подразделения или получают свой. В статистике окрашиваются заголовки мест и целые строки специальных работ, а ремонт и его часы выделяются красным."
 }
