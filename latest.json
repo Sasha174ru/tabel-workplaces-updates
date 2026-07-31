@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.30.02/default-2026073002-special-statistics-counts.apk",
-  "sha256": "AB27F91355567D65280E517DF82371ADA10AEF142E8BD724778B77C180AA1152",
-  "name": "default-2026073002-special-statistics-counts.apk",
-  "version": "2026.07.30.02",
-  "versionCode": 2026073002,
-  "notes": "Исправлен подсчёт специальных работ: в индивидуальной статистике пролётчик, капремонт и подработчик теперь показываются по количеству смен."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.31.01/default-2026073101-department-deletion.apk",
+  "sha256": "1077A9830BCFD3A8341D4E747B35DCD9951A6A13E4A75980DFD5C1DF93625DD3",
+  "name": "default-2026073101-department-deletion.apk",
+  "version": "2026.07.31.01",
+  "versionCode": 2026073101,
+  "notes": "Исправлено удаление подразделений: Цех 2, Цех 5, РСЦ и пользовательские подразделения больше не возвращаются после удаления."
 }
