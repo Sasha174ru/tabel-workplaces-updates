@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.31.01/default-2026073101-department-deletion.apk",
-  "sha256": "1077A9830BCFD3A8341D4E747B35DCD9951A6A13E4A75980DFD5C1DF93625DD3",
-  "name": "default-2026073101-department-deletion.apk",
-  "version": "2026.07.31.01",
-  "versionCode": 2026073101,
-  "notes": "Исправлено удаление подразделений: Цех 2, Цех 5, РСЦ и пользовательские подразделения больше не возвращаются после удаления."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.31.02/default-2026073102-special-hours-colors.apk",
+  "sha256": "C00F0A1CE75402357F98BE61F5BC4E02B03CB0D602E8920411A73DB56A6C9972",
+  "name": "default-2026073102-special-hours-colors.apk",
+  "version": "2026.07.31.02",
+  "versionCode": 2026073102,
+  "notes": "В статистике рабочих мест часы пролётчика, подработчика и капремонта выделяются соответствующими цветами на всех печах; нулевые значения остаются без подсветки."
 }
