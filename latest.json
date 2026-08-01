@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.31.03/default-2026073103-structure-and-stat-colors.apk",
-  "sha256": "ECB3D85B1DA2003B1AEAF3B870F5E7B74E8C8F63006636437E6E8B1A665EE4D7",
-  "name": "default-2026073103-structure-and-stat-colors.apk",
-  "version": "2026.07.31.03",
-  "versionCode": 2026073103,
-  "notes": "В настройках подразделениям и рабочим местам можно назначать цвета; новые места наследуют цвет подразделения или получают свой. В статистике окрашиваются заголовки мест и целые строки специальных работ, а ремонт и его часы выделяются красным."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.31.04/default-2026073104-custom-special-roles.apk",
+  "sha256": "D5C0DA717F7EE19F48F682CF46ECAF8961288D749DE7EC16C34E710A5ECEA573",
+  "name": "default-2026073104-custom-special-roles.apk",
+  "version": "2026.07.31.04",
+  "versionCode": 2026073104,
+  "notes": "В настройках можно добавлять собственные специальные работы и должности, задавать им название и цвет, а нормы настраивать отдельно для каждого рабочего места. Роли синхронизируются между устройствами; архив сохраняет историю. Спецработы больше не учитываются одновременно как ремонт, разогрев или работа по среднему."
 }
