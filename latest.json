@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.07.31.04/default-2026073104-custom-special-roles.apk",
-  "sha256": "D5C0DA717F7EE19F48F682CF46ECAF8961288D749DE7EC16C34E710A5ECEA573",
-  "name": "default-2026073104-custom-special-roles.apk",
-  "version": "2026.07.31.04",
-  "versionCode": 2026073104,
-  "notes": "В настройках можно добавлять собственные специальные работы и должности, задавать им название и цвет, а нормы настраивать отдельно для каждого рабочего места. Роли синхронизируются между устройствами; архив сохраняет историю. Спецработы больше не учитываются одновременно как ремонт, разогрев или работа по среднему."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.01/default-2026080101-universal-special-roles.apk",
+  "sha256": "3EE14BC8D9C369DFDC571FA8CC29CF2F6A1B5551E1973EC3744E9771D755F69D",
+  "name": "default-2026080101-universal-special-roles.apk",
+  "version": "2026.08.01.01",
+  "versionCode": 2026080101,
+  "notes": "Спецработы и должности настраиваются отдельно для каждого подразделения. Их можно создавать, переименовывать, менять цвет, удалять и возвращать без потери старых смен и статистики."
 }
