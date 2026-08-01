@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.01/default-2026080101-universal-special-roles.apk",
-  "sha256": "3EE14BC8D9C369DFDC571FA8CC29CF2F6A1B5551E1973EC3744E9771D755F69D",
-  "name": "default-2026080101-universal-special-roles.apk",
-  "version": "2026.08.01.01",
-  "versionCode": 2026080101,
-  "notes": "Спецработы и должности настраиваются отдельно для каждого подразделения. Их можно создавать, переименовывать, менять цвет, удалять и возвращать без потери старых смен и статистики."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.02/default-2026080102-ceh7-workplaces-and-staff.apk",
+  "sha256": "636D6C344CB36B24E6C3FC30FEE4C2E50AB7DAA507AB10248E0A0E85D5F0182F",
+  "name": "default-2026080102-ceh7-workplaces-and-staff.apk",
+  "version": "2026.08.01.02",
+  "versionCode": 2026080102,
+  "notes": "Интерфейс упрощён для Цеха 7: настройки убраны со старта, лимиты перенесены в график отпусков, выбор рабочих мест переименован, добавлено создание нового места, а в меню сотрудников — должности и понятный фильтр по рабочим местам."
 }
