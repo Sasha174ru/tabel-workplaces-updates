@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.11/default-2026080111-vacation-status-one-line.apk",
-  "sha256": "8E95BFC55079F73566FE33A0FEA5A8160EE6604152A869E077C95174E450CC48",
-  "name": "default-2026080111-vacation-status-one-line.apk",
-  "version": "2026.08.01.11",
-  "versionCode": 2026080111,
-  "notes": "Статус Льготник в бланке отпусков выводится одной строкой без переноса."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.13/default-2026080113-vacation-columns.apk",
+  "sha256": "CF4304784655A00E41FA86B7CBE754676C432D3CE4692048BA9D29342C85EDA6",
+  "name": "default-2026080113-vacation-columns.apk",
+  "version": "2026.08.01.13",
+  "versionCode": 2026080113,
+  "notes": "Исправлен бланк графика отпусков: пустой предыдущий период без непонятного символа, выровнены колонки, ФИО помещается полностью, единый шрифт."
 }
