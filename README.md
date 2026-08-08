@@ -1,12 +1,12 @@
 # Табель рабочих мест - обновления
 
-Текущая релизная сборка: 2026.08.01.09.
+Текущая релизная сборка: 2026.08.01.10.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.09/default-2026080109-vacation-year-rows.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.10/default-2026080110-vacation-year-font.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.09/tabel-workplaces-pc-portable-2026080109-vacation-year-rows.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.10/tabel-workplaces-pc-portable-2026080110-vacation-year-font.zip
 
 Постоянная ссылка на актуальный APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk

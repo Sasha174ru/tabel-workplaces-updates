@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.09/default-2026080109-vacation-year-rows.apk",
-  "sha256": "2D322E400BC2CBC1EC9B7E3A7798CD3291FC44919BFAE85D5F24907ACA93FCA4",
-  "name": "default-2026080109-vacation-year-rows.apk",
-  "version": "2026.08.01.09",
-  "versionCode": 2026080109,
-  "notes": "В годовом бланке каждый период отпуска одного сотрудника выводится отдельной строкой, включая периоды разных месяцев."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.10/default-2026080110-vacation-year-font.apk",
+  "sha256": "FE0438D22A839AB000B13718FB245F81DE2C9F2A44FD0A6B13E1365EB5804CB5",
+  "name": "default-2026080110-vacation-year-font.apk",
+  "version": "2026.08.01.10",
+  "versionCode": 2026080110,
+  "notes": "Период отпуска в бланке выводится одной строкой, а год берётся из выбранного периода."
 }
