@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.13/default-2026080113-vacation-columns.apk",
-  "sha256": "CF4304784655A00E41FA86B7CBE754676C432D3CE4692048BA9D29342C85EDA6",
-  "name": "default-2026080113-vacation-columns.apk",
-  "version": "2026.08.01.13",
-  "versionCode": 2026080113,
-  "notes": "Исправлен бланк графика отпусков: пустой предыдущий период без непонятного символа, выровнены колонки, ФИО помещается полностью, единый шрифт."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.14/default-2026080114-vacation-overview.apk",
+  "sha256": "9BF1B9FF4792CD4731719BA7F610D87D12BE39632DB32CFA351506B0C655A2A9",
+  "name": "default-2026080114-vacation-overview.apk",
+  "version": "2026.08.01.14",
+  "versionCode": 2026080114,
+  "notes": "Во вкладке Сотрудники добавлен понятный список статусов отпусков: отгулял, предстоит, идёт сейчас, не распределён; добавлен план на следующий год."
 }
