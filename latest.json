@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.10/default-2026080110-vacation-year-font.apk",
-  "sha256": "FE0438D22A839AB000B13718FB245F81DE2C9F2A44FD0A6B13E1365EB5804CB5",
-  "name": "default-2026080110-vacation-year-font.apk",
-  "version": "2026.08.01.10",
-  "versionCode": 2026080110,
-  "notes": "Период отпуска в бланке выводится одной строкой, а год берётся из выбранного периода."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.11/default-2026080111-vacation-status-one-line.apk",
+  "sha256": "8E95BFC55079F73566FE33A0FEA5A8160EE6604152A869E077C95174E450CC48",
+  "name": "default-2026080111-vacation-status-one-line.apk",
+  "version": "2026.08.01.11",
+  "versionCode": 2026080111,
+  "notes": "Статус Льготник в бланке отпусков выводится одной строкой без переноса."
 }
