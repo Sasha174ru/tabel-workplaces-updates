@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.03/default-2026080103-positions-and-hiring.apk",
-  "sha256": "A20B23E61FE55802BE941E85FC1785DFF0C0758FE3C06A9D93370E383C088577",
-  "name": "default-2026080103-positions-and-hiring.apk",
-  "version": "2026.08.01.03",
-  "versionCode": 2026080103,
-  "notes": "Добавлена отдельная должность сотрудника при приёме и редактировании, колонка «Должность» после ФИО, упрощён график отпусков, а при новом приёме скрыты Цех 5, Цех 2 и РСЦ без изменения старых записей."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.05/default-2026080105-vacation-split.apk",
+  "sha256": "80B8D927F00BD87A8F5FF3ACF4CECA33E3C46A0C2568EF5D9C5E07DF35EC8236",
+  "name": "default-2026080105-vacation-split.apk",
+  "version": "2026.08.01.05",
+  "versionCode": 2026080105,
+  "notes": "Исправлена разбивка отпуска на части: выбранный сотрудник сохраняется при смене месяца, а следующую часть можно добавить отдельной кнопкой. Проверен пример июль 1–21 + август 1–14, обе части сохраняются (35 дней)."
 }
