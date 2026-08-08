@@ -1,12 +1,12 @@
 # Табель рабочих мест - обновления
 
-Текущая релизная сборка: 2026.08.01.06.
+Текущая релизная сборка: 2026.08.01.07.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.06/default-2026080106-badret-vacation-parts.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.07/default-2026080107-vacation-two-parts.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.06/tabel-workplaces-pc-portable-2026080106-badret-vacation-parts.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.07/tabel-workplaces-pc-portable-2026080107-vacation-two-parts.zip
 
 Постоянная ссылка на актуальный APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk

@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.06/default-2026080106-badret-vacation-parts.apk",
-  "sha256": "AF73E0CCAD95FAE137AAC7C2B78FA2FEBA8DDE36188EE0877D09D3C2B664FBEB",
-  "name": "default-2026080106-badret-vacation-parts.apk",
-  "version": "2026.08.01.06",
-  "versionCode": 2026080106,
-  "notes": "Исправлено слияние частей отпуска: июльские и августовские дни одного сотрудника сохраняются отдельными записями по стабильному ID. Проверен пример 22 + 14 дней."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.07/default-2026080107-vacation-two-parts.apk",
+  "sha256": "607C431948C0BE02459FDA99071B5E546916831052014CB50B86D67ABFDFFEB2",
+  "name": "default-2026080107-vacation-two-parts.apk",
+  "version": "2026.08.01.07",
+  "versionCode": 2026080107,
+  "notes": "При отображении отпуска показываются все части одного сотрудника за год: майская часть не исчезает после добавления августовской."
 }
