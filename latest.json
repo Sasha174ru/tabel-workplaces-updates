@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.37/default-2026080137-special-roles-delete-list.apk",
-  "sha256": "2E9EE83E2A5B053603D28A321C41F4B472D71A7F9AF0E42F8A04B0D967903993",
-  "name": "default-2026080137-special-roles-delete-list.apk",
-  "version": "2026.08.01.37",
-  "versionCode": 2026080137,
-  "notes": "В меню удаления всегда отображаются встроенные специальные работы."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.38/default-2026080138-mobile-staff-table-layout.apk",
+  "sha256": "F7F78670A9B247DC457D06F266CA0CDD8D7E3F3EE863DDFA88B3B03FA5A48FF4",
+  "name": "default-2026080138-mobile-staff-table-layout.apk",
+  "version": "2026.08.01.38",
+  "versionCode": 2026080138,
+  "notes": "Мобильная таблица штата выровнена: табельный номер, ФИО и должность читаются в одной строке."
 }
