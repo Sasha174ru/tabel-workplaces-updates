@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.26/default-2026080126-vacation-picker-footer-layout.apk",
-  "sha256": "48F1F3B2F005508AD1B5E69061B89581FD29002B2D3EFBF81036A20AB43639C4",
-  "name": "default-2026080126-vacation-picker-footer-layout.apk",
-  "version": "2026.08.01.26",
-  "versionCode": 2026080126,
-  "notes": "Кнопка добавления отпуска слева, отмена справа; нижняя легенда День/Ночь удалена."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.27/default-2026080127-vacation-date-toggle.apk",
+  "sha256": "96A327D085FA7EA4142BD20A3149BEAEA79DCE236D1651C9453DFE5957FEE5AA",
+  "name": "default-2026080127-vacation-date-toggle.apk",
+  "version": "2026.08.01.27",
+  "versionCode": 2026080127,
+  "notes": "Повторное нажатие на выделенную дату снимает выбор и позволяет назначить период заново."
 }
