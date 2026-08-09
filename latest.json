@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.38/default-2026080138-mobile-staff-table-layout.apk",
-  "sha256": "F7F78670A9B247DC457D06F266CA0CDD8D7E3F3EE863DDFA88B3B03FA5A48FF4",
-  "name": "default-2026080138-mobile-staff-table-layout.apk",
-  "version": "2026.08.01.38",
-  "versionCode": 2026080138,
-  "notes": "Мобильная таблица штата выровнена: табельный номер, ФИО и должность читаются в одной строке."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.39/default-2026080139-horizontal-staff-scroll.apk",
+  "sha256": "32E2F7DDAD7CA37B299B070FA7848D03F024E9883E5E091144445E6E6C144DAE",
+  "name": "default-2026080139-horizontal-staff-scroll.apk",
+  "version": "2026.08.01.39",
+  "versionCode": 2026080139,
+  "notes": "В мобильной таблице штата добавлена горизонтальная прокрутка пальцем для просмотра всей строки и всех колонок."
 }
