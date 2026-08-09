@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.24/default-2026080124-vacation-limits-all-by-default.apk",
-  "sha256": "FB5C8A25AB49E9FD8CDAB04FDBEC9F47218F690AE83EC4C5E1E0155C91AED597",
-  "name": "default-2026080124-vacation-limits-all-by-default.apk",
-  "version": "2026.08.01.24",
-  "versionCode": 2026080124,
-  "notes": "В лимитах отпусков по умолчанию выбраны все годы, все бригады и все месяцы."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.25/default-2026080125-vacation-status-split.apk",
+  "sha256": "D922724B1C0EE534067D2D1879ED0358592EE9B603097D11A8E3D471E00C90A1",
+  "name": "default-2026080125-vacation-status-split.apk",
+  "version": "2026.08.01.25",
+  "versionCode": 2026080125,
+  "notes": "Обзор отпусков разделён на отдельные категории: в отпуске, предстоит, уже отгуляли и не распределено."
 }

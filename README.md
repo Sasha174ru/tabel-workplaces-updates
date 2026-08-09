@@ -1,12 +1,12 @@
 # Табель рабочих мест — обновления
 
-Текущая релизная сборка: 2026.08.01.24.
+Текущая релизная сборка: 2026.08.01.25.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.24/default-2026080124-vacation-limits-all-by-default.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.25/default-2026080125-vacation-status-split.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.24/tabel-workplaces-pc-portable-2026080124-vacation-limits-all-by-default.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.25/tabel-workplaces-pc-portable-2026080125-vacation-status-split.zip
 
 Постоянная ссылка на актуальный APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
@@ -15,4 +15,4 @@ https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
 
 Инструкция для будущих правок в Codex: `CODEX_INSTRUCTIONS.md`.
 
-2026.08.01.24 — в лимитах отпусков по умолчанию выбраны все годы, все бригады и все месяцы.
+2026.08.01.25 — обзор отпусков разделён на категории «В отпуске», «Предстоит», «Уже отгуляли» и «Не распределено».
