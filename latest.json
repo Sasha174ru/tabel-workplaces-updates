@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.16/default-2026080116-vacation-year-select.apk",
-  "sha256": "E1B4F07A2C545B1A9C11A33A853C673383F3215A3129F8B5E75508630567AC8F",
-  "name": "default-2026080116-vacation-year-select.apk",
-  "version": "2026.08.01.16",
-  "versionCode": 2026080116,
-  "notes": "В разделе Загрузка по месяцам добавлен выпадающий список годов с одной стрелкой вниз."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.19/default-2026080119-vacation-month-picker.apk",
+  "sha256": "BDF637E91921DC90810458682D840F91AC1A0E594236B7DD7578D0600E6DB329",
+  "name": "default-2026080119-vacation-month-picker.apk",
+  "version": "2026.08.01.19",
+  "versionCode": 2026080119,
+  "notes": "Убрана видимая кнопка Выбрать период. Период отпуска выбирается после нажатия нужного месяца в загрузке по месяцам."
 }

@@ -1,12 +1,12 @@
 # Табель рабочих мест — обновления
 
-Текущая релизная сборка: 2026.08.01.16.
+Текущая релизная сборка: 2026.08.01.19.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.16/default-2026080116-vacation-year-select.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.19/default-2026080119-vacation-month-picker.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.16/tabel-workplaces-pc-portable-2026080116-vacation-year-select.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.19/tabel-workplaces-pc-portable-2026080119-vacation-month-picker.zip
 
 Постоянная ссылка на актуальный APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
@@ -15,4 +15,4 @@ https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
 
 Инструкция для будущих правок в Codex: `CODEX_INSTRUCTIONS.md`.
 
-2026.08.01.16 — выпадающий выбор года для загрузки по месяцам.
+2026.08.01.19 — выбор периода отпуска запускается нажатием месяца.
