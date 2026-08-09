@@ -1,12 +1,12 @@
 # Табель рабочих мест — обновления
 
-Текущая релизная сборка: 2026.08.01.22.
+Текущая релизная сборка: 2026.08.01.23.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.22/default-2026080122-vacation-picker-add-closes.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.23/default-2026080123-vacation-delete-single-part.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.22/tabel-workplaces-pc-portable-2026080122-vacation-picker-add-closes.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.23/tabel-workplaces-pc-portable-2026080123-vacation-delete-single-part.zip
 
 Постоянная ссылка на актуальный APK:
 https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
@@ -15,4 +15,4 @@ https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
 
 Инструкция для будущих правок в Codex: `CODEX_INSTRUCTIONS.md`.
 
-2026.08.01.22 — после успешного добавления отпуска календарь закрывается, а список обновляется.
+2026.08.01.23 — удаляется только выбранная часть отпуска, остальные части сотрудника сохраняются.

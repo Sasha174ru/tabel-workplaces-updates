@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.22/default-2026080122-vacation-picker-add-closes.apk",
-  "sha256": "E43F7F592983D3A4AED7F1EF30DFEFF43F0B0B9C786A24F1999D523318268C35",
-  "name": "default-2026080122-vacation-picker-add-closes.apk",
-  "version": "2026.08.01.22",
-  "versionCode": 2026080122,
-  "notes": "После успешного добавления отпуска календарь закрывается, а список обновляется. При ошибке календарь остаётся открытым."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.23/default-2026080123-vacation-delete-single-part.apk",
+  "sha256": "B9736CD471F30DCF6A9456AF7DD2B054CEC23045E66E22E7554FC0B6EACCB28C",
+  "name": "default-2026080123-vacation-delete-single-part.apk",
+  "version": "2026.08.01.23",
+  "versionCode": 2026080123,
+  "notes": "Исправлено удаление частей отпуска: удаляется только выбранный период, остальные части сохраняются."
 }
