@@ -2,7 +2,7 @@
 
 ## Базовая релизная сборка
 
-Текущая основа проекта: `2026.08.01.40`.
+Текущая основа проекта: `2026.08.01.41`.
 
 Эту сборку считать стабильной базой. Все следующие правки делать от неё.
 
@@ -10,10 +10,10 @@ APK:
 `D:\Табель учёта рабочих мест\Андроид\Табель рабочих мест.apk`
 
 Ссылка обновления:
-`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.40/default-2026080140-update-check-fix.apk`
+`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.41/default-2026080141-staff-row-actions-right.apk`
 
 GitHub Release:
-`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.08.01.40`
+`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.08.01.41`
 
 ## Основные папки
 
