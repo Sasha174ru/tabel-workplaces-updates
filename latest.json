@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.14/default-2026080114-vacation-overview.apk",
-  "sha256": "9BF1B9FF4792CD4731719BA7F610D87D12BE39632DB32CFA351506B0C655A2A9",
-  "name": "default-2026080114-vacation-overview.apk",
-  "version": "2026.08.01.14",
-  "versionCode": 2026080114,
-  "notes": "Во вкладке Сотрудники добавлен понятный список статусов отпусков: отгулял, предстоит, идёт сейчас, не распределён; добавлен план на следующий год."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.16/default-2026080116-vacation-year-select.apk",
+  "sha256": "E1B4F07A2C545B1A9C11A33A853C673383F3215A3129F8B5E75508630567AC8F",
+  "name": "default-2026080116-vacation-year-select.apk",
+  "version": "2026.08.01.16",
+  "versionCode": 2026080116,
+  "notes": "В разделе Загрузка по месяцам добавлен выпадающий список годов с одной стрелкой вниз."
 }
