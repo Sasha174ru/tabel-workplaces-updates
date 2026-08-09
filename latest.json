@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.23/default-2026080123-vacation-delete-single-part.apk",
-  "sha256": "B9736CD471F30DCF6A9456AF7DD2B054CEC23045E66E22E7554FC0B6EACCB28C",
-  "name": "default-2026080123-vacation-delete-single-part.apk",
-  "version": "2026.08.01.23",
-  "versionCode": 2026080123,
-  "notes": "Исправлено удаление частей отпуска: удаляется только выбранный период, остальные части сохраняются."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.24/default-2026080124-vacation-limits-all-by-default.apk",
+  "sha256": "FB5C8A25AB49E9FD8CDAB04FDBEC9F47218F690AE83EC4C5E1E0155C91AED597",
+  "name": "default-2026080124-vacation-limits-all-by-default.apk",
+  "version": "2026.08.01.24",
+  "versionCode": 2026080124,
+  "notes": "В лимитах отпусков по умолчанию выбраны все годы, все бригады и все месяцы."
 }

@@ -2,7 +2,7 @@
 
 ## Базовая релизная сборка
 
-Текущая основа проекта: `2026.08.01.23`.
+Текущая основа проекта: `2026.08.01.24`.
 
 Эту сборку считать стабильной базой. Все следующие правки делать от неё.
 
@@ -10,10 +10,10 @@ APK:
 `D:\Табель учёта рабочих мест\Андроид\Табель рабочих мест.apk`
 
 Ссылка обновления:
-`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.23/default-2026080123-vacation-delete-single-part.apk`
+`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.24/default-2026080124-vacation-limits-all-by-default.apk`
 
 GitHub Release:
-`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.08.01.23`
+`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.08.01.24`
 
 ## Основные папки
 
