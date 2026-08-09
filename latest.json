@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.28/default-2026080128-vacation-previous-period-blank.apk",
-  "sha256": "CB99429AF8C5958798D0C5F9E193F2639B2C14AA3AF1491CF7933BD44DB1836B",
-  "name": "default-2026080128-vacation-previous-period-blank.apk",
-  "version": "2026.08.01.28",
-  "versionCode": 2026080128,
-  "notes": "Пустая графа периода предыдущего отпуска теперь без прочерка."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.29/default-2026080129-vacation-current-next-year-filled-pages.apk",
+  "sha256": "2FDAF2FFB32AB43A0E798A6DB317CAD9EB6B862D7887A4E3762FA59E510D9DF2",
+  "name": "default-2026080129-vacation-current-next-year-filled-pages.apk",
+  "version": "2026.08.01.29",
+  "versionCode": 2026080129,
+  "notes": "Графики отпусков за выбранный и следующий год; страницы формируются по заполненности."
 }
