@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.29/default-2026080129-vacation-current-next-year-filled-pages.apk",
-  "sha256": "2FDAF2FFB32AB43A0E798A6DB317CAD9EB6B862D7887A4E3762FA59E510D9DF2",
-  "name": "default-2026080129-vacation-current-next-year-filled-pages.apk",
-  "version": "2026.08.01.29",
-  "versionCode": 2026080129,
-  "notes": "Графики отпусков за выбранный и следующий год; страницы формируются по заполненности."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.30/default-2026080130-vacation-number-heading-one-line.apk",
+  "sha256": "6EFD4D1F0264EA832D86CA2F92955F0B9540DFFD420A990F92F770993AAFB9F1",
+  "name": "default-2026080130-vacation-number-heading-one-line.apk",
+  "version": "2026.08.01.30",
+  "versionCode": 2026080130,
+  "notes": "Заголовок № п/п в печатных бланках отображается в одну строку."
 }
