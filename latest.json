@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.21/default-2026080121-vacation-picker-stays-open.apk",
-  "sha256": "F0DA5D261B11A261E7366944B6665AEC591C9DDC663391A7564AE2F602417EBC",
-  "name": "default-2026080121-vacation-picker-stays-open.apk",
-  "version": "2026.08.01.21",
-  "versionCode": 2026080121,
-  "notes": "После выбора второй даты календарь остаётся открытым, кнопка Добавить отпуск доступна внутри окна."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.22/default-2026080122-vacation-picker-add-closes.apk",
+  "sha256": "E43F7F592983D3A4AED7F1EF30DFEFF43F0B0B9C786A24F1999D523318268C35",
+  "name": "default-2026080122-vacation-picker-add-closes.apk",
+  "version": "2026.08.01.22",
+  "versionCode": 2026080122,
+  "notes": "После успешного добавления отпуска календарь закрывается, а список обновляется. При ошибке календарь остаётся открытым."
 }
