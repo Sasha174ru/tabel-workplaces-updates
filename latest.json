@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.41/default-2026080141-staff-row-actions-right.apk",
-  "sha256": "56738BFBA36476542C3A490D5BB9DB8E7874704A0D57583B5923715AB89725F1",
-  "name": "default-2026080141-staff-row-actions-right.apk",
-  "version": "2026.08.01.41",
-  "versionCode": 2026080141,
-  "notes": "На телефоне статус и кнопки редактирования/увольнения перенесены в правый конец строки."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.43/default-2026080143-clean-hidden-controls.apk",
+  "sha256": "34C62ED205C3BBA296446C358DB57C97C7A1805B6059DA03FDA1F306C75433CD",
+  "name": "default-2026080143-clean-hidden-controls.apk",
+  "version": "2026.08.01.43",
+  "versionCode": 2026080143,
+  "notes": "Удалены дублирующие скрытые элементы интерфейса; сохранены только служебные панели календаря, статистики и управления."
 }
