@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.43/default-2026080143-clean-hidden-controls.apk",
-  "sha256": "34C62ED205C3BBA296446C358DB57C97C7A1805B6059DA03FDA1F306C75433CD",
-  "name": "default-2026080143-clean-hidden-controls.apk",
-  "version": "2026.08.01.43",
-  "versionCode": 2026080143,
-  "notes": "Удалены дублирующие скрытые элементы интерфейса; сохранены только служебные панели календаря, статистики и управления."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.44/default-2026080144-start-settings.apk",
+  "sha256": "FAB5B2669AACAD9BB71EFB2077150A575BF537D724299FEC631C89203A5D1837",
+  "name": "default-2026080144-start-settings.apk",
+  "version": "2026.08.01.44",
+  "versionCode": 2026080144,
+  "notes": "На стартовом экране добавлены настройки с вкладками рабочих мест и должностей."
 }
