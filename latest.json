@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.30/default-2026080130-vacation-number-heading-one-line.apk",
-  "sha256": "6EFD4D1F0264EA832D86CA2F92955F0B9540DFFD420A990F92F770993AAFB9F1",
-  "name": "default-2026080130-vacation-number-heading-one-line.apk",
-  "version": "2026.08.01.30",
-  "versionCode": 2026080130,
-  "notes": "Заголовок № п/п в печатных бланках отображается в одну строку."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.33/default-2026080133-staff-position-create.apk",
+  "sha256": "C5893C8AB8EDD4F4DB94B8261EDF9340273D634360815B8B1B00A5D92B5BD855",
+  "name": "default-2026080133-staff-position-create.apk",
+  "version": "2026.08.01.33",
+  "versionCode": 2026080133,
+  "notes": "В фильтре должности добавлено создание новой должности."
 }
