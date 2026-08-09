@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.35/default-2026080135-workplace-position-delete.apk",
-  "sha256": "E3AF6FD1B2494FCAE5E69A0478E7C9C17D55773F84A72F7235FF867248EC2319",
-  "name": "default-2026080135-workplace-position-delete.apk",
-  "version": "2026.08.01.35",
-  "versionCode": 2026080135,
-  "notes": "В меню рабочих мест и должностей добавлены действия удаления с защитами."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.36/default-2026080136-delete-builtins-and-special-roles.apk",
+  "sha256": "D4989505ED07ED30E3C98D15402B05C81EEB65ED3590535F38561792EF84389A",
+  "name": "default-2026080136-delete-builtins-and-special-roles.apk",
+  "version": "2026.08.01.36",
+  "versionCode": 2026080136,
+  "notes": "В меню удаления отображаются встроенные должности и специальные работы."
 }

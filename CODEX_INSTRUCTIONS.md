@@ -2,7 +2,7 @@
 
 ## Базовая релизная сборка
 
-Текущая основа проекта: `2026.08.01.35`.
+Текущая основа проекта: `2026.08.01.36`.
 
 Эту сборку считать стабильной базой. Все следующие правки делать от неё.
 
@@ -10,10 +10,10 @@ APK:
 `D:\Табель учёта рабочих мест\Андроид\Табель рабочих мест.apk`
 
 Ссылка обновления:
-`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.35/default-2026080135-workplace-position-delete.apk`
+`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.36/default-2026080136-delete-builtins-and-special-roles.apk`
 
 GitHub Release:
-`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.08.01.35`
+`https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.08.01.36`
 
 ## Основные папки
 
