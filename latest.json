@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.39/default-2026080139-horizontal-staff-scroll.apk",
-  "sha256": "32E2F7DDAD7CA37B299B070FA7848D03F024E9883E5E091144445E6E6C144DAE",
-  "name": "default-2026080139-horizontal-staff-scroll.apk",
-  "version": "2026.08.01.39",
-  "versionCode": 2026080139,
-  "notes": "В мобильной таблице штата добавлена горизонтальная прокрутка пальцем для просмотра всей строки и всех колонок."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.40/default-2026080140-update-check-fix.apk",
+  "sha256": "5E59BCC09F689F5FD9B8FE1585B4E82F574EEB1303DCD2762C70D1E358DEDE32",
+  "name": "default-2026080140-update-check-fix.apk",
+  "version": "2026.08.01.40",
+  "versionCode": 2026080140,
+  "notes": "Исправлена проверка SHA-256 при скачивании обновления APK; горизонтальная прокрутка таблицы штата сохранена."
 }
