@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.25/default-2026080125-vacation-status-split.apk",
-  "sha256": "D922724B1C0EE534067D2D1879ED0358592EE9B603097D11A8E3D471E00C90A1",
-  "name": "default-2026080125-vacation-status-split.apk",
-  "version": "2026.08.01.25",
-  "versionCode": 2026080125,
-  "notes": "Обзор отпусков разделён на отдельные категории: в отпуске, предстоит, уже отгуляли и не распределено."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.26/default-2026080126-vacation-picker-footer-layout.apk",
+  "sha256": "48F1F3B2F005508AD1B5E69061B89581FD29002B2D3EFBF81036A20AB43639C4",
+  "name": "default-2026080126-vacation-picker-footer-layout.apk",
+  "version": "2026.08.01.26",
+  "versionCode": 2026080126,
+  "notes": "Кнопка добавления отпуска слева, отмена справа; нижняя легенда День/Ночь удалена."
 }
