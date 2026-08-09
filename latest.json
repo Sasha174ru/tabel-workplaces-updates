@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.27/default-2026080127-vacation-date-toggle.apk",
-  "sha256": "96A327D085FA7EA4142BD20A3149BEAEA79DCE236D1651C9453DFE5957FEE5AA",
-  "name": "default-2026080127-vacation-date-toggle.apk",
-  "version": "2026.08.01.27",
-  "versionCode": 2026080127,
-  "notes": "Повторное нажатие на выделенную дату снимает выбор и позволяет назначить период заново."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.28/default-2026080128-vacation-previous-period-blank.apk",
+  "sha256": "CB99429AF8C5958798D0C5F9E193F2639B2C14AA3AF1491CF7933BD44DB1836B",
+  "name": "default-2026080128-vacation-previous-period-blank.apk",
+  "version": "2026.08.01.28",
+  "versionCode": 2026080128,
+  "notes": "Пустая графа периода предыдущего отпуска теперь без прочерка."
 }
