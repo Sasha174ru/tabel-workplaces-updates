@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.36/default-2026080136-delete-builtins-and-special-roles.apk",
-  "sha256": "D4989505ED07ED30E3C98D15402B05C81EEB65ED3590535F38561792EF84389A",
-  "name": "default-2026080136-delete-builtins-and-special-roles.apk",
-  "version": "2026.08.01.36",
-  "versionCode": 2026080136,
-  "notes": "В меню удаления отображаются встроенные должности и специальные работы."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.37/default-2026080137-special-roles-delete-list.apk",
+  "sha256": "2E9EE83E2A5B053603D28A321C41F4B472D71A7F9AF0E42F8A04B0D967903993",
+  "name": "default-2026080137-special-roles-delete-list.apk",
+  "version": "2026.08.01.37",
+  "versionCode": 2026080137,
+  "notes": "В меню удаления всегда отображаются встроенные специальные работы."
 }
