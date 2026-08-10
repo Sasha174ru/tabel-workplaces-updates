@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.44/default-2026080144-start-settings.apk",
-  "sha256": "FAB5B2669AACAD9BB71EFB2077150A575BF537D724299FEC631C89203A5D1837",
-  "name": "default-2026080144-start-settings.apk",
-  "version": "2026.08.01.44",
-  "versionCode": 2026080144,
-  "notes": "На стартовом экране добавлены настройки с вкладками рабочих мест и должностей."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.45/default-2026080145-start-settings-simple.apk",
+  "sha256": "E465C5B49C6C304DE3597284E3E4C95D8F74ED91A7802001FD4D6D05A9E5DFED",
+  "name": "default-2026080145-start-settings-simple.apk",
+  "version": "2026.08.01.45",
+  "versionCode": 2026080145,
+  "notes": "Экран настроек упрощён до двух кнопок: рабочие места и должности."
 }
