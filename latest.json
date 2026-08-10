@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.46/default-2026080146-colors-sorting.apk",
-  "sha256": "C7C12687E974E69D4571EDD64348F9077E56460280709028B8B01D841D61A7FE",
-  "name": "default-2026080146-colors-sorting.apk",
-  "version": "2026.08.01.46",
-  "versionCode": 2026080146,
-  "notes": "Из фильтров сотрудников убраны дублирующие пункты создания и удаления."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.48/default-2026080148-settings-buttons.apk",
+  "sha256": "3BAEE99CF937A8382164F38DC739CC611EFA9D69209C1727A511BDB16C27590D",
+  "name": "default-2026080148-settings-buttons.apk",
+  "version": "2026.08.01.48",
+  "versionCode": 2026080148,
+  "notes": "Выпадающее меню настроек заменено отдельными кнопками разделов."
 }
