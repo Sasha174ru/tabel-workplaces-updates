@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.48/default-2026080148-settings-buttons.apk",
-  "sha256": "3BAEE99CF937A8382164F38DC739CC611EFA9D69209C1727A511BDB16C27590D",
-  "name": "default-2026080148-settings-buttons.apk",
-  "version": "2026.08.01.48",
-  "versionCode": 2026080148,
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.49/default-2026080149-settings-no-workplaces-people.apk",
+  "sha256": "88563B597B16AD590AFB6DCABD9C1BC83D9B3D221FC348946D6D9A8EECCF2033",
+  "name": "default-2026080149-settings-no-workplaces-people.apk",
+  "version": "2026.08.01.49",
+  "versionCode": 2026080149,
   "notes": "Выпадающее меню настроек заменено отдельными кнопками разделов."
 }
