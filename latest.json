@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.45/default-2026080145-start-settings-simple.apk",
-  "sha256": "E465C5B49C6C304DE3597284E3E4C95D8F74ED91A7802001FD4D6D05A9E5DFED",
-  "name": "default-2026080145-start-settings-simple.apk",
-  "version": "2026.08.01.45",
-  "versionCode": 2026080145,
-  "notes": "Экран настроек упрощён до двух кнопок: рабочие места и должности."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.46/default-2026080146-colors-sorting.apk",
+  "sha256": "C7C12687E974E69D4571EDD64348F9077E56460280709028B8B01D841D61A7FE",
+  "name": "default-2026080146-colors-sorting.apk",
+  "version": "2026.08.01.46",
+  "versionCode": 2026080146,
+  "notes": "Из фильтров сотрудников убраны дублирующие пункты создания и удаления."
 }
