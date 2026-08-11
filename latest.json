@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.50/default-2026080150-settings-colors-only.apk",
-  "sha256": "8C7D7DB0B0FFD77587986F346D206D6124FB50A2483940A7527054F402D30918",
-  "name": "default-2026080150-settings-colors-only.apk",
-  "version": "2026.08.01.50",
-  "versionCode": 2026080150,
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.52/default-2026080152-color-designations-menu.apk",
+  "sha256": "92A562D83D4D8558D8E47124111549812ED20C1B3659343F6B42552A857B394B",
+  "name": "default-2026080152-color-designations-menu.apk",
+  "version": "2026.08.01.52",
+  "versionCode": 2026080152,
   "notes": "Выпадающее меню настроек заменено отдельными кнопками разделов."
 }
