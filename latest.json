@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.49/default-2026080149-settings-no-workplaces-people.apk",
-  "sha256": "88563B597B16AD590AFB6DCABD9C1BC83D9B3D221FC348946D6D9A8EECCF2033",
-  "name": "default-2026080149-settings-no-workplaces-people.apk",
-  "version": "2026.08.01.49",
-  "versionCode": 2026080149,
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.50/default-2026080150-settings-colors-only.apk",
+  "sha256": "8C7D7DB0B0FFD77587986F346D206D6124FB50A2483940A7527054F402D30918",
+  "name": "default-2026080150-settings-colors-only.apk",
+  "version": "2026.08.01.50",
+  "versionCode": 2026080150,
   "notes": "Выпадающее меню настроек заменено отдельными кнопками разделов."
 }
