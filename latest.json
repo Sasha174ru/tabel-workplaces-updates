@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.58/default-2026080158-no-colors-in-rules.apk",
-  "sha256": "8AC87667F8075221EABCFEC65F0FCDCD9DA32AC7884C271591333E05D534DA07",
-  "name": "default-2026080158-no-colors-in-rules.apk",
-  "version": "2026.08.01.58",
-  "versionCode": 2026080158,
-  "notes": "Цветовые поля убраны из норм рабочего места; цвета настраиваются только в разделе «Цветовые обозначения»."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.59/default-2026080159-no-ready-forms-button.apk",
+  "sha256": "0C3D350EC9CCF977A3BB5C80B41924996D66A1AA0D6E75BFA296D2242170A717",
+  "name": "default-2026080159-no-ready-forms-button.apk",
+  "version": "2026.08.01.59",
+  "versionCode": 2026080159,
+  "notes": "Кнопка «Открыть готовые бланки» удалена из настроек сортировки; бланки доступны в основном меню."
 }
