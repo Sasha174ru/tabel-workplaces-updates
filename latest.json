@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.54/default-2026080154-statistics-focused.apk",
-  "sha256": "05831BEAC8A0A3485DEAEF4F3B68FB5D554CE4779C40E696EACAB42A6A9AE5F6",
-  "name": "default-2026080154-statistics-focused.apk",
-  "version": "2026.08.01.54",
-  "versionCode": 2026080154,
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.55/default-2026080155-remove-instructions-appearance.apk",
+  "sha256": "12424E59E8FE8EA74F4FDA17D5082AD45E2EF9969C660D8646EA08A134D6EDCC",
+  "name": "default-2026080155-remove-instructions-appearance.apk",
+  "version": "2026.08.01.55",
+  "versionCode": 2026080155,
   "notes": "Statistics settings now open without the unrelated settings menu."
 }
