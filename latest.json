@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.56/default-2026080156-rules-only-settings.apk",
-  "sha256": "85371D2806F2DFE7C1E171C86C1ED2D9EA301F9041BAC955CF54DE56DC042D2B",
-  "name": "default-2026080156-rules-only-settings.apk",
-  "version": "2026.08.01.56",
-  "versionCode": 2026080156,
-  "notes": "Statistics settings now open without the unrelated settings menu."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.57/default-2026080157-fixed-structure.apk",
+  "sha256": "420EE1B47A48058AB5EA195DB24B5D98D573B82FD356676F75DF1F3B1140155A",
+  "name": "default-2026080157-fixed-structure.apk",
+  "version": "2026.08.01.57",
+  "versionCode": 2026080157,
+  "notes": "Оставлены только печи 41–48, разливочная машина, штатные должности и встроенные спецработы."
 }
