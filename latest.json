@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.55/default-2026080155-remove-instructions-appearance.apk",
-  "sha256": "12424E59E8FE8EA74F4FDA17D5082AD45E2EF9969C660D8646EA08A134D6EDCC",
-  "name": "default-2026080155-remove-instructions-appearance.apk",
-  "version": "2026.08.01.55",
-  "versionCode": 2026080155,
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.56/default-2026080156-rules-only-settings.apk",
+  "sha256": "85371D2806F2DFE7C1E171C86C1ED2D9EA301F9041BAC955CF54DE56DC042D2B",
+  "name": "default-2026080156-rules-only-settings.apk",
+  "version": "2026.08.01.56",
+  "versionCode": 2026080156,
   "notes": "Statistics settings now open without the unrelated settings menu."
 }
