@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.57/default-2026080157-fixed-structure.apk",
-  "sha256": "420EE1B47A48058AB5EA195DB24B5D98D573B82FD356676F75DF1F3B1140155A",
-  "name": "default-2026080157-fixed-structure.apk",
-  "version": "2026.08.01.57",
-  "versionCode": 2026080157,
-  "notes": "Оставлены только печи 41–48, разливочная машина, штатные должности и встроенные спецработы."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.58/default-2026080158-no-colors-in-rules.apk",
+  "sha256": "8AC87667F8075221EABCFEC65F0FCDCD9DA32AC7884C271591333E05D534DA07",
+  "name": "default-2026080158-no-colors-in-rules.apk",
+  "version": "2026.08.01.58",
+  "versionCode": 2026080158,
+  "notes": "Цветовые поля убраны из норм рабочего места; цвета настраиваются только в разделе «Цветовые обозначения»."
 }
