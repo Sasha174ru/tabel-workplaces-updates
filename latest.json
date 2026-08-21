@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.61/default-2026080161-special-work-statistics.apk",
-  "sha256": "5EB2F1EAF983A0CACEF30B183B499345F81D093CBEC97F98F2A0884E5C03B4F4",
-  "name": "default-2026080161-special-work-statistics.apk",
-  "version": "2026.08.01.61",
-  "versionCode": 2026080161,
-  "notes": "В статистике добавлены отдельные виды: Пролётчик, Подработчик и Капремонт. Для каждого показываются сотрудники, смены, часы и даты работ за выбранный месяц."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.62/default-2026080162-android-lint-clean.apk",
+  "sha256": "ECE4D7E74BA82FE51D0E88CD82B206639836C6DF6DD28DBD49DB8D204821E1EA",
+  "name": "default-2026080162-android-lint-clean.apk",
+  "version": "2026.08.01.62",
+  "versionCode": 2026080162,
+  "notes": "Техническое обновление Android: устранены все 8 предупреждений проверки lint, обновлена совместимая системная библиотека и иконка для новых тем Android. Рабочие данные и логика программы не изменялись."
 }
