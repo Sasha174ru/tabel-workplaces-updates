@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.63/default-2026080163-vacation-staff-simple.apk",
-  "sha256": "125493A17BCA2083D27C53E56D078D4EE91FB596CEEB00ABCCB045D221559510",
-  "name": "default-2026080163-vacation-staff-simple.apk",
-  "version": "2026.08.01.63",
-  "versionCode": 2026080163,
-  "notes": "Во вкладке отпусков оставлена только настройка дней и распределения с таблицей сотрудников. Верхний обзор со сводками и планом следующего года убран."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.64/default-2026080164-vacation-staff-all-brigades.apk",
+  "sha256": "B17C1291B0256EFE33E1416BFE65EFB9880E5A5C2EBFAF75843E3DAC1B04E3B6",
+  "name": "default-2026080164-vacation-staff-all-brigades.apk",
+  "version": "2026.08.01.64",
+  "versionCode": 2026080164,
+  "notes": "Во вкладке сотрудников графика отпусков при отсутствии выбранной бригады показывается весь штат. При выборе бригады остаются только её сотрудники."
 }
