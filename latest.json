@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.68/default-2026080168-vacation-table-header-single-line.apk",
-  "sha256": "1A9D9A0D267FDDF51115B815A3604B80DA5617FC0F85A6A26020331C77C00BF7",
-  "name": "default-2026080168-vacation-table-header-single-line.apk",
-  "version": "2026.08.01.68",
-  "versionCode": 2026080168,
-  "notes": "Заголовок «Рабочее место» закреплён в одну строку. Таблица настройки дней отпуска получила согласованные ширины всех девяти колонок и горизонтальную прокрутку на телефоне."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.69/default-2026080169-vacation-unallocated-single-line.apk",
+  "sha256": "E110FE305F65029BFE930139DD07E123BB26EC1A4B852970383BC3507A3E524D",
+  "name": "default-2026080169-vacation-unallocated-single-line.apk",
+  "version": "2026.08.01.69",
+  "versionCode": 2026080169,
+  "notes": "Фраза «Не распределено» в таблице сотрудников графика отпусков теперь отображается в одну строку; ширина колонки распределения увеличена без потери горизонтальной прокрутки."
 }
