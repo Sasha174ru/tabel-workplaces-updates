@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.72/default-2026080172-vacation-years-2025-2027.apk",
-  "sha256": "74AEDA27415966F3229B7920EE5433C54B1C677F6978B28A19C15FB6067A3CB2",
-  "name": "default-2026080172-vacation-years-2025-2027.apk",
-  "version": "2026.08.01.72",
-  "versionCode": 2026080172,
-  "notes": "В печатном графике отпусков добавлены отдельные колонки 2025, 2026 и 2027 с днями и периодами, чтобы видеть отпуск за прошлый, текущий и следующий год."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.73/default-2026080173-vacation-years-2025-2027-first-column.apk",
+  "sha256": "F9DE8847E23B71954F5C80E7F30D091DF926F6862FACA50192A278532E6104EB",
+  "name": "default-2026080173-vacation-years-2025-2027-first-column.apk",
+  "version": "2026.08.01.73",
+  "versionCode": 2026080173,
+  "notes": "В печатном графике отпусков расширен первый столбец: номер п/п помещается целиком в одну строку. Сохранены отдельные колонки 2025, 2026 и 2027 с днями и периодами."
 }
