@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.69/default-2026080169-vacation-unallocated-single-line.apk",
-  "sha256": "E110FE305F65029BFE930139DD07E123BB26EC1A4B852970383BC3507A3E524D",
-  "name": "default-2026080169-vacation-unallocated-single-line.apk",
-  "version": "2026.08.01.69",
-  "versionCode": 2026080169,
-  "notes": "Фраза «Не распределено» в таблице сотрудников графика отпусков теперь отображается в одну строку; ширина колонки распределения увеличена без потери горизонтальной прокрутки."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.70/default-2026080170-vacation-fio-two-lines.apk",
+  "sha256": "0E2876A7BDE7DBCA56EC5B81E9A8879D72631DD20A848049B4DDD597C85D62DB",
+  "name": "default-2026080170-vacation-fio-two-lines.apk",
+  "version": "2026.08.01.70",
+  "versionCode": 2026080170,
+  "notes": "ФИО в таблице сотрудников графика отпусков теперь выводится в две строки: фамилия и имя в первой, отчество во второй для всех сотрудников."
 }
