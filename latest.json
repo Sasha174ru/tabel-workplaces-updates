@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.73/default-2026080173-vacation-years-2025-2027-first-column.apk",
-  "sha256": "F9DE8847E23B71954F5C80E7F30D091DF926F6862FACA50192A278532E6104EB",
-  "name": "default-2026080173-vacation-years-2025-2027-first-column.apk",
-  "version": "2026.08.01.73",
-  "versionCode": 2026080173,
-  "notes": "В печатном графике отпусков расширен первый столбец: номер п/п помещается целиком в одну строку. Сохранены отдельные колонки 2025, 2026 и 2027 с днями и периодами."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.74/default-2026080174-vacation-years-2025-2027-all-forms-number.apk",
+  "sha256": "2D05B56C14E6559D1590D9FCEA63D62DC08549A450727FBDE591A35C2306A798",
+  "name": "default-2026080174-vacation-years-2025-2027-all-forms-number.apk",
+  "version": "2026.08.01.74",
+  "versionCode": 2026080174,
+  "notes": "Во всех печатных бланках расширен первый столбец: номер п/п помещается целиком в одну строку. Сохранены отдельные колонки 2025, 2026 и 2027 с днями и периодами."
 }
