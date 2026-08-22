@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.71/default-2026080171-vacation-full-labels.apk",
-  "sha256": "21C61CE6F385E2CC056712B74C3261AAF31845F6ADAD064018FCE928F2B7E874",
-  "name": "default-2026080171-vacation-full-labels.apk",
-  "version": "2026.08.01.71",
-  "versionCode": 2026080171,
-  "notes": "В таблице сотрудников графика отпусков отображаются полные подписи: «35 дней», «Обычный», «Не распределено» и «Осталось 35 дней» без сокращений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.72/default-2026080172-vacation-years-2025-2027.apk",
+  "sha256": "74AEDA27415966F3229B7920EE5433C54B1C677F6978B28A19C15FB6067A3CB2",
+  "name": "default-2026080172-vacation-years-2025-2027.apk",
+  "version": "2026.08.01.72",
+  "versionCode": 2026080172,
+  "notes": "В печатном графике отпусков добавлены отдельные колонки 2025, 2026 и 2027 с днями и периодами, чтобы видеть отпуск за прошлый, текущий и следующий год."
 }
