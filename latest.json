@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.70/default-2026080170-vacation-fio-two-lines.apk",
-  "sha256": "0E2876A7BDE7DBCA56EC5B81E9A8879D72631DD20A848049B4DDD597C85D62DB",
-  "name": "default-2026080170-vacation-fio-two-lines.apk",
-  "version": "2026.08.01.70",
-  "versionCode": 2026080170,
-  "notes": "ФИО в таблице сотрудников графика отпусков теперь выводится в две строки: фамилия и имя в первой, отчество во второй для всех сотрудников."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.71/default-2026080171-vacation-full-labels.apk",
+  "sha256": "21C61CE6F385E2CC056712B74C3261AAF31845F6ADAD064018FCE928F2B7E874",
+  "name": "default-2026080171-vacation-full-labels.apk",
+  "version": "2026.08.01.71",
+  "versionCode": 2026080171,
+  "notes": "В таблице сотрудников графика отпусков отображаются полные подписи: «35 дней», «Обычный», «Не распределено» и «Осталось 35 дней» без сокращений."
 }
