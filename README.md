@@ -1,16 +1,14 @@
 # Табель рабочих мест — обновления
 
-Текущая релизная сборка: 2026.08.01.64.
+Текущая релизная сборка: 2026.08.01.66.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.64/default-2026080164-vacation-staff-all-brigades.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.66/default-2026080166-hidden-functions-cleanup.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.64/tabel-workplaces-pc-portable-2026080164-vacation-staff-all-brigades.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.66/tabel-workplaces-pc-portable-2026080166-hidden-functions-cleanup.zip
 
 Постоянная ссылка на актуальный APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/raw/main/default.apk
+https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk
 
 Служебный файл автообновления: latest.json.
-
-В версии 2026.08.01.64 список сотрудников отпусков показывает весь штат, если бригада не выбрана.
