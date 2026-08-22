@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.66/default-2026080166-hidden-functions-cleanup.apk",
-  "sha256": "D965D1890035CB0747F8CE0BEFF19020D9EDAEB3A554C3A991C963E82F6131BC",
-  "name": "default-2026080166-hidden-functions-cleanup.apk",
-  "version": "2026.08.01.66",
-  "versionCode": 2026080166,
-  "notes": "Удалены неиспользуемые скрытые разделы настроек и старый обзор отпусков; оставлены рабочие настройки цветов, бланков и правил. Исправлены копии APK/ПК и обновлена версия приложения."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.67/default-2026080167-vacation-table-header.apk",
+  "sha256": "FD8E3AF7B20212A7332A7E091F13CCA652972DB60CBF143DA67A554470A16CE6",
+  "name": "default-2026080167-vacation-table-header.apk",
+  "version": "2026.08.01.67",
+  "versionCode": 2026080167,
+  "notes": "Исправлена шапка таблицы настройки дней отпуска: добавлена отдельная колонка «Должность», поэтому рабочее место, разряд, дни отпуска и остальные значения теперь выровнены по своим колонкам."
 }
