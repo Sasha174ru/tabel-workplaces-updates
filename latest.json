@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.01.76/default-2026080176-vacation-load-next-year.apk",
-  "sha256": "684E99F732F224984AF57CB83C0D83A6F0B523E16564F1D7628CDDC8FD56D05F",
-  "name": "default-2026080176-vacation-load-next-year.apk",
-  "version": "2026.08.01.76",
-  "versionCode": 2026080176,
-  "notes": "Загрузка по месяцам по умолчанию открывается на следующий год: для плана 2026 — 2027, для плана 2027 — 2028. При ручном выборе года он сохраняется."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.01/default-2026082301-transfer-form-rows.apk",
+  "sha256": "C5A96FE434F5DF3E965B5CC08F36964295D9F7895C60019A00DC465CA4D5831C",
+  "name": "default-2026082301-transfer-form-rows.apk",
+  "version": "2026.08.23.01",
+  "versionCode": 2026082301,
+  "notes": "В бланках переводов периоды остаются в одной строке, а строки сотрудников имеют одинаковую высоту."
 }
