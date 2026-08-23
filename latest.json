@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.06/default-2026082306-repair-form-fit.apk",
-  "sha256": "4994B4409086E405F985382BACE11E70ACEC8AFCE2BB0A39733F6D6F0657A40C",
-  "name": "default-2026082306-repair-form-fit.apk",
-  "version": "2026.08.23.06",
-  "versionCode": 2026082306,
-  "notes": "Исправлен бланк ремонта/разогрева: увеличены колонки ФИО и периода, длинные значения не выходят за границы ячеек."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.07/default-2026082307-vacation-form-fit.apk",
+  "sha256": "B876488DFD489C30DA2E90EC2B0F4C9578B8DA6FF4C5C5A4B780067DBE634A97",
+  "name": "default-2026082307-vacation-form-fit.apk",
+  "version": "2026.08.23.07",
+  "versionCode": 2026082307,
+  "notes": "Исправлен бланк отпусков: расширена колонка ФИО, уменьшена колонка подписи, длинные ФИО и периоды не выходят за границы ячеек."
 }
