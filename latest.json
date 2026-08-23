@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.03/default-2026082303-uniform-form-font.apk",
-  "sha256": "F53AD0BF94C43F5F75118F29221C833C387E9DC52EDCD1D0EA39DD254363E47E",
-  "name": "default-2026082303-uniform-form-font.apk",
-  "version": "2026.08.23.03",
-  "versionCode": 2026082303,
-  "notes": "В бланке переводов установлен единый шрифт 12 px для всех колонок, расширена колонка ФИО, период остаётся в одной строке."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.04/default-2026082304-period-column.apk",
+  "sha256": "B1B1087874596C687EDFDF6BD4982E352B84E213F513AD11504F8CC55ADDE8F4",
+  "name": "default-2026082304-period-column.apk",
+  "version": "2026.08.23.04",
+  "versionCode": 2026082304,
+  "notes": "Колонка периода увеличена до 19%, колонка подписи уменьшена до 15%. Единый шрифт и одинаковая высота строк сохранены."
 }
