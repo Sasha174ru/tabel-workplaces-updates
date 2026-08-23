@@ -1,12 +1,12 @@
 # Табель рабочих мест — обновления
 
-Текущая релизная сборка: `2026.08.23.03`.
+Текущая релизная сборка: `2026.08.23.04`.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.03/default-2026082303-uniform-form-font.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.04/default-2026082304-period-column.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.03/tabel-workplaces-pc-portable-2026082303-uniform-form-font.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.04/tabel-workplaces-pc-portable-2026082304-period-column.zip
 
 Постоянная ссылка на актуальный APK:
 https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk
@@ -14,6 +14,6 @@ https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/defau
 Служебный файл автообновления: `latest.json`.
 
 Изменения версии:
-- единый шрифт 12 px во всех колонках бланка переводов;
-- расширена колонка ФИО;
-- период остаётся в одной строке.
+- увеличена колонка периода до 19%;
+- колонка подписи уменьшена до 15%;
+- единый шрифт и одинаковая высота строк сохранены.
