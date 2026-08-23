@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.11/default-2026082311-grade-column-safe.apk",
-  "sha256": "C839FD94753A89D78D4733FC05BCE4C0E9AB13F228B6EB9EC196B0588F26614D",
-  "name": "default-2026082311-grade-column-safe.apk",
-  "version": "2026.08.23.11",
-  "versionCode": 2026082311,
-  "notes": "Колонка «Разряд» расширена до безопасной ширины 8% во всех бланках; в ремонтах колонка «Печь» уменьшена до 5%."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.12/default-2026082312-update-source-fallback.apk",
+  "sha256": "AF17715DDBD10D3A25CC6EDA3AD411666E9D7FDA5C2846CA6EBBA0113BBE3EAC",
+  "name": "default-2026082312-update-source-fallback.apk",
+  "version": "2026.08.23.12",
+  "versionCode": 2026082312,
+  "notes": "Проверка обновлений сравнивает latest.json и GitHub Releases, поэтому задержка raw-кэша больше не блокирует обновление."
 }
