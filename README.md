@@ -1,12 +1,12 @@
 # Табель рабочих мест — обновления
 
-Текущая релизная сборка: `2026.08.23.04`.
+Текущая релизная сборка: `2026.08.23.05`.
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.04/default-2026082304-period-column.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.05/default-2026082305-form-overflow-fix.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.04/tabel-workplaces-pc-portable-2026082304-period-column.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.05/tabel-workplaces-pc-portable-2026082305-form-overflow-fix.zip
 
 Постоянная ссылка на актуальный APK:
 https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk
@@ -14,6 +14,6 @@ https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/defau
 Служебный файл автообновления: `latest.json`.
 
 Изменения версии:
-- увеличена колонка периода до 19%;
-- колонка подписи уменьшена до 15%;
+- ФИО не выходит за границу колонки;
+- заголовок ознакомления переносится после запятой без разрыва скобок;
 - единый шрифт и одинаковая высота строк сохранены.
