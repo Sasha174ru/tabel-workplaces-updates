@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.01/default-2026082301-transfer-form-rows.apk",
-  "sha256": "C5A96FE434F5DF3E965B5CC08F36964295D9F7895C60019A00DC465CA4D5831C",
-  "name": "default-2026082301-transfer-form-rows.apk",
-  "version": "2026.08.23.01",
-  "versionCode": 2026082301,
-  "notes": "В бланках переводов периоды остаются в одной строке, а строки сотрудников имеют одинаковую высоту."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.03/default-2026082303-uniform-form-font.apk",
+  "sha256": "F53AD0BF94C43F5F75118F29221C833C387E9DC52EDCD1D0EA39DD254363E47E",
+  "name": "default-2026082303-uniform-form-font.apk",
+  "version": "2026.08.23.03",
+  "versionCode": 2026082303,
+  "notes": "В бланке переводов установлен единый шрифт 12 px для всех колонок, расширена колонка ФИО, период остаётся в одной строке."
 }
