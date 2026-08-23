@@ -1,19 +1,12 @@
-# Табель рабочих мест — обновления
-
-Текущая релизная сборка: `2026.08.23.09`.
+# Табель учёта рабочих мест — 2026.08.23.10
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.09/default-2026082309-repair-columns-narrow.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.10/default-2026082310-number-grade-width.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.09/tabel-workplaces-pc-portable-2026082309-repair-columns-narrow.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.10/tabel-workplaces-pc-portable-2026082310-number-grade-width.zip
 
-Постоянная ссылка на актуальный APK:
+Прямой APK для автообновления:
 https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk
 
-Служебный файл автообновления: `latest.json`.
-
-Изменения версии:
-- колонки количества смен и часов уменьшены до 6,5%;
-- колонка подписи увеличена до 10,5%;
-- общая ширина таблицы сохранена равной 100%.
+Порядковый номер рассчитан на две цифры, разряд — на одну цифру; заголовки колонок защищены от разрыва.
