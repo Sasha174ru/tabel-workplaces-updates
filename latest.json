@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.10/default-2026082310-number-grade-width.apk",
-  "sha256": "BC4BCCE90AF8688CB0AAB5CE5CF4B9C645F355ADB2420EAF0E84045FA41412E8",
-  "name": "default-2026082310-number-grade-width.apk",
-  "version": "2026.08.23.10",
-  "versionCode": 2026082310,
-  "notes": "Порядковый номер рассчитан на две цифры, разряд — на одну цифру; заголовки колонок защищены от разрыва."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.11/default-2026082311-grade-column-safe.apk",
+  "sha256": "C839FD94753A89D78D4733FC05BCE4C0E9AB13F228B6EB9EC196B0588F26614D",
+  "name": "default-2026082311-grade-column-safe.apk",
+  "version": "2026.08.23.11",
+  "versionCode": 2026082311,
+  "notes": "Колонка «Разряд» расширена до безопасной ширины 8% во всех бланках; в ремонтах колонка «Печь» уменьшена до 5%."
 }
