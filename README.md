@@ -1,12 +1,12 @@
-# Табель учёта рабочих мест — 2026.08.23.11
+# Табель учёта рабочих мест — 2026.08.23.12
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.11/default-2026082311-grade-column-safe.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.12/default-2026082312-update-source-fallback.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.11/tabel-workplaces-pc-portable-2026082311-grade-column-safe.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.12/tabel-workplaces-pc-portable-2026082312-update-source-fallback.zip
 
 Прямой APK для автообновления:
 https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk
 
-Колонка «Разряд» расширена до безопасной ширины 8% во всех бланках; в ремонтах колонка «Печь» уменьшена до 5%.
+Проверка обновлений сравнивает latest.json и GitHub Releases, поэтому задержка raw-кэша больше не блокирует обновление.
