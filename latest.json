@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.07/default-2026082307-vacation-form-fit.apk",
-  "sha256": "B876488DFD489C30DA2E90EC2B0F4C9578B8DA6FF4C5C5A4B780067DBE634A97",
-  "name": "default-2026082307-vacation-form-fit.apk",
-  "version": "2026.08.23.07",
-  "versionCode": 2026082307,
-  "notes": "Исправлен бланк отпусков: расширена колонка ФИО, уменьшена колонка подписи, длинные ФИО и периоды не выходят за границы ячеек."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.09/default-2026082309-repair-columns-narrow.apk",
+  "sha256": "9E8ECE54D74CD614FB3B4A4544C61E5C625B768AC46557593F959CE4028A0140",
+  "name": "default-2026082309-repair-columns-narrow.apk",
+  "version": "2026.08.23.09",
+  "versionCode": 2026082309,
+  "notes": "Колонки количества смен и часов уменьшены до 6,5%, колонка подписи увеличена до 10,5%."
 }
