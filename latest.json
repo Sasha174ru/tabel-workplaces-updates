@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.04/default-2026082304-period-column.apk",
-  "sha256": "B1B1087874596C687EDFDF6BD4982E352B84E213F513AD11504F8CC55ADDE8F4",
-  "name": "default-2026082304-period-column.apk",
-  "version": "2026.08.23.04",
-  "versionCode": 2026082304,
-  "notes": "Колонка периода увеличена до 19%, колонка подписи уменьшена до 15%. Единый шрифт и одинаковая высота строк сохранены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.05/default-2026082305-form-overflow-fix.apk",
+  "sha256": "0D4BD76548CE7EDC79962082D2AFAFAB606230F6B948C090A0986D9B22FD7C04",
+  "name": "default-2026082305-form-overflow-fix.apk",
+  "version": "2026.08.23.05",
+  "versionCode": 2026082305,
+  "notes": "ФИО больше не выходит в колонку периода. Заголовок ознакомления переносится после запятой без разрыва скобок."
 }
