@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.09/default-2026082309-repair-columns-narrow.apk",
-  "sha256": "9E8ECE54D74CD614FB3B4A4544C61E5C625B768AC46557593F959CE4028A0140",
-  "name": "default-2026082309-repair-columns-narrow.apk",
-  "version": "2026.08.23.09",
-  "versionCode": 2026082309,
-  "notes": "Колонки количества смен и часов уменьшены до 6,5%, колонка подписи увеличена до 10,5%."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.10/default-2026082310-number-grade-width.apk",
+  "sha256": "BC4BCCE90AF8688CB0AAB5CE5CF4B9C645F355ADB2420EAF0E84045FA41412E8",
+  "name": "default-2026082310-number-grade-width.apk",
+  "version": "2026.08.23.10",
+  "versionCode": 2026082310,
+  "notes": "Порядковый номер рассчитан на две цифры, разряд — на одну цифру; заголовки колонок защищены от разрыва."
 }
