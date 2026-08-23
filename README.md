@@ -1,12 +1,12 @@
-# Табель учёта рабочих мест — 2026.08.23.10
+# Табель учёта рабочих мест — 2026.08.23.11
 
 Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.10/default-2026082310-number-grade-width.apk
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.11/default-2026082311-grade-column-safe.apk
 
 ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.10/tabel-workplaces-pc-portable-2026082310-number-grade-width.zip
+https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.11/tabel-workplaces-pc-portable-2026082311-grade-column-safe.zip
 
 Прямой APK для автообновления:
 https://raw.githubusercontent.com/Sasha174ru/tabel-workplaces-updates/main/default.apk
 
-Порядковый номер рассчитан на две цифры, разряд — на одну цифру; заголовки колонок защищены от разрыва.
+Колонка «Разряд» расширена до безопасной ширины 8% во всех бланках; в ремонтах колонка «Печь» уменьшена до 5%.
