@@ -1,8 +1,9 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.02/default-2026082502-adaptive-rotation.apk",
-  "sha256": "5DE3ADEAF709C40EE2E2ACC70ACD7CDF61BE3839897D42F694FEA82E863127DB",
-  "name": "default-2026082502-adaptive-rotation.apk",
-  "version": "2026.08.25.02",
-  "versionCode": 2026082502,
-  "notes": "Обновлён визуал приложения. Устранены пересоздание WebView и тяжёлая перерисовка при повороте смартфона между вертикальным и горизонтальным режимами. Добавлена адаптация интерфейса для ландшафтного режима."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.03/default-2026082503-signed-adaptive-rotation.apk",
+  "sha256": "836316BCD1DC55E900E06830EE8745AB47C5BC52F7D6228CEEC7F070F59B8E7B",
+  "name": "default-2026082503-signed-adaptive-rotation.apk",
+  "version": "2026.08.25.03",
+  "versionCode": 2026082503,
+  "notes": "Исправлена ошибка установки обновления: APK подписан тем же Android Debug-сертификатом, что и предыдущие рабочие версии. Сохранены улучшения визуала и стабильности поворота экрана."
 }
+
