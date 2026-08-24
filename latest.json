@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.15/default-2026082315-audit-fixes.apk",
-  "sha256": "7FAF2EEA33EFB081491C5FE375474239FB5BB2527E899EA1C80F01B913BC3AD6",
-  "name": "default-2026082315-audit-fixes.apk",
-  "version": "2026.08.23.15",
-  "versionCode": 2026082315,
-  "notes": "Аудит и исправления: удалены устаревшие Android assets, исправлены динамические обработчики, убран дублирующий код синхронизации и обновлена версия WebView."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.16/default-2026082316-rm-grade-fix.apk",
+  "sha256": "DE4B57C4F5740D52DD9DA516F4CE3F2D6252941ECEF7BAD0DDD29876E2716AB7",
+  "name": "default-2026082316-rm-grade-fix.apk",
+  "version": "2026.08.23.16",
+  "versionCode": 2026082316,
+  "notes": "Исправлено сохранение 4-го разряда машиниста разливочной машины при выборе роли «Подработчик»."
 }
