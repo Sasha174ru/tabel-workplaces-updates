@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.04/default-2026082504-signed-pinch-zoom.apk",
-  "sha256": "8CFF38C610B55BD42DAAB96FD9B7BF5D36A28AE11E881086920EC563C8710B4D",
-  "name": "default-2026082504-signed-pinch-zoom.apk",
-  "version": "2026.08.25.04",
-  "versionCode": 2026082504,
-  "notes": "Добавлен жестовый зум двумя пальцами для увеличения бланков на Android без экранных кнопок масштабирования. Сохранены печатная разметка и стабильность поворота экрана."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.05/default-2026082505-signed-pan-zoom.apk",
+  "sha256": "1C78DFD2B27AC9BDA31A384A43A99B91F3103A36802CFD2FFDA434EC14F886D5",
+  "name": "default-2026082505-signed-pan-zoom.apk",
+  "version": "2026.08.25.05",
+  "versionCode": 2026082505,
+  "notes": "Исправлена прокрутка увеличенного бланка одним пальцем по горизонтали и вертикали. Сохранён зум двумя пальцами, печатная разметка и стабильность поворота экрана."
 }
 
