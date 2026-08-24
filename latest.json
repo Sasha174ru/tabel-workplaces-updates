@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.06/default-2026082506-signed-scroll.apk",
-  "sha256": "69657FFAE7D045CEC48AC24EF2A84B6A6037FFE5BA10D38377F7BA5D79A80D06",
-  "name": "default-2026082506-signed-scroll.apk",
-  "version": "2026.08.25.06",
-  "versionCode": 2026082506,
-  "notes": "Исправлена вертикальная прокрутка экрана при просмотре увеличенного бланка. Горизонтальная прокрутка и зум двумя пальцами сохранены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.07/default-2026082507-signed-scroll.apk",
+  "sha256": "E60FB5EFA934316210F5CBE64109FF1694F5B9E649FD71AE980BE01A8DBD48DB",
+  "name": "default-2026082507-signed-scroll.apk",
+  "version": "2026.08.25.07",
+  "versionCode": 2026082507,
+  "notes": "Исправлена прокрутка увеличенного бланка: вертикальный свайп листает страницу, горизонтальный двигает лист. Зум двумя пальцами сохранён."
 }
 
