@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.18/default-2026082318-email-pdf-pages.apk",
-  "sha256": "4586BFB0CB8ACD6D6D58206774708758BB5016A6856F2E4AB4FAE2BC43211807",
-  "name": "default-2026082318-email-pdf-pages.apk",
-  "version": "2026.08.23.18",
-  "versionCode": 2026082318,
-  "notes": "Исправлена печать почтовых PDF-бланков: последовательные A4-листы без смещения и обрезки для переводов, ремонта, встречно-сменных и отпусков."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.23.19/default-2026082319-pdf-single-page.apk",
+  "sha256": "EA5BC05FBCB6641F33D32687279001A090F1312936E5C3C80832DA78F1AA3D25",
+  "name": "default-2026082319-pdf-single-page.apk",
+  "version": "2026.08.23.19",
+  "versionCode": 2026082319,
+  "notes": "Исправлено формирование PDF при отправке по почте: каждый бланк создаётся отдельной страницей без смещения таблиц, неправильных разрывов и выхода данных за поля."
 }
