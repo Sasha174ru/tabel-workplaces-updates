@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.03/default-2026082503-signed-adaptive-rotation.apk",
-  "sha256": "836316BCD1DC55E900E06830EE8745AB47C5BC52F7D6228CEEC7F070F59B8E7B",
-  "name": "default-2026082503-signed-adaptive-rotation.apk",
-  "version": "2026.08.25.03",
-  "versionCode": 2026082503,
-  "notes": "Исправлена ошибка установки обновления: APK подписан тем же Android Debug-сертификатом, что и предыдущие рабочие версии. Сохранены улучшения визуала и стабильности поворота экрана."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.04/default-2026082504-signed-pinch-zoom.apk",
+  "sha256": "8CFF38C610B55BD42DAAB96FD9B7BF5D36A28AE11E881086920EC563C8710B4D",
+  "name": "default-2026082504-signed-pinch-zoom.apk",
+  "version": "2026.08.25.04",
+  "versionCode": 2026082504,
+  "notes": "Добавлен жестовый зум двумя пальцами для увеличения бланков на Android без экранных кнопок масштабирования. Сохранены печатная разметка и стабильность поворота экрана."
 }
 
