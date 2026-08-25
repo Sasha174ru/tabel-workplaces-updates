@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.13/default-2026082513-vacation-days-header.apk",
-  "sha256": "589AF76B261A4CAC686D120EA6AF2B2584161B9DE7369392D143729711D44177",
-  "name": "default-2026082513-vacation-days-header.apk",
-  "version": "2026.08.25.13",
-  "versionCode": 2026082513,
-  "notes": "Заголовок «Дней» в графике отпусков всегда помещается в одну строку. Расширены колонки дней и сохранены широкие колонки периодов; печать остаётся за следующим годом."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.14/default-2026082514-vacation-roster.apk",
+  "sha256": "A47E8DA26FA98C53EA7834BD2B9EA0ABF3BB781D68FEB65A4FC24C184A3A490D",
+  "name": "default-2026082514-vacation-roster.apk",
+  "version": "2026.08.25.14",
+  "versionCode": 2026082514,
+  "notes": "При выборе месяца в графике отпусков внизу показывается список сотрудников, добавленных на выбранный месяц, с периодами и количеством дней."
 }
