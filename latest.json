@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.17/default-2026082517-vacation-calendar-minimal.apk",
-  "sha256": "95B096445035BEE47AB8851121F8FBE298636C2BA86071C323459D47B2565C1F",
-  "name": "default-2026082517-vacation-calendar-minimal.apk",
-  "version": "2026.08.25.17",
-  "versionCode": 2026082517,
-  "notes": "Из окна выбора дат убраны стрелки навигации и кнопка-крестик. Закрытие выполняется кнопкой «Отмена», месяц и год выбираются в блоке сотрудника."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.18/default-2026082518-vacation-range-summary.apk",
+  "sha256": "43D8BC9ACDA6B4E62ECD9CEE3D3D105901FDA772228364F028D568170C19B1C8",
+  "name": "default-2026082518-vacation-range-summary.apk",
+  "version": "2026.08.25.18",
+  "versionCode": 2026082518,
+  "notes": "После выбора окончания отпуска в календаре показываются дата начала, дата окончания и общее количество дней."
 }
