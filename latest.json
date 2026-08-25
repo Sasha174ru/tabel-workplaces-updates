@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.19/default-2026082519-vacation-range-summary-fixed.apk",
-  "sha256": "99363C1579EF90E250649A00610009FC495F76566AF0F6D6BB7AFC33523D479E",
-  "name": "default-2026082519-vacation-range-summary-fixed.apk",
-  "version": "2026.08.25.19",
-  "versionCode": 2026082519,
-  "notes": "Исправлен цикл автообновления: Android-APK содержит актуальную внутреннюю версию приложения. Сохранена сводка начала, окончания и количества дней отпуска."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.20/default-2026082520-vacation-year-fix.apk",
+  "sha256": "015B5C02E967E79139FA9FB3D9A3944B9D1063E50A660DCACC17F87F38B84A00",
+  "name": "default-2026082520-vacation-year-fix.apk",
+  "version": "2026.08.25.20",
+  "versionCode": 2026082520,
+  "notes": "Исправлен выбор года отпуска: при выборе месяца в блоке загрузки календарь открывается на выбранном году, а отпуск сохраняется в этом же году."
 }
