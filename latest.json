@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.21/default-2026082521-vacation-roster-clean.apk",
-  "sha256": "307A899D987AED325D2E3FCF0BBAD06447EC1444489789AA17CB72E517FC8D40",
-  "name": "default-2026082521-vacation-roster-clean.apk",
-  "version": "2026.08.25.21",
-  "versionCode": 2026082521,
-  "notes": "Из карточки добавленного отпуска убрана повторяющаяся строка «В месяце: дни». Период и количество дней остаются в основной строке."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.22/default-2026082522-vacation-employee-balance.apk",
+  "sha256": "10CCC796BF7531454D507E9E7A838523AFC5CC549688B11C6A0B57A38F6D9D45",
+  "name": "default-2026082522-vacation-employee-balance.apk",
+  "version": "2026.08.25.22",
+  "versionCode": 2026082522,
+  "notes": "В графике отпусков под выбором сотрудника теперь отдельно видны остаток дней и категория: льготник или обычный сотрудник."
 }
