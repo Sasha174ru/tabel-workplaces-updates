@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.11/default-2026082511-pdf-clean.apk",
-  "sha256": "9F9AEB7F7B176E7E93658B686BEEBE70E8D8F291CE7DA789F3FC5AE82517C968",
-  "name": "default-2026082511-pdf-clean.apk",
-  "version": "2026.08.25.11",
-  "versionCode": 2026082511,
-  "notes": "Убрана вертикальная полоса прокрутки из PDF, отправляемого по почте. Каждый лист PDF формируется как одна чистая страница A4."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.12/default-2026082512-vacation-year-width.apk",
+  "sha256": "27DF0FE27F54BCF4EEFCB97A7D37FD408785D5DCC0622B039BA7D35F33A1A85D",
+  "name": "default-2026082512-vacation-year-width.apk",
+  "version": "2026.08.25.12",
+  "versionCode": 2026082512,
+  "notes": "График отпусков печатается за следующий год: в 2026 за 2027, далее аналогично. Расширены поля таблицы и колонки периодов."
 }
 
