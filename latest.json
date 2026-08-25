@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.22/default-2026082522-vacation-employee-balance.apk",
-  "sha256": "10CCC796BF7531454D507E9E7A838523AFC5CC549688B11C6A0B57A38F6D9D45",
-  "name": "default-2026082522-vacation-employee-balance.apk",
-  "version": "2026.08.25.22",
-  "versionCode": 2026082522,
-  "notes": "В графике отпусков под выбором сотрудника теперь отдельно видны остаток дней и категория: льготник или обычный сотрудник."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.23/default-2026082523-vacation-next-month.apk",
+  "sha256": "1808DDB34C87EC598FAE4420AA79B91FF66F7A5296CACEB0B8B88EC8C75F13D3",
+  "name": "default-2026082523-vacation-next-month.apk",
+  "version": "2026.08.25.23",
+  "versionCode": 2026082523,
+  "notes": "В календаре отпуска добавлено переключение на предыдущий и следующий месяц для выбора окончания длинного отпуска."
 }
