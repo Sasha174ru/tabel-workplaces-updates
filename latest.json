@@ -1,9 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.12/default-2026082512-vacation-year-width.apk",
-  "sha256": "27DF0FE27F54BCF4EEFCB97A7D37FD408785D5DCC0622B039BA7D35F33A1A85D",
-  "name": "default-2026082512-vacation-year-width.apk",
-  "version": "2026.08.25.12",
-  "versionCode": 2026082512,
-  "notes": "График отпусков печатается за следующий год: в 2026 за 2027, далее аналогично. Расширены поля таблицы и колонки периодов."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.13/default-2026082513-vacation-days-header.apk",
+  "sha256": "589AF76B261A4CAC686D120EA6AF2B2584161B9DE7369392D143729711D44177",
+  "name": "default-2026082513-vacation-days-header.apk",
+  "version": "2026.08.25.13",
+  "versionCode": 2026082513,
+  "notes": "Заголовок «Дней» в графике отпусков всегда помещается в одну строку. Расширены колонки дней и сохранены широкие колонки периодов; печать остаётся за следующим годом."
 }
-
