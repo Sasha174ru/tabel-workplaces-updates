@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.09/default-2026082509-no-zoom.apk",
-  "sha256": "0E61F50C4EFA7D5621163CA82171DAB3EC0C0C2864C0F687B3DF7B8F393DE21D",
-  "name": "default-2026082509-no-zoom.apk",
-  "version": "2026.08.25.09",
-  "versionCode": 2026082509,
-  "notes": "Полностью отключено масштабирование. Бланк остаётся в штатном масштабе; для удобного чтения используется горизонтальный режим телефона."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.10/default-2026082510-scroll.apk",
+  "sha256": "E980F68010660A038C68FBAD84BFF355317EB4788BA21980E3FE103688B34F8C",
+  "name": "default-2026082510-scroll.apk",
+  "version": "2026.08.25.10",
+  "versionCode": 2026082510,
+  "notes": "Исправлена вертикальная прокрутка бланков после отключения масштабирования. Бланк остаётся в штатном масштабе; горизонтальный режим телефона сохранён."
 }
 
