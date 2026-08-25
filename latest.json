@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.08/default-2026082508-signed-scroll.apk",
-  "sha256": "63780A09582622AD6BB4130E651BEAA9EBEFF94452C786ECFEDB528A50E9B3E8",
-  "name": "default-2026082508-signed-scroll.apk",
-  "version": "2026.08.25.08",
-  "versionCode": 2026082508,
-  "notes": "Исправлена горизонтальная панорама увеличенного бланка после отпускания пальцев. Вертикальная прокрутка и зум двумя пальцами сохранены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.09/default-2026082509-no-zoom.apk",
+  "sha256": "0E61F50C4EFA7D5621163CA82171DAB3EC0C0C2864C0F687B3DF7B8F393DE21D",
+  "name": "default-2026082509-no-zoom.apk",
+  "version": "2026.08.25.09",
+  "versionCode": 2026082509,
+  "notes": "Полностью отключено масштабирование. Бланк остаётся в штатном масштабе; для удобного чтения используется горизонтальный режим телефона."
 }
 
