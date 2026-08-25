@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.14/default-2026082514-vacation-roster.apk",
-  "sha256": "A47E8DA26FA98C53EA7834BD2B9EA0ABF3BB781D68FEB65A4FC24C184A3A490D",
-  "name": "default-2026082514-vacation-roster.apk",
-  "version": "2026.08.25.14",
-  "versionCode": 2026082514,
-  "notes": "При выборе месяца в графике отпусков внизу показывается список сотрудников, добавленных на выбранный месяц, с периодами и количеством дней."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.15/default-2026082515-vacation-year-stable.apk",
+  "sha256": "F5A4B8F35EDC821F2AA495647945CB33EB3BB124D7DE168CE6E8AD3D0822A2A1",
+  "name": "default-2026082515-vacation-year-stable.apk",
+  "version": "2026.08.25.15",
+  "versionCode": 2026082515,
+  "notes": "Исправлено переключение графика отпусков: нажатие на месяц больше не сдвигает выбранный год сверху."
 }
