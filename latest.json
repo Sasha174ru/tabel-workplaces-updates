@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.10/default-2026082510-scroll.apk",
-  "sha256": "E980F68010660A038C68FBAD84BFF355317EB4788BA21980E3FE103688B34F8C",
-  "name": "default-2026082510-scroll.apk",
-  "version": "2026.08.25.10",
-  "versionCode": 2026082510,
-  "notes": "Исправлена вертикальная прокрутка бланков после отключения масштабирования. Бланк остаётся в штатном масштабе; горизонтальный режим телефона сохранён."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.11/default-2026082511-pdf-clean.apk",
+  "sha256": "9F9AEB7F7B176E7E93658B686BEEBE70E8D8F291CE7DA789F3FC5AE82517C968",
+  "name": "default-2026082511-pdf-clean.apk",
+  "version": "2026.08.25.11",
+  "versionCode": 2026082511,
+  "notes": "Убрана вертикальная полоса прокрутки из PDF, отправляемого по почте. Каждый лист PDF формируется как одна чистая страница A4."
 }
 
