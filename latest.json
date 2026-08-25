@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.20/default-2026082520-vacation-year-fix.apk",
-  "sha256": "015B5C02E967E79139FA9FB3D9A3944B9D1063E50A660DCACC17F87F38B84A00",
-  "name": "default-2026082520-vacation-year-fix.apk",
-  "version": "2026.08.25.20",
-  "versionCode": 2026082520,
-  "notes": "Исправлен выбор года отпуска: при выборе месяца в блоке загрузки календарь открывается на выбранном году, а отпуск сохраняется в этом же году."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.21/default-2026082521-vacation-roster-clean.apk",
+  "sha256": "307A899D987AED325D2E3FCF0BBAD06447EC1444489789AA17CB72E517FC8D40",
+  "name": "default-2026082521-vacation-roster-clean.apk",
+  "version": "2026.08.25.21",
+  "versionCode": 2026082521,
+  "notes": "Из карточки добавленного отпуска убрана повторяющаяся строка «В месяце: дни». Период и количество дней остаются в основной строке."
 }
