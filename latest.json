@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.16/default-2026082516-vacation-calendar-clean.apk",
-  "sha256": "54743DBD7D189BFC759A47EDDEE1343D0EFBB383CED1870078820DD2CB1ADF32",
-  "name": "default-2026082516-vacation-calendar-clean.apk",
-  "version": "2026.08.25.16",
-  "versionCode": 2026082516,
-  "notes": "В календаре выбора дат убраны повторные поля месяца и года: сотрудник выбирает их в блоке «Загрузка по месяцам»."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.17/default-2026082517-vacation-calendar-minimal.apk",
+  "sha256": "95B096445035BEE47AB8851121F8FBE298636C2BA86071C323459D47B2565C1F",
+  "name": "default-2026082517-vacation-calendar-minimal.apk",
+  "version": "2026.08.25.17",
+  "versionCode": 2026082517,
+  "notes": "Из окна выбора дат убраны стрелки навигации и кнопка-крестик. Закрытие выполняется кнопкой «Отмена», месяц и год выбираются в блоке сотрудника."
 }
