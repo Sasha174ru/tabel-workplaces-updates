@@ -1,17 +1,13 @@
-# Табель учёта рабочих мест — 2026.08.25.01
+# Табель учёта рабочих мест — актуальная версия 2026.08.25.23
 
-Android APK:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.01/default-2026082501-adaptive-audit.apk
+Текущий стабильный релиз:
 
-ПК portable:
-https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.01/tabel-workplaces-pc-portable-2026082501-adaptive-audit.zip
+- [Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.23/default-2026082523-vacation-next-month.apk)
+- [ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.23/tabel-workplaces-pc-portable-2026082523-vacation-next-month.zip)
+- [Страница релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.08.25.23)
 
-SHA-256 APK: `9F4770B8B9B7D6C5424BAF23530228B5458F74B73BD67650B0AC130B62D909F8`
+В версии 2026.08.25.23 в календаре отпуска добавлена навигация по предыдущему и следующему месяцу для выбора окончания длинного отпуска.
 
-SHA-256 portable ZIP: `60383483F75E1D41CAC9343F96027BD5C038253CCED13DCBB1389AA0426359CB`
+SHA-256 APK: `1808DDB34C87EC598FAE4420AA79B91FF66F7A5296CACEB0B8B88EC8C75F13D3`
 
-Изменения:
-- исправлено переполнение панели единого штата на планшетах и узких окнах ПК;
-- широкая таблица сотрудников прокручивается внутри панели;
-- обновлена адаптивность меню и проверены печатные бланки;
-- Android APK пересобран и проверен lint/assembleDebug.
+Файл `latest.json` используется приложением для автоматической проверки обновлений.
