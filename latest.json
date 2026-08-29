@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.25.23/default-2026082523-vacation-next-month.apk",
-  "sha256": "1808DDB34C87EC598FAE4420AA79B91FF66F7A5296CACEB0B8B88EC8C75F13D3",
-  "name": "default-2026082523-vacation-next-month.apk",
-  "version": "2026.08.25.23",
-  "versionCode": 2026082523,
-  "notes": "В календаре отпуска добавлено переключение на предыдущий и следующий месяц для выбора окончания длинного отпуска."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.29.25/default-2026082925-vacation-status-removed.apk",
+  "sha256": "F135E67F0DD06533E39059D51C48201929342FC24CD3A38B425048917660490E",
+  "name": "default-2026082925-vacation-status-removed.apk",
+  "version": "2026.08.29.25",
+  "versionCode": 2026082925,
+  "notes": "В бланке графика отпусков убрана колонка «Статус», а освободившаяся ширина добавлена к колонкам периодов."
 }
