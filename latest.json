@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.29.29/default-2026082929-no-supabase-login.apk",
-  "sha256": "7183D9393D05BD55D958893DED13E3594F93368E1145F144F09B59A990FEEA60",
-  "name": "default-2026082929-no-supabase-login.apk",
-  "version": "2026.08.29.29",
-  "versionCode": 2026082929,
-  "notes": "Убрано влияние устаревших локальных настроек Supabase и старой сессии: синхронизация снова работает без запроса логина и пароля. Сохранены исправления импорта и цикла обновлений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.29.30/default-2026082930-supabase-webview-fix.apk",
+  "sha256": "FF53220B2ACDFBE424A162FBF759E2D075FB84D6DDA06F7AB4C5930E877E1683",
+  "name": "default-2026082930-supabase-webview-fix.apk",
+  "version": "2026.08.29.30",
+  "versionCode": 2026082930,
+  "notes": "Исправлен доступ Android WebView к Supabase из file://: синхронизация снова работает без логина и пароля. Старые локальные настройки Supabase больше не перекрывают настройки сборки."
 }
