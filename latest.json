@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.29.26/default-2026082926-vacation-signature-width.apk",
-  "sha256": "CC21937797C93FDBE455B0402F64186BF82BBEDF41A736000EF3B30246E641FF",
-  "name": "default-2026082926-vacation-signature-width.apk",
-  "version": "2026.08.29.26",
-  "versionCode": 2026082926,
-  "notes": "В бланке отпусков расширена колонка «Подпись», чтобы заголовок помещался полностью; периоды сохранены в одной строке."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.29.27/default-2026082927-audit-fixes.apk",
+  "sha256": "E335D8BF4F32190CE213D7DF8B76908ACE1B9921E99B1F2055E66AD75EC6E790",
+  "name": "default-2026082927-audit-fixes.apk",
+  "version": "2026.08.29.27",
+  "versionCode": 2026082927,
+  "notes": "Исправлены резервное копирование и проверка импорта, остановлен цикл повторных обновлений, удалён устаревший GitHub-токен; синхронизация Supabase оставлена в прежнем режиме."
 }
