@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.32/default-2026083032-vacation-start-month-fix.apk",
-  "sha256": "44444CA53B546895782F96BB992849FB63A209179ECF858E61E68A807200B5FF",
-  "name": "default-2026083032-vacation-start-month-fix.apk",
-  "version": "2026.08.30.32",
-  "versionCode": 2026083032,
-  "notes": "Фактический месяц отпуска определяется датой начала: отпуск, начавшийся в июле и перешедший на август, целиком относится к июлю."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.33/default-2026083033-calendar-31-visible.apk",
+  "sha256": "1511B3E1D635F7755CE4027B3D9F1887F0BA36AFF3C484E6FB781856091C1C23",
+  "name": "default-2026083033-calendar-31-visible.apk",
+  "version": "2026.08.30.33",
+  "versionCode": 2026083033,
+  "notes": "Исправлено отображение календаря на смартфонах: кнопки больше не перекрывают последнюю неделю, 31-е число отображается полностью."
 }
