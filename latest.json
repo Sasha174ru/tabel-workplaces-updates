@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.35/default-2026083035-vacation-staff-cards.apk",
-  "sha256": "EFB06AA6DAD1A60C482F68656D6960091D021E447AD47DCD65177A26BBD57A2E",
-  "name": "default-2026083035-vacation-staff-cards.apk",
-  "version": "2026.08.30.35",
-  "versionCode": 2026083035,
-  "notes": "Сделано отображение графика отпусков на смартфоне понятнее: широкая таблица заменена на удобные карточки сотрудников."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.36/default-2026083036-vacation-concurrency.apk",
+  "sha256": "C960725FD1133940E8F239671911EA6A0AD450B9E1E588BBE8D3AA61EA5057D3",
+  "name": "default-2026083036-vacation-concurrency.apk",
+  "version": "2026.08.30.36",
+  "versionCode": 2026083036,
+  "notes": "Ограничение одновременных отпусков: не более 3 человек одновременно, по одному с рабочего места; следующая дата начала — после ближайшего возвращения; недоступные даты блокируются и показывают предупреждение."
 }
