@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.31/default-2026083031-vacation-roster-fix.apk",
-  "sha256": "51A228C875EC37C0E5E265E49A19EBFEFB0D62C0E2124A6146BDF88394F80FDE",
-  "name": "default-2026083031-vacation-roster-fix.apk",
-  "version": "2026.08.30.31",
-  "versionCode": 2026083031,
-  "notes": "Исправлено отображение частей отпуска: в списке выбранного месяца показываются только относящиеся к нему части, поэтому в июльский список не попадает отдельная декабрьская часть."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.32/default-2026083032-vacation-start-month-fix.apk",
+  "sha256": "44444CA53B546895782F96BB992849FB63A209179ECF858E61E68A807200B5FF",
+  "name": "default-2026083032-vacation-start-month-fix.apk",
+  "version": "2026.08.30.32",
+  "versionCode": 2026083032,
+  "notes": "Фактический месяц отпуска определяется датой начала: отпуск, начавшийся в июле и перешедший на август, целиком относится к июлю."
 }
