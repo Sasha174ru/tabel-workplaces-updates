@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.36/default-2026083036-vacation-concurrency.apk",
-  "sha256": "C960725FD1133940E8F239671911EA6A0AD450B9E1E588BBE8D3AA61EA5057D3",
-  "name": "default-2026083036-vacation-concurrency.apk",
-  "version": "2026.08.30.36",
-  "versionCode": 2026083036,
-  "notes": "Ограничение одновременных отпусков: не более 3 человек одновременно, по одному с рабочего места; следующая дата начала — после ближайшего возвращения; недоступные даты блокируются и показывают предупреждение."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.37/default-2026083037-vacation-carryover.apk",
+  "sha256": "DAA47D5B64A3CA0F81628C158BB40A6EAA4C53832B4AA36B008479A2D93C43BA",
+  "name": "default-2026083037-vacation-carryover.apk",
+  "version": "2026.08.30.37",
+  "versionCode": 2026083037,
+  "notes": "Превышение июля переносится в расход лимита августа: при 98 днях в июле август учитывает дополнительно 8 дней; карточка показывает перенос и обновлённый расход лимита."
 }
