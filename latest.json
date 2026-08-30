@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.33/default-2026083033-calendar-31-visible.apk",
-  "sha256": "1511B3E1D635F7755CE4027B3D9F1887F0BA36AFF3C484E6FB781856091C1C23",
-  "name": "default-2026083033-calendar-31-visible.apk",
-  "version": "2026.08.30.33",
-  "versionCode": 2026083033,
-  "notes": "Исправлено отображение календаря на смартфонах: кнопки больше не перекрывают последнюю неделю, 31-е число отображается полностью."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.34/default-2026083034-vacation-overflow-ui.apk",
+  "sha256": "29CDA96516C381B3857010D9C4D4FFD2751D07CCA27CE154737BEC00BB8B0A57",
+  "name": "default-2026083034-vacation-overflow-ui.apk",
+  "version": "2026.08.30.34",
+  "versionCode": 2026083034,
+  "notes": "Улучшено отображение превышения лимита отпусков: добавлены оранжевая подсветка, значок предупреждения и перенос текста на узком экране."
 }
