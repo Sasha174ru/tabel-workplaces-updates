@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.34/default-2026083034-vacation-overflow-ui.apk",
-  "sha256": "29CDA96516C381B3857010D9C4D4FFD2751D07CCA27CE154737BEC00BB8B0A57",
-  "name": "default-2026083034-vacation-overflow-ui.apk",
-  "version": "2026.08.30.34",
-  "versionCode": 2026083034,
-  "notes": "Улучшено отображение превышения лимита отпусков: добавлены оранжевая подсветка, значок предупреждения и перенос текста на узком экране."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.35/default-2026083035-vacation-staff-cards.apk",
+  "sha256": "EFB06AA6DAD1A60C482F68656D6960091D021E447AD47DCD65177A26BBD57A2E",
+  "name": "default-2026083035-vacation-staff-cards.apk",
+  "version": "2026.08.30.35",
+  "versionCode": 2026083035,
+  "notes": "Сделано отображение графика отпусков на смартфоне понятнее: широкая таблица заменена на удобные карточки сотрудников."
 }
