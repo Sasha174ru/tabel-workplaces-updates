@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.37/default-2026083037-vacation-carryover.apk",
-  "sha256": "DAA47D5B64A3CA0F81628C158BB40A6EAA4C53832B4AA36B008479A2D93C43BA",
-  "name": "default-2026083037-vacation-carryover.apk",
-  "version": "2026.08.30.37",
-  "versionCode": 2026083037,
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.38/default-2026083038-vacation-carryover.apk",
+  "sha256": "EFF1C854D074F8D93BEBDBAC484964E0F1FA7BF8C097DA147DD2EAD4F281F7A3",
+  "name": "default-2026083038-vacation-carryover.apk",
+  "version": "2026.08.30.38",
+  "versionCode": 2026083038,
   "notes": "Превышение июля переносится в расход лимита августа: при 98 днях в июле август учитывает дополнительно 8 дней; карточка показывает перенос и обновлённый расход лимита."
 }
