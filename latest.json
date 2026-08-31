@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.07/default-2026083107-product.apk",
-  "sha256": "425990D3767C0CDF607873602F9D5C89D268082C20A4A092CC736AAB31AD5A11",
-  "name": "default-2026083107-product.apk",
-  "version": "2026.08.31.07",
-  "versionCode": 2026083107,
-  "notes": "Исправлен Android Download Manager: обработчик завершения загрузки принимает системное событие, повторная попытка перезапускает зависшую загрузку. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.08/default-2026083108-product.apk",
+  "sha256": "DFAE1138E7B0B9E9ED16E6AF6186BCB580A7BECB11CB6A28C4079B3E98156BB0",
+  "name": "default-2026083108-product.apk",
+  "version": "2026.08.31.08",
+  "versionCode": 2026083108,
+  "notes": "Убрано накопление повторных перерасчётов горизонтальной прокрутки после нажатия кнопок, интерфейс стал отзывчивее. Supabase-схема и данные без изменений."
 }
