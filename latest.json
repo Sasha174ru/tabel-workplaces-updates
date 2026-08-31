@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.04/default-2026083104-product.apk",
-  "sha256": "619B7C16F0ADE8DDCB7B3F02C3226F11AF69BA73BCDBBECF5D716EFC59862411",
-  "name": "default-2026083104-product.apk",
-  "version": "2026.08.31.04",
-  "versionCode": 2026083104,
-  "notes": "Исправлена повторная проверка обновлений после неудачной загрузки: временный интервал повторной попытки сокращён до 10 минут; Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.05/default-2026083105-product.apk",
+  "sha256": "0F864791597D20783A13194C9FBC71ACA51C5C173048D43F50D2748EBDADDC70",
+  "name": "default-2026083105-product.apk",
+  "version": "2026.08.31.05",
+  "versionCode": 2026083105,
+  "notes": "Загрузка обновлений переведена на системный Android Download Manager с уведомлением, повторной попыткой и проверкой SHA-256; Supabase-схема и данные без изменений."
 }
