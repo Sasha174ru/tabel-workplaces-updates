@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.02/default-2026083102-audit-fixes.apk",
-  "sha256": "4643355A246C6C5933C834297BE2769429451C25B15599155103543B6B971FC6",
-  "name": "default-2026083102-audit-fixes.apk",
-  "version": "2026.08.31.02",
-  "versionCode": 2026083102,
-  "notes": "Исправлены сбои в офлайн-режиме и генерации идентификаторов, защищено локальное сохранение, устранён риск потери локальных изменений при синхронизации, исправлен выбор ветки GitHub и сделано понятнее распределение отпусков; Supabase без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.03/default-2026083103-product.apk",
+  "sha256": "3222CA40E1B3AA32A65093D3999ADB43D1CE2D9601880C16FD21A773F56C0987",
+  "name": "default-2026083103-product.apk",
+  "version": "2026.08.31.03",
+  "versionCode": 2026083103,
+  "notes": "Добавлена фоновая синхронизация после реальных изменений, повтор после восстановления сети, безопасный экспорт копии, исправлен Android cache-buster и очищен portable-комплект; Supabase-схема и данные без изменений."
 }
