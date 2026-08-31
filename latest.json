@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.10/default-2026083110-product.apk",
-  "sha256": "78D49A87631BB9EBAD2A136B4F07D54C78DAA7D649601C491A8066EEC3327C49",
-  "name": "default-2026083110-product.apk",
-  "version": "2026.08.31.10",
-  "versionCode": 2026083110,
-  "notes": "Исправлено долгое открытие раздела «Статистика» на телефонах: переходы между разделами больше не запускают синхронизацию по событию фокуса. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.11/default-2026083111-product.apk",
+  "sha256": "4238162A267941BCF14AE4BAA2A43323752BAF75E5469A233E1C79C6946AA004",
+  "name": "default-2026083111-product.apk",
+  "version": "2026.08.31.11",
+  "versionCode": 2026083111,
+  "notes": "Ускорено открытие разделов «Статистика» и «Бланки»: готовые результаты переиспользуются и не пересчитываются при каждом переходе. Supabase-схема и данные без изменений."
 }
