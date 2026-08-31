@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.01/default-2026083101-optimization-design.apk",
-  "sha256": "932743EEC7656041B8950B544E3A71236E144AB64C605F535599484093E3C264",
-  "name": "default-2026083101-optimization-design.apk",
-  "version": "2026.08.31.01",
-  "versionCode": 2026083101,
-  "notes": "Оптимизированы расчёты отпускных лимитов и загрузка бланков; обновлены cache-buster и адаптивность интерфейса; Supabase без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.02/default-2026083102-audit-fixes.apk",
+  "sha256": "C5125AB67C9B78ACA1B0C947762C8108FB9C112C638C4AB5887403603BB535CC",
+  "name": "default-2026083102-audit-fixes.apk",
+  "version": "2026.08.31.02",
+  "versionCode": 2026083102,
+  "notes": "Исправлены сбои в офлайн-режиме и генерации идентификаторов, защищено локальное сохранение, устранён риск потери локальных изменений при синхронизации, исправлен выбор ветки GitHub и сделано понятнее распределение отпусков; Supabase без изменений."
 }
