@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.30.43/default-2026083043-pdf-a4.apk",
-  "sha256": "1CAAF38F1D611C4AF3C19AE2B6C3381574DC866D07C04DE41549C2AFB4BBE6A9",
-  "name": "default-2026083043-pdf-a4.apk",
-  "version": "2026.08.30.43",
-  "versionCode": 2026083043,
-  "notes": "Android PDF теперь формируется в настоящем формате A4; исправлен cache-buster Android; добавлен тест переходящего отпуска 1 января–5 февраля."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.01/default-2026083101-optimization-design.apk",
+  "sha256": "932743EEC7656041B8950B544E3A71236E144AB64C605F535599484093E3C264",
+  "name": "default-2026083101-optimization-design.apk",
+  "version": "2026.08.31.01",
+  "versionCode": 2026083101,
+  "notes": "Оптимизированы расчёты отпускных лимитов и загрузка бланков; обновлены cache-buster и адаптивность интерфейса; Supabase без изменений."
 }
