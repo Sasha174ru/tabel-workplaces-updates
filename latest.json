@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.06/default-2026083106-product.apk",
-  "sha256": "8FED251CD80DB319BE40418EAF26AFE116669D09F6D8082EEDD2537B3662FEC6",
-  "name": "default-2026083106-product.apk",
-  "version": "2026.08.31.06",
-  "versionCode": 2026083106,
-  "notes": "Единый слой сообщений, доступные диалоги с Esc и возвратом фокуса; мобильный календарь больше не перекрывается кнопками, 31-е число видно полностью. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.07/default-2026083107-product.apk",
+  "sha256": "425990D3767C0CDF607873602F9D5C89D268082C20A4A092CC736AAB31AD5A11",
+  "name": "default-2026083107-product.apk",
+  "version": "2026.08.31.07",
+  "versionCode": 2026083107,
+  "notes": "Исправлен Android Download Manager: обработчик завершения загрузки принимает системное событие, повторная попытка перезапускает зависшую загрузку. Supabase-схема и данные без изменений."
 }
