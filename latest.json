@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.03/default-2026083103-product.apk",
-  "sha256": "3222CA40E1B3AA32A65093D3999ADB43D1CE2D9601880C16FD21A773F56C0987",
-  "name": "default-2026083103-product.apk",
-  "version": "2026.08.31.03",
-  "versionCode": 2026083103,
-  "notes": "Добавлена фоновая синхронизация после реальных изменений, повтор после восстановления сети, безопасный экспорт копии, исправлен Android cache-buster и очищен portable-комплект; Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.04/default-2026083104-product.apk",
+  "sha256": "619B7C16F0ADE8DDCB7B3F02C3226F11AF69BA73BCDBBECF5D716EFC59862411",
+  "name": "default-2026083104-product.apk",
+  "version": "2026.08.31.04",
+  "versionCode": 2026083104,
+  "notes": "Исправлена повторная проверка обновлений после неудачной загрузки: временный интервал повторной попытки сокращён до 10 минут; Supabase-схема и данные без изменений."
 }
