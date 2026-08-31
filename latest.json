@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.09/default-2026083109-product.apk",
-  "sha256": "655A0951EE471905345C3C580848B3BEEE7FFBC8D1BCF7E8ED1E671EBE35CDFF",
-  "name": "default-2026083109-product.apk",
-  "version": "2026.08.31.09",
-  "versionCode": 2026083109,
-  "notes": "Убрано повторное обновление экрана при каждом нажатии на телефоне: фоновая синхронизация ограничена, неизменившиеся данные не перерисовываются. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.10/default-2026083110-product.apk",
+  "sha256": "78D49A87631BB9EBAD2A136B4F07D54C78DAA7D649601C491A8066EEC3327C49",
+  "name": "default-2026083110-product.apk",
+  "version": "2026.08.31.10",
+  "versionCode": 2026083110,
+  "notes": "Исправлено долгое открытие раздела «Статистика» на телефонах: переходы между разделами больше не запускают синхронизацию по событию фокуса. Supabase-схема и данные без изменений."
 }
