@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.03/default-2026090103-product.apk",
-  "sha256": "E59410411D4264242CFEA14400191EFB80A171BF7214AF3D46E5A8B735BCBB86",
-  "name": "default-2026090103-product.apk",
-  "version": "2026.09.01.03",
-  "versionCode": 2026090103,
-  "notes": "Исправлено мобильное окно автораспределения отпусков: нижние кнопки подняты выше системной панели навигации и всегда доступны для нажатия. Логика отпусков и Supabase-схема без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.04/default-2026090104-product.apk",
+  "sha256": "65CAD709EB8C9D6FFCC75E64F3E03AA5BF3C3B050B72A6814C881EFAF351C79F",
+  "name": "default-2026090104-product.apk",
+  "version": "2026.09.01.04",
+  "versionCode": 2026090104,
+  "notes": "Убрано поле выбора участка из графика отпусков. Теперь выбираются только бригада и сотрудник; список сотрудников включает все рабочие места выбранной бригады, а лимит считается общим для всей бригады. Supabase-схема и данные без изменений."
 }
