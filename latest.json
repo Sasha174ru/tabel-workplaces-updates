@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.03/default-2026090203-product.apk",
-  "sha256": "BBA6F7B44962B6329AB9FE621A063A69B1F349DE530330078C90AADF0C5A5C26",
-  "name": "default-2026090203-product.apk",
-  "version": "2026.09.02.03",
-  "versionCode": 2026090203,
-  "notes": "Исправлен расчёт остатка по нескольким выбранным частям отпуска: суммируются все выбранные длительности. Например, 14 дней в январе и 21 день в мае дают остаток 0 дней. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.04/default-2026090204-product.apk",
+  "sha256": "36B87420EBCC5B3F7C041B645BBABD84C4177F8789E13961D6183FFDBBBC872E",
+  "name": "default-2026090204-product.apk",
+  "version": "2026.09.02.04",
+  "versionCode": 2026090204,
+  "notes": "Автораспределение обрабатывает только сотрудников с выбранными месяцами или длительностью. Остальные сотрудники и их планы не изменяются. Supabase-схема и данные без изменений."
 }
