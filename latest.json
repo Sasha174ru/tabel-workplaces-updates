@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.01/default-2026090101-product.apk",
-  "sha256": "D1E8BCC808EFDF5AC6D87175B7DF5E91311ACF162CA3BD2C54FE67EA0C5DEA9D",
-  "name": "default-2026090101-product.apk",
-  "version": "2026.09.01.01",
-  "versionCode": 2026090101,
-  "notes": "Добавлено автоматическое распределение отпусков по предпочтительным месяцам. Сохраняются действующие правила лимитов и переносов, максимум 3 человека одновременно, разные рабочие места и приоритет льготников; уже назначенные периоды не изменяются. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.02/default-2026090102-product.apk",
+  "sha256": "AB447113A3181C98A74F5DC51E204CA146C4B8D2941B5682B4520B5344F14E14",
+  "name": "default-2026090102-product.apk",
+  "version": "2026.09.01.02",
+  "versionCode": 2026090102,
+  "notes": "Исправлен календарь предпочтений в автораспределении отпусков: месяцы теперь всегда видны, чекбоксы не растягиваются и выбранные месяцы выделяются цветом. Логика отпусков и Supabase-схема без изменений."
 }
