@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.01/default-2026090201-product.apk",
-  "sha256": "8DF2DD92361F2C7503DBDFABD06641C1382E251A2CAA1D0CEF0A7BB59C4D6151",
-  "name": "default-2026090201-product.apk",
-  "version": "2026.09.02.01",
-  "versionCode": 2026090201,
-  "notes": "В карточке автораспределения сразу показывается выбранная длительность отпуска вместо общего остатка. Значение обновляется при смене месяца или дней. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.02/default-2026090202-product.apk",
+  "sha256": "914F953097E440E293BC00565C6C7D3C22114FFE1BBDB6C70C4D2463A5D145C8",
+  "name": "default-2026090202-product.apk",
+  "version": "2026.09.02.02",
+  "versionCode": 2026090202,
+  "notes": "Исправлен расчёт остатка дней: при выборе 35 дней из остатка 35 отображается 0 дней, при выборе 14 — 21 день. Supabase-схема и данные без изменений."
 }
