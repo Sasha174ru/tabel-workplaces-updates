@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.07/default-2026090107-product.apk",
-  "sha256": "9B8B3B9346CD068214EEAFF09B7005A42197BFF8F407E679F2F74E070D8111E3",
-  "name": "default-2026090107-product.apk",
-  "version": "2026.09.01.07",
-  "versionCode": 2026090107,
-  "notes": "При изменении месяца или длительности автораспределение полностью пересчитывает автоматический план выбранной бригады и сохраняет ручные отпуска. Добавлен предварительный пересчёт в окне настроек. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.01/default-2026090201-product.apk",
+  "sha256": "8DF2DD92361F2C7503DBDFABD06641C1382E251A2CAA1D0CEF0A7BB59C4D6151",
+  "name": "default-2026090201-product.apk",
+  "version": "2026.09.02.01",
+  "versionCode": 2026090201,
+  "notes": "В карточке автораспределения сразу показывается выбранная длительность отпуска вместо общего остатка. Значение обновляется при смене месяца или дней. Supabase-схема и данные без изменений."
 }
