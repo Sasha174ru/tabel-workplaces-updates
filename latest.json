@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.06/default-2026090106-product.apk",
-  "sha256": "6FD73CD9D64D5D20558439A1F96219870B6143AC24D5C993077A81BE1F6EED82",
-  "name": "default-2026090106-product.apk",
-  "version": "2026.09.01.06",
-  "versionCode": 2026090106,
-  "notes": "Исправлено зависание автораспределения на телефонах: поиск периодов оптимизирован по индексам дат, рабочих мест и лимитов. Во время расчёта кнопка показывает «Распределяем…» и блокирует повторный запуск. Supabase не изменялся."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.07/default-2026090107-product.apk",
+  "sha256": "9B8B3B9346CD068214EEAFF09B7005A42197BFF8F407E679F2F74E070D8111E3",
+  "name": "default-2026090107-product.apk",
+  "version": "2026.09.01.07",
+  "versionCode": 2026090107,
+  "notes": "При изменении месяца или длительности автораспределение полностью пересчитывает автоматический план выбранной бригады и сохраняет ручные отпуска. Добавлен предварительный пересчёт в окне настроек. Supabase-схема и данные без изменений."
 }
