@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.04/default-2026090104-product.apk",
-  "sha256": "65CAD709EB8C9D6FFCC75E64F3E03AA5BF3C3B050B72A6814C881EFAF351C79F",
-  "name": "default-2026090104-product.apk",
-  "version": "2026.09.01.04",
-  "versionCode": 2026090104,
-  "notes": "Убрано поле выбора участка из графика отпусков. Теперь выбираются только бригада и сотрудник; список сотрудников включает все рабочие места выбранной бригады, а лимит считается общим для всей бригады. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.05/default-2026090105-product.apk",
+  "sha256": "005F5FCFE8C7563EEA9632F68ED60906D3451DF8C02414A362F18F667C19FDF2",
+  "name": "default-2026090105-product.apk",
+  "version": "2026.09.01.05",
+  "versionCode": 2026090105,
+  "notes": "В автораспределении отпусков выбранный месяц теперь раскрывает длительность 14, 21, 35 или 42 дня. Выбранная длительность сохраняется для месяца и используется при подборе периода; если её не указать, сохраняется прежний режим с распределением всего остатка. Supabase не изменялся."
 }
