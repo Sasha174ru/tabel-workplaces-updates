@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.04/default-2026090204-product.apk",
-  "sha256": "36B87420EBCC5B3F7C041B645BBABD84C4177F8789E13961D6183FFDBBBC872E",
-  "name": "default-2026090204-product.apk",
-  "version": "2026.09.02.04",
-  "versionCode": 2026090204,
-  "notes": "Автораспределение обрабатывает только сотрудников с выбранными месяцами или длительностью. Остальные сотрудники и их планы не изменяются. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.05/default-2026090205-product.apk",
+  "sha256": "5FCD6964193A9EED62B822D3A3AA61D37A828259A4ED6615226C48EECC13E4C1",
+  "name": "default-2026090205-product.apk",
+  "version": "2026.09.02.05",
+  "versionCode": 2026090205,
+  "notes": "Удалено ручное добавление отпусков: новые периоды создаются только автораспределением. Загрузка по месяцам и список распределённых сотрудников сохранены. Supabase-схема и данные без изменений."
 }
