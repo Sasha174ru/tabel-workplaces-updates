@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.11/default-2026083111-product.apk",
-  "sha256": "4238162A267941BCF14AE4BAA2A43323752BAF75E5469A233E1C79C6946AA004",
-  "name": "default-2026083111-product.apk",
-  "version": "2026.08.31.11",
-  "versionCode": 2026083111,
-  "notes": "Ускорено открытие разделов «Статистика» и «Бланки»: готовые результаты переиспользуются и не пересчитываются при каждом переходе. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.08.31.12/default-2026083112-product.apk",
+  "sha256": "DCF657C75BF26AC487FA51F2FCDF943AF1AD95CAEF1C1FAF76E3BD90557CFCF1",
+  "name": "default-2026083112-product.apk",
+  "version": "2026.08.31.12",
+  "versionCode": 2026083112,
+  "notes": "Добавлены кнопки «О приложении» и «Проверить обновление» на стартовый экран настроек. В окне «О приложении» показывается актуальная версия. Supabase-схема и данные без изменений."
 }
