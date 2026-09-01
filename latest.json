@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.02/default-2026090102-product.apk",
-  "sha256": "AB447113A3181C98A74F5DC51E204CA146C4B8D2941B5682B4520B5344F14E14",
-  "name": "default-2026090102-product.apk",
-  "version": "2026.09.01.02",
-  "versionCode": 2026090102,
-  "notes": "Исправлен календарь предпочтений в автораспределении отпусков: месяцы теперь всегда видны, чекбоксы не растягиваются и выбранные месяцы выделяются цветом. Логика отпусков и Supabase-схема без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.01.03/default-2026090103-product.apk",
+  "sha256": "E59410411D4264242CFEA14400191EFB80A171BF7214AF3D46E5A8B735BCBB86",
+  "name": "default-2026090103-product.apk",
+  "version": "2026.09.01.03",
+  "versionCode": 2026090103,
+  "notes": "Исправлено мобильное окно автораспределения отпусков: нижние кнопки подняты выше системной панели навигации и всегда доступны для нажатия. Логика отпусков и Supabase-схема без изменений."
 }
