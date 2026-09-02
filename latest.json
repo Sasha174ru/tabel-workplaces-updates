@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.23/default-2026090223-landscape-phone.apk",
-  "sha256": "3B17C6CF8D086B1B5EA6511AE93C471ADF7ECFF9AE2583287A2A006C7F894E9B",
-  "name": "default-2026090223-landscape-phone.apk",
-  "version": "2026.09.02.23",
-  "versionCode": 2026090223,
-  "notes": "Добавлено жёсткое правило приоритета отпусков: пока у льготников остаются нераспределённые дни, выбор месяцев и длительности для обычных сотрудников заблокирован. После распределения льготников обычные сотрудники разблокируются. Supabase-схема не изменялась."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.24/default-2026090224-landscape-phone.apk",
+  "sha256": "C412863E10AD0909CB1CA7570C5B4DBAFF36CFB4BA592FC0A09CA04296D8A0F5",
+  "name": "default-2026090224-landscape-phone.apk",
+  "version": "2026.09.02.24",
+  "versionCode": 2026090224,
+  "notes": "Результат автораспределения переработан: сразу видно, есть ли ошибки, сколько сотрудников и дней распределено, а отказанные сотрудники отображаются с периодом и конкретной причиной. Supabase-схема не изменялась."
 }
