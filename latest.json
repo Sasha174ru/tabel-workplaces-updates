@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.16/default-2026090216-landscape-phone.apk",
-  "sha256": "F56D0B927FEA1D18A2F2B71F11A5AD1B9FBC71F71ADEA2B6E461208DEFF2D571",
-  "name": "default-2026090216-landscape-phone.apk",
-  "version": "2026.09.02.16",
-  "versionCode": 2026090216,
-  "notes": "Исправлено повторное добавление отпуска: одинаковый период одного сотрудника хранится только один раз, старые дубликаты очищаются при сохранении и синхронизации. Разные части отпуска по месяцам сохраняются. Supabase-схема и рабочие данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.17/default-2026090217-landscape-phone.apk",
+  "sha256": "77634661FB9AC97A202BB36C6C5738BCAD8E7B26341AD519037D84366379FD47",
+  "name": "default-2026090217-landscape-phone.apk",
+  "version": "2026.09.02.17",
+  "versionCode": 2026090217,
+  "notes": "Исправлены пересекающиеся периоды отпусков: для одного сотрудника остаётся один корректный период, а старые пересекающиеся дубли очищаются при сохранении и синхронизации. Разные непересекающиеся части отпуска по месяцам сохраняются. Supabase-схема и рабочие данные без изменений."
 }
