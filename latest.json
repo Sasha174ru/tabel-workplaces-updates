@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.28/default-2026090228-landscape-phone.apk",
-  "sha256": "62BB83E4D711B10CE563FBDF34CD06F2C0CB6139B5F7E78EF44AD57EBDD4BAAA",
-  "name": "default-2026090228-landscape-phone.apk",
-  "version": "2026.09.02.28",
-  "versionCode": 2026090228,
-  "notes": "Если выбранная дата занята, причины отказа теперь показываются по всем проверенным датам, включая ограничения рабочего места и одновременной загрузки. Отпуск может начинаться на следующий день после возвращения коллеги. Supabase-схема не изменялась."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.29/default-2026090229-landscape-phone.apk",
+  "sha256": "477C76CFE4612774F48A28C418DF4C7FAAC5E8B82ACE5AA313D2827D919E0406",
+  "name": "default-2026090229-landscape-phone.apk",
+  "version": "2026.09.02.29",
+  "versionCode": 2026090229,
+  "notes": "Причины отказа теперь привязаны к конкретным проверенным интервалам. При конфликте с отпуском коллеги отображается период проверки следующей даты, чтобы было видно, почему отпуск не сдвинулся. Отпуск может начинаться на следующий день после возвращения коллеги. Supabase-схема не изменялась."
 }
