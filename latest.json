@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.10/default-2026090210-product.apk",
-  "sha256": "76E8B924FE07B7A914A3F6C2938876EBA25E913A2D87A43AA6F512B6D0295273",
-  "name": "default-2026090210-product.apk",
-  "version": "2026.09.02.10",
-  "versionCode": 2026090210,
-  "notes": "Исправлен год планирования отпусков: при запуске открывается следующий календарный год относительно текущего года устройства. В 2026 открывается 2027, в 2027 — 2028. Интерфейс и логика лимитов сохранены. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.11/default-2026090211-product.apk",
+  "sha256": "8C70306D2726809E31A476491166583687D2E4B6F54A8BA764B6A5BF431F6679",
+  "name": "default-2026090211-product.apk",
+  "version": "2026.09.02.11",
+  "versionCode": 2026090211,
+  "notes": "Из телефонного справочника убран лишний выбор Цеха 7: фильтрация начинается с участка и рабочего места. Сотрудники, история и внутренняя совместимость старых данных сохранены. Supabase-схема и данные без изменений."
 }
