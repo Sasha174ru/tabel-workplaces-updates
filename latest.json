@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.31/default-2026090231-landscape-phone.apk",
-  "sha256": "C95A825794A7799B0DDC7D982A3C5723785E6D9C1315794A9826C65951A33AA5",
-  "name": "default-2026090231-landscape-phone.apk",
-  "version": "2026.09.02.31",
-  "versionCode": 2026090231,
-  "notes": "В отказе отображается выбранная часть отпуска, а не последний технический кандидат, вышедший за пределы года. Доступные части сохраняются даже при отказе по другой части. Supabase-схема не изменялась."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.32/default-2026090232-landscape-phone.apk",
+  "sha256": "6BC8516D3BDFF303C286533072BF534855CFCF43ACC653403AE87927C3F64D47",
+  "name": "default-2026090232-landscape-phone.apk",
+  "version": "2026.09.02.32",
+  "versionCode": 2026090232,
+  "notes": "Отпуск, начавшийся в декабре, может продолжаться в январе следующего года. Переход учитывается в занятости рабочего места, лимите одновременных отпусков и лимите января. Supabase-схема не изменялась."
 }
