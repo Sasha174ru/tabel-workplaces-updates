@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.11/default-2026090211-product.apk",
-  "sha256": "8C70306D2726809E31A476491166583687D2E4B6F54A8BA764B6A5BF431F6679",
-  "name": "default-2026090211-product.apk",
-  "version": "2026.09.02.11",
-  "versionCode": 2026090211,
-  "notes": "Из телефонного справочника убран лишний выбор Цеха 7: фильтрация начинается с участка и рабочего места. Сотрудники, история и внутренняя совместимость старых данных сохранены. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.13/default-2026090213-product.apk",
+  "sha256": "6642F24DFA955E1129A77BB497079BCD1065D6B3F222D6D298464B961F6F47DE",
+  "name": "default-2026090213-product.apk",
+  "version": "2026.09.02.13",
+  "versionCode": 2026090213,
+  "notes": "На Android кнопки настроек выстроены в один столбик, длинные подписи полностью отображаются. Supabase-схема и данные без изменений."
 }
