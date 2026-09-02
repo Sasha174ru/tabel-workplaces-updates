@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.13/default-2026090213-product.apk",
-  "sha256": "6642F24DFA955E1129A77BB497079BCD1065D6B3F222D6D298464B961F6F47DE",
-  "name": "default-2026090213-product.apk",
-  "version": "2026.09.02.13",
-  "versionCode": 2026090213,
-  "notes": "На Android кнопки настроек выстроены в один столбик, длинные подписи полностью отображаются. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.14/default-2026090214-product.apk",
+  "sha256": "A337EF818B92953FEDAE82D426072862F436E6C8541A602BB3C7E2D9F0B373D1",
+  "name": "default-2026090214-product.apk",
+  "version": "2026.09.02.14",
+  "versionCode": 2026090214,
+  "notes": "Ускорено открытие статистики и бланков: скрытые таблицы больше не создаются без необходимости, отчёты кэшируются. Выбор года отпуска ограничен практичным горизонтом. Supabase-схема и данные без изменений."
 }
