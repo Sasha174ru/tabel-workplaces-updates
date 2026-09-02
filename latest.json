@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.07/default-2026090207-product.apk",
-  "sha256": "56022203A18B855BBAEB833C5B96146C5CEAA0001D7810255B7AC2439C388CB9",
-  "name": "default-2026090207-product.apk",
-  "version": "2026.09.02.07",
-  "versionCode": 2026090207,
-  "notes": "Исправлена привязка автораспределения к выбранному году загрузки по месяцам. Теперь части отпуска попадают в выбранный год, список и лимиты обновляются корректно. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.08/default-2026090208-product.apk",
+  "sha256": "D7018AAAFD9A5814070905A5AEF67F9E5B56ED5A20792FB41A50F0AC324C3F36",
+  "name": "default-2026090208-product.apk",
+  "version": "2026.09.02.08",
+  "versionCode": 2026090208,
+  "notes": "Аудит и улучшения: удалены остатки ручного назначения отпусков, усилено экранирование пользовательских данных, увеличены кнопки смен на мобильном календаре. Автораспределение и лимиты сохранены, Supabase-схема и данные без изменений."
 }
