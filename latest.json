@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.30/default-2026090230-landscape-phone.apk",
-  "sha256": "72A28071F0865EFC3CFED67B15CD93A1623F6C746FA4321F32461578F74518AD",
-  "name": "default-2026090230-landscape-phone.apk",
-  "version": "2026.09.02.30",
-  "versionCode": 2026090230,
-  "notes": "Если у сотрудника выбрано несколько частей отпуска, доступные части сохраняются даже при отказе по другой части. Доступная часть может начинаться на следующий день после возвращения коллеги. Supabase-схема не изменялась."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.31/default-2026090231-landscape-phone.apk",
+  "sha256": "C95A825794A7799B0DDC7D982A3C5723785E6D9C1315794A9826C65951A33AA5",
+  "name": "default-2026090231-landscape-phone.apk",
+  "version": "2026.09.02.31",
+  "versionCode": 2026090231,
+  "notes": "В отказе отображается выбранная часть отпуска, а не последний технический кандидат, вышедший за пределы года. Доступные части сохраняются даже при отказе по другой части. Supabase-схема не изменялась."
 }
