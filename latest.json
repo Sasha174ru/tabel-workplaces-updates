@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.15/default-2026090215-landscape-phone.apk",
-  "sha256": "936CE6583E94931B6C9B06FB4247B2115E858ABC8460732BDAFCB64A82827670",
-  "name": "default-2026090215-landscape-phone.apk",
-  "version": "2026.09.02.15",
-  "versionCode": 2026090215,
-  "notes": "Исправлен ввод номера телефона в горизонтальной ориентации Android: компактная таблица показывает поле телефона под ФИО, вызов и действия без горизонтальной прокрутки. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.16/default-2026090216-landscape-phone.apk",
+  "sha256": "F56D0B927FEA1D18A2F2B71F11A5AD1B9FBC71F71ADEA2B6E461208DEFF2D571",
+  "name": "default-2026090216-landscape-phone.apk",
+  "version": "2026.09.02.16",
+  "versionCode": 2026090216,
+  "notes": "Исправлено повторное добавление отпуска: одинаковый период одного сотрудника хранится только один раз, старые дубликаты очищаются при сохранении и синхронизации. Разные части отпуска по месяцам сохраняются. Supabase-схема и рабочие данные без изменений."
 }
