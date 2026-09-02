@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.14/default-2026090214-product.apk",
-  "sha256": "A337EF818B92953FEDAE82D426072862F436E6C8541A602BB3C7E2D9F0B373D1",
-  "name": "default-2026090214-product.apk",
-  "version": "2026.09.02.14",
-  "versionCode": 2026090214,
-  "notes": "Ускорено открытие статистики и бланков: скрытые таблицы больше не создаются без необходимости, отчёты кэшируются. Выбор года отпуска ограничен практичным горизонтом. Supabase-схема и данные без изменений."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.15/default-2026090215-landscape-phone.apk",
+  "sha256": "936CE6583E94931B6C9B06FB4247B2115E858ABC8460732BDAFCB64A82827670",
+  "name": "default-2026090215-landscape-phone.apk",
+  "version": "2026.09.02.15",
+  "versionCode": 2026090215,
+  "notes": "Исправлен ввод номера телефона в горизонтальной ориентации Android: компактная таблица показывает поле телефона под ФИО, вызов и действия без горизонтальной прокрутки. Supabase-схема и данные без изменений."
 }
