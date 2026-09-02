@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.25/default-2026090225-landscape-phone.apk",
-  "sha256": "142CB1F3DE872A4C58C7BA18F8B8B52A7D3843A7D9998070B907B76CB8F8C8ED",
-  "name": "default-2026090225-landscape-phone.apk",
-  "version": "2026.09.02.25",
-  "versionCode": 2026090225,
-  "notes": "Выбранный месяц теперь является обязательным ограничением: отпуск не переносится молча в другой месяц. Если период в выбранном месяце невозможен, сотрудник отображается в отказе с конкретной причиной. Supabase-схема не изменялась."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.02.26/default-2026090226-landscape-phone.apk",
+  "sha256": "F543640755D5713550A1785D20873B5557FFC4A41D9028FC0E408440786BFBCD",
+  "name": "default-2026090226-landscape-phone.apk",
+  "version": "2026.09.02.26",
+  "versionCode": 2026090226,
+  "notes": "Причина отказа теперь показывает сотрудника, занявшего рабочее место, и его период отпуска. Supabase-схема не изменялась."
 }
