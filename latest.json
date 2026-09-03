@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.50/default-2026090450-vacation-month-names.apk",
-  "sha256": "173500B0FDEAF3B41DACD7DF1F617435812896704759F29FE3A783DDFD2239DC",
-  "name": "default-2026090450-vacation-month-names.apk",
-  "version": "2026.09.04.50",
-  "versionCode": 2026090450,
-  "notes": "В карточках месяцев теперь показываются фамилии сотрудников и количество занятых ими дней в выбранном месяце. Если отпусков нет, отображается «Свободно»."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.51/default-2026090451-vacation-month-cards-clean.apk",
+  "sha256": "800FBF17E7D5B566695F315BB2C0C8C01346BF5B354FEDDAFE2A48E2BE6117F",
+  "name": "default-2026090451-vacation-month-cards-clean.apk",
+  "version": "2026.09.04.51",
+  "versionCode": 2026090451,
+  "notes": "Убрано затемнение выбранной карточки месяца: остаются белый фон, цветная рамка и простая галочка. Карточки показывают фамилии сотрудников и количество занятых дней из текущего графика. Если назначений нет, отображается «Нет назначений»."
 }
