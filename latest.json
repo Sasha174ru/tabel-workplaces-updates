@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.56/default-2026090456-vacation-card-layout.apk",
-  "sha256": "C72A4665198F6C66E791D7F541DB8C3AE74A716EFF49982FD7754ECEB8602150",
-  "name": "default-2026090456-vacation-card-layout.apk",
-  "version": "2026.09.04.56",
-  "versionCode": 2026090456,
-  "notes": "Фамилии и количество дней перенесены под галочку на всю ширину карточки, чтобы дни были хорошо видны."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.57/default-2026090457-vacation-card-text.apk",
+  "sha256": "D0210A31CFCA9466091A942D1FBBE1C27981354D28753B2F73FFCB680794C83A",
+  "name": "default-2026090457-vacation-card-text.apk",
+  "version": "2026.09.04.57",
+  "versionCode": 2026090457,
+  "notes": "Увеличена высота карточек. Названия месяцев и строки с фамилиями и днями больше не обрезаются и не переносятся."
 }
