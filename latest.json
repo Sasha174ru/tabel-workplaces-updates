@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.03.34/default-2026090334-all-periods.apk",
-  "sha256": "FEE1E24AB5CC3241F4EFE31364BF9DB79FCB29F8AA0D83999B77E2CA2FD11624",
-  "name": "default-2026090334-all-periods.apk",
-  "version": "2026.09.03.34",
-  "versionCode": 2026090334,
-  "notes": "В окне результата автораспределения теперь отображаются все назначенные периоды, без скрытой строки «И ещё ...». Список остаётся прокручиваемым. Правила распределения, декабрьское продолжение в январе, Supabase-схема и рабочие данные не изменялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.03.35/default-2026090335-month-sorted.apk",
+  "sha256": "E7BF416DB6BEC0770C1D9A6BADE035C4E9A919F67BFAD59665F2778B89BD7354",
+  "name": "default-2026090335-month-sorted.apk",
+  "version": "2026.09.03.35",
+  "versionCode": 2026090335,
+  "notes": "В окне результата автораспределения все назначенные периоды теперь сортируются по дате начала: от января к декабрю, внутри месяца — по дате. Список остаётся прокручиваемым. Предыдущие правила распределения, Supabase-схема и рабочие данные не изменялись."
 }
