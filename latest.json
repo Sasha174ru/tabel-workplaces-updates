@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.47/default-2026090447-vacation-month-selection.apk",
-  "sha256": "2CFA377CE342714B623C81E4D2C309F1FB4AEA9373CDF97481D937D282D262A0",
-  "name": "default-2026090447-vacation-month-selection.apk",
-  "version": "2026.09.04.47",
-  "versionCode": 2026090447,
-  "notes": "Исправлено отображение выбранного месяца на Android: выбранный месяц теперь явно подсвечивается даже в старых WebView, где не поддерживается :has(). Правила распределения без изменений: не более 3 человек одновременно, не более 1 человека с одного рабочего места, следующий отпуск после ближайшего возвращения, часть отпуска не менее 14 дней и максимум 2 части."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.49/default-2026090449-vacation-month-cards.apk",
+  "sha256": "80CE5B7460E00A32FFBFFB7A21AEE5C034B2D46D173593CB0361341F925987D2",
+  "name": "default-2026090449-vacation-month-cards.apk",
+  "version": "2026.09.04.49",
+  "versionCode": 2026090449,
+  "notes": "В окне автораспределения месяцы заменены на карточки: показываются название месяца, отметка выбора, сколько отпускных дней уже занято и сколько сотрудников уже запланировано. Выбранные карточки переключаются нажатием по всей карточке."
 }
