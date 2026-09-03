@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.55/default-2026090455-vacation-card-style.apk",
-  "sha256": "6B0E14807FCDCEC7A1D60F1A165AA64B44A99E21649326919B7C7F36EA355182",
-  "name": "default-2026090455-vacation-card-style.apk",
-  "version": "2026.09.04.55",
-  "versionCode": 2026090455,
-  "notes": "Убрана подсветка выбранной карточки. Рамки карточек и галочка усилены, галочка стала красной. Фамилии сотрудников с выбранным полным отпуском отображаются красным цветом."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.56/default-2026090456-vacation-card-layout.apk",
+  "sha256": "C72A4665198F6C66E791D7F541DB8C3AE74A716EFF49982FD7754ECEB8602150",
+  "name": "default-2026090456-vacation-card-layout.apk",
+  "version": "2026.09.04.56",
+  "versionCode": 2026090456,
+  "notes": "Фамилии и количество дней перенесены под галочку на всю ширину карточки, чтобы дни были хорошо видны."
 }
