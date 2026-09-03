@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.03.35/default-2026090335-month-sorted.apk",
-  "sha256": "E7BF416DB6BEC0770C1D9A6BADE035C4E9A919F67BFAD59665F2778B89BD7354",
-  "name": "default-2026090335-month-sorted.apk",
-  "version": "2026.09.03.35",
-  "versionCode": 2026090335,
-  "notes": "В окне результата автораспределения все назначенные периоды теперь сортируются по дате начала: от января к декабрю, внутри месяца — по дате. Список остаётся прокручиваемым. Предыдущие правила распределения, Supabase-схема и рабочие данные не изменялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.03.36/default-2026090336-vacation-month-sorted.apk",
+  "sha256": "6EB1C0FF874736CC2A3CACE4052C16F90288871E6A323A4B83C29E9F07756343",
+  "name": "default-2026090336-vacation-month-sorted.apk",
+  "version": "2026.09.03.36",
+  "versionCode": 2026090336,
+  "notes": "Бланки отпусков теперь всегда упорядочиваются по месяцам: январь, февраль и далее до декабря. Внутри месяца строки идут по дате начала отпуска. Порядок не зависит от старых пользовательских настроек сортировки. Остальные правила, Supabase-схема и рабочие данные не изменялись."
 }
