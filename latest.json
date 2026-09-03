@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.52/default-2026090452-modern-vacation-ui.apk",
-  "sha256": "4BD9762F2A396614069FC84E5E99A01BA34DBB13E677C3D2BEAC68B31A2FED97",
-  "name": "default-2026090452-modern-vacation-ui.apk",
-  "version": "2026.09.04.52",
-  "versionCode": 2026090452,
-  "notes": "Обновлён визуальный стиль: современное оформление окна автораспределения, более аккуратные карточки месяцев, контрастная галочка, улучшенные отступы, цвета, тени и кнопки. Логика распределения не изменена."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.54/default-2026090454-modern-vacation-ui.apk",
+  "sha256": "E2F13957B4F58DE07D1528DB99DA919A987F7D8BC0048A1879DA722EAC488C83",
+  "name": "default-2026090454-modern-vacation-ui.apk",
+  "version": "2026.09.04.54",
+  "versionCode": 2026090454,
+  "notes": "Убрано верхнее информационное окно. Выбранная карточка больше не заливается цветом — остаётся только галочка. Карточки получили чёткие рамки, увеличенное название месяца и место для шести фамилий."
 }
