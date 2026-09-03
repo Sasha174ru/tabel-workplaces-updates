@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.49/default-2026090449-vacation-month-cards.apk",
-  "sha256": "80CE5B7460E00A32FFBFFB7A21AEE5C034B2D46D173593CB0361341F925987D2",
-  "name": "default-2026090449-vacation-month-cards.apk",
-  "version": "2026.09.04.49",
-  "versionCode": 2026090449,
-  "notes": "В окне автораспределения месяцы заменены на карточки: показываются название месяца, отметка выбора, сколько отпускных дней уже занято и сколько сотрудников уже запланировано. Выбранные карточки переключаются нажатием по всей карточке."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.50/default-2026090450-vacation-month-names.apk",
+  "sha256": "173500B0FDEAF3B41DACD7DF1F617435812896704759F29FE3A783DDFD2239DC",
+  "name": "default-2026090450-vacation-month-names.apk",
+  "version": "2026.09.04.50",
+  "versionCode": 2026090450,
+  "notes": "В карточках месяцев теперь показываются фамилии сотрудников и количество занятых ими дней в выбранном месяце. Если отпусков нет, отображается «Свободно»."
 }
