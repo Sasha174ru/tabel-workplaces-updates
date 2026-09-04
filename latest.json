@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.66/default-2026090466-vacation-month-cards.apk",
-  "sha256": "7227E717904F120DB00E54238331FA547BB1F9CA692ACF046BEECC6038767311",
-  "name": "default-2026090466-vacation-month-cards.apk",
-  "version": "2026.09.04.66",
-  "versionCode": 2026090466,
-  "notes": "Повторное нажатие на карточку месяца отменяет выбор."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.68/default-2026090468-vacation-sync-fix.apk",
+  "sha256": "80BE3BAD104A5F854F42CB330A104EFD2471D2D84F61870B57941CF1B1BA3E67",
+  "name": "default-2026090468-vacation-sync-fix.apk",
+  "version": "2026.09.04.68",
+  "versionCode": 2026090468,
+  "notes": "Исправлена загрузка графика отпусков при синхронизации на другом устройстве."
 }
