@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.80/upload-v80.apk",
-  "sha256": "50577CCBDA6A3CE4040AE55AEC5BB4C1CF0F31D3A7066AF58A5E17E4C9ED9959",
-  "name": "upload-v80.apk",
-  "version": "2026.09.04.80",
-  "versionCode": 2026090480,
-  "notes": "Убран нативный эффект нажатия; предварительный расчёт выполняется после короткой паузы без подтормаживания интерфейса."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.81/upload-v81.apk",
+  "sha256": "757442F4D37A0B97C192FF5742B036D5C7EC984535D28FF8DE4C5FDEE967D065",
+  "name": "upload-v81.apk",
+  "version": "2026.09.04.81",
+  "versionCode": 2026090481,
+  "notes": "Исправлен переход отпуска через границу года: январь начинается заново, декабрьские дни не блокируют и не переносятся в бланк нового года. Обновлены кэш-версии и упрощена логика автораспределения."
 }
