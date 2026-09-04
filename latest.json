@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.62/default-2026090462-vacation-month-cards.apk",
-  "sha256": "F67697781697B23C7DDA5DAA4E50FB480782FA9021CFE7F287A8B5A981AF475D",
-  "name": "default-2026090462-vacation-month-cards.apk",
-  "version": "2026.09.04.62",
-  "versionCode": 2026090462,
-  "notes": "Все карточки месяцев имеют одинаковую высоту."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.63/default-2026090463-vacation-month-cards.apk",
+  "sha256": "54B374F3F2E7E31A8872971835652975D65F97A338008EE1DFA497CD77209042",
+  "name": "default-2026090463-vacation-month-cards.apk",
+  "version": "2026.09.04.63",
+  "versionCode": 2026090463,
+  "notes": "Карточки выбора месяца используют оригинальный стиль и одинаковую высоту всей сетки."
 }
