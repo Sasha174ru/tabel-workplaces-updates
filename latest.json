@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.69/default-2026090469-vacation-landscape-layout.apk",
-  "sha256": "234288C8D83933304723F3A9B2225B1AD58225D7A2E0131D9BB2D0F14DFB5D94",
-  "name": "default-2026090469-vacation-landscape-layout.apk",
-  "version": "2026.09.04.69",
-  "versionCode": 2026090469,
-  "notes": "В альбомной ориентации сотрудники отображаются одним столбцом, месяцы — сеткой 6×2."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.71/default-2026090471-unified-staff-responsive-layout.apk",
+  "sha256": "F5AD9BA1F391D1FCA112637C3A5831FFA1227B8E7F753A6F4991AC932846E54C",
+  "name": "default-2026090471-unified-staff-responsive-layout.apk",
+  "version": "2026.09.04.71",
+  "versionCode": 2026090471,
+  "notes": "Портретный планшет использует одну колонку, а альбомный планшет и ПК — полноэкранную раскладку."
 }
