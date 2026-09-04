@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.79/upload-v79.apk",
-  "sha256": "C003DD59FBD9B7622951652A47C8BFD84C7C8181F960A8EB234DEA10BDA81722",
-  "name": "upload-v79.apk",
-  "version": "2026.09.04.79",
-  "versionCode": 2026090479,
-  "notes": "Контрол выбора месяца заменён на элемент без нативного Android-эффекта нажатия; задержка интерфейса устранена."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.80/upload-v80.apk",
+  "sha256": "50577CCBDA6A3CE4040AE55AEC5BB4C1CF0F31D3A7066AF58A5E17E4C9ED9959",
+  "name": "upload-v80.apk",
+  "version": "2026.09.04.80",
+  "versionCode": 2026090480,
+  "notes": "Убран нативный эффект нажатия; предварительный расчёт выполняется после короткой паузы без подтормаживания интерфейса."
 }
