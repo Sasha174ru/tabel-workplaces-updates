@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.75/default-2026090475-yellow-selected-month.apk",
-  "sha256": "41F48B04BFC656CDA554A2AD99D507E37E08C573169E34232A52053DFC1B2112",
-  "name": "default-2026090475-yellow-selected-month.apk",
-  "version": "2026.09.04.75",
-  "versionCode": 2026090475,
-  "notes": "Выбранные месяцы подсвечиваются жёлтым; кнопка «Выбрано» не темнеет при нажатии."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.76/upload-v76.apk",
+  "sha256": "3C9E4E24F03D72F7561A9DFC217A5BC8A04EFDB5015DE43F12F2A351E2336950",
+  "name": "upload-v76.apk",
+  "version": "2026.09.04.76",
+  "versionCode": 2026090476,
+  "notes": "После выбора двух частей остальные кнопки «Выбрать» отключаются."
 }
