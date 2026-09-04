@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.60/default-2026090460-vacation-month-cards.apk",
-  "sha256": "5D1F6E0EF37B7E875F9C54518596704851376378A8CFE181AF829D397B56F758",
-  "name": "default-2026090460-vacation-month-cards.apk",
-  "version": "2026.09.04.60",
-  "versionCode": 2026090460,
-  "notes": "Названия месяцев в карточках теперь полностью помещаются в одну строку, как в оригинальном формате."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.62/default-2026090462-vacation-month-cards.apk",
+  "sha256": "F67697781697B23C7DDA5DAA4E50FB480782FA9021CFE7F287A8B5A981AF475D",
+  "name": "default-2026090462-vacation-month-cards.apk",
+  "version": "2026.09.04.62",
+  "versionCode": 2026090462,
+  "notes": "Все карточки месяцев имеют одинаковую высоту."
 }
