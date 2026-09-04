@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.68/default-2026090468-vacation-sync-fix.apk",
-  "sha256": "80BE3BAD104A5F854F42CB330A104EFD2471D2D84F61870B57941CF1B1BA3E67",
-  "name": "default-2026090468-vacation-sync-fix.apk",
-  "version": "2026.09.04.68",
-  "versionCode": 2026090468,
-  "notes": "Исправлена загрузка графика отпусков при синхронизации на другом устройстве."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.69/default-2026090469-vacation-landscape-layout.apk",
+  "sha256": "234288C8D83933304723F3A9B2225B1AD58225D7A2E0131D9BB2D0F14DFB5D94",
+  "name": "default-2026090469-vacation-landscape-layout.apk",
+  "version": "2026.09.04.69",
+  "versionCode": 2026090469,
+  "notes": "В альбомной ориентации сотрудники отображаются одним столбцом, месяцы — сеткой 6×2."
 }
