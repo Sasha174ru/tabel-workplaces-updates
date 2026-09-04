@@ -1,8 +1,1 @@
-{
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.86/upload-v86-final.apk",
-  "sha256": "B1BF7FF9486DE82D2C2EB58E6F0B98FF348C12AE6561DC7A73DF7D76258CE9D5",
-  "name": "upload-v86-final.apk",
-  "version": "2026.09.04.86",
-  "versionCode": 2026090486,
-  "notes": "В бланках переходящие декабрьские отпуска теперь явно показывают полный год окончания: например, 01.12.27–11.01.2028. Добавлен тест перехода через год."
-}
+{"apkUrl":"https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.87/upload-v87-final.apk","sha256":"20F71627BBED208031B11E22E5223BCFFECBD0F9FE29D4C99265D11A318D4DD9","name":"upload-v87-final.apk","version":"2026.09.04.87","versionCode":2026090487,"notes":"Исправлено сохранение сдвинутых дат после перераспределения: новая фактическая дата начала (например, 05.06) теперь сохраняется вместо устаревшего 01.06. Печатные бланки используют тот же актуальный период."}
