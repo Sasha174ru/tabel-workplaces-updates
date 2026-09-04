@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.73/default-2026090473-month-select-buttons.apk",
-  "sha256": "CD4580B1AC4131DD08128098D57F7C3402FDE6E94996F977D7251506A59DC4C7",
-  "name": "default-2026090473-month-select-buttons.apk",
-  "version": "2026.09.04.73",
-  "versionCode": 2026090473,
-  "notes": "Карточки месяцев не выделяются при прокрутке; выбор выполняется отдельной кнопкой «Выбрать» снизу."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.74/default-2026090474-selected-month-highlight.apk",
+  "sha256": "9C52D9E5CB8E04912E08934B2E9E74E6E3CF28797408B9043985B72DC2805ED0",
+  "name": "default-2026090474-selected-month-highlight.apk",
+  "version": "2026.09.04.74",
+  "versionCode": 2026090474,
+  "notes": "Выбранный месяц постоянно выделен рамкой и фоном; прокрутка не меняет выбор."
 }
