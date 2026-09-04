@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.78/upload-v78.apk",
-  "sha256": "F48A0A2ADABFFB18A38B9CAE126D1886074BA773176A92CFE4422CA5DA4A1496",
-  "name": "upload-v78.apk",
-  "version": "2026.09.04.78",
-  "versionCode": 2026090478,
-  "notes": "При снятии выбора кнопка «Выбрано» сохраняет нейтральный вид и не темнеет."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.79/upload-v79.apk",
+  "sha256": "C003DD59FBD9B7622951652A47C8BFD84C7C8181F960A8EB234DEA10BDA81722",
+  "name": "upload-v79.apk",
+  "version": "2026.09.04.79",
+  "versionCode": 2026090479,
+  "notes": "Контрол выбора месяца заменён на элемент без нативного Android-эффекта нажатия; задержка интерфейса устранена."
 }
