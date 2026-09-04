@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.71/default-2026090471-unified-staff-responsive-layout.apk",
-  "sha256": "F5AD9BA1F391D1FCA112637C3A5831FFA1227B8E7F753A6F4991AC932846E54C",
-  "name": "default-2026090471-unified-staff-responsive-layout.apk",
-  "version": "2026.09.04.71",
-  "versionCode": 2026090471,
-  "notes": "Портретный планшет использует одну колонку, а альбомный планшет и ПК — полноэкранную раскладку."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.72/default-2026090472-phone-visible-number.apk",
+  "sha256": "09438ABC925181AAFB08E4A0D4891E430A94EC5B93E75FFF03415786B194A3A8",
+  "name": "default-2026090472-phone-visible-number.apk",
+  "version": "2026.09.04.72",
+  "versionCode": 2026090472,
+  "notes": "В портретном режиме телефона номер отображается отдельной строкой, а кнопка вызова — под ним."
 }
