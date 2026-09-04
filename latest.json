@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.58/default-2026090458-vacation-card-compact.apk",
-  "sha256": "E5F65E8C7FEDF32FD159CC62B8EC7ACFD423452C53B396A82C96796365BD494F",
-  "name": "default-2026090458-vacation-card-compact.apk",
-  "version": "2026.09.04.58",
-  "versionCode": 2026090458,
-  "notes": "Компактная раскладка карточек месяцев: плотный список фамилий, дни справа, без наложений и лишних вертикальных разрывов."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.59/default-2026090459-vacation-month-cards.apk",
+  "sha256": "500D4FE1EC666B71E5A980C51F16A63E5BBDE26556D31BF4489361CF47D20BA1",
+  "name": "default-2026090459-vacation-month-cards.apk",
+  "version": "2026.09.04.59",
+  "versionCode": 2026090459,
+  "notes": "Карточки выбора месяца приведены к формату загрузки по месяцам: крупный месяц, количество сотрудников и распределённые дни, без дополнительных элементов."
 }
