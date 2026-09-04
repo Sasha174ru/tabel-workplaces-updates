@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.76/upload-v76.apk",
-  "sha256": "3C9E4E24F03D72F7561A9DFC217A5BC8A04EFDB5015DE43F12F2A351E2336950",
-  "name": "upload-v76.apk",
-  "version": "2026.09.04.76",
-  "versionCode": 2026090476,
-  "notes": "После выбора двух частей остальные кнопки «Выбрать» отключаются."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.04.77/upload-v77.apk",
+  "sha256": "DBD59F688E02B0C10726D19757535EBF6C1A8F296CAA2A179BE9A91D0754F73A",
+  "name": "upload-v77.apk",
+  "version": "2026.09.04.77",
+  "versionCode": 2026090477,
+  "notes": "При нажатии на «Выбрано» кнопка больше не темнеет и не исчезает."
 }
