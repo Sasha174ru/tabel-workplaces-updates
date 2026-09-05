@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.96/upload-v96.apk",
-  "sha256": "253CDD41D4184113DE316D9036B2F4812D0710DFA4A2CCFFF00DDFC09FBEE214",
-  "name": "upload-v96.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.96/tabel-workplaces-pc-portable-2026090596.zip",
-  "portableSha256": "F0ECBD5FAF4AF5BACF49468636C5EBE661A699078D2B85A1D57A7342039D1171",
-  "portableName": "tabel-workplaces-pc-portable-2026090596.zip",
-  "version": "2026.09.05.96",
-  "versionCode": 2026090596,
-  "notes": "Полностью исправлено автораспределение отпусков: все сотрудники сохраняют выбранные месяцы, конфликтующие периоды сдвигаются, части и даты не теряются при синхронизации."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.97/upload-v97.apk",
+  "sha256": "1589AB2B7534E42252C83BAE9FAD775ADCBA7DBA2D30D872B05E4DF5C40E47C5",
+  "name": "upload-v97.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.97/tabel-workplaces-pc-portable-2026090597.zip",
+  "portableSha256": "E2E24CBD7B4465DB48D4DBD337DAED2B90C49D23328BF65F9D6BEF009312C521",
+  "portableName": "tabel-workplaces-pc-portable-2026090597.zip",
+  "version": "2026.09.05.97",
+  "versionCode": 2026090597,
+  "notes": "Исправлен общий расчёт отпусков по календарным месяцам. Проверен план 18 сотрудников: 26 периодов, 0 отказов. После обновления выполните распределение заново."
 }
