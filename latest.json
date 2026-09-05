@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.93/upload-v93.apk",
-  "sha256": "B4AA94FD57EF389B7148E54118F1E73C5D8ED2AFC90A04F85F9D66325E6F59D2",
-  "name": "upload-v93.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.93/tabel-workplaces-pc-portable-2026090593.zip",
-  "portableSha256": "67C9433EDB68692A77DE8C4BF65CDEAC528ACBAB9686FCF8F64C511AB58CA789",
-  "portableName": "tabel-workplaces-pc-portable-2026090593.zip",
-  "version": "2026.09.05.93",
-  "versionCode": 2026090593,
-  "notes": "Выбранный месяц является обязательным месяцем начала отпуска для каждого сотрудника; автоматические периоды перестраиваются вокруг выбранных месяцев."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.94/upload-v94.apk",
+  "sha256": "ECC598C6218EF36DE346F57656B5FC12BB0770EA561C61D1CB5DABC4453E6BA3",
+  "name": "upload-v94.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.94/tabel-workplaces-pc-portable-2026090594.zip",
+  "portableSha256": "305DAD2B86F4D3EA9AFA17413CF7F0B85EDE6CE885CDA8BF7B1D6BA3FDA4EE6C",
+  "portableName": "tabel-workplaces-pc-portable-2026090594.zip",
+  "version": "2026.09.05.94",
+  "versionCode": 2026090594,
+  "notes": "Сентябрьские автоматические периоды перестраиваются внутри сентября, чтобы освободить даты для отпусков, начинающихся в выбранном августе."
 }
