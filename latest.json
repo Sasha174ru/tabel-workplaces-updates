@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.90/upload-v90.apk",
-  "sha256": "4D13F1CD6E475AF9D52C1951567CC536A65B8B3C2AECD24F86286E0CF40CDA81",
-  "name": "upload-v90.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.90/tabel-workplaces-pc-portable-2026090590.zip",
-  "portableSha256": "A38BF62185D6E9A86B0DE259E5279CC320B7B27512FA0F6B444264189B27D98B",
-  "portableName": "tabel-workplaces-pc-portable-2026090590.zip",
-  "version": "2026.09.05.90",
-  "versionCode": 2026090590,
-  "notes": "Исправлено распределение отпусков: ожидание возвращения применяется только к сотрудникам одного рабочего места. Сотрудники других рабочих мест могут начинать отпуск с 1-го числа при лимите не более 3 человек одновременно."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.91/upload-v91.apk",
+  "sha256": "9C91D56C6624B6239396A5BB51D9BD7D98FDA4D014F6824959AEA4525C77381D",
+  "name": "upload-v91.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.91/tabel-workplaces-pc-portable-2026090591.zip",
+  "portableSha256": "797D59A9C73B94541A0B4CED434C2C4B3F108CCC120B041748CF841E90815376",
+  "portableName": "tabel-workplaces-pc-portable-2026090591.zip",
+  "version": "2026.09.05.91",
+  "versionCode": 2026090591,
+  "notes": "Исправлено автораспределение отпусков: если одночастный отпуск не помещается в выбранном месяце из-за занятости рабочего места или лимита одновременно отсутствующих, программа ищет ближайшую подходящую дату в следующих месяцах и сдвигает весь период целиком. Для двухчастных отпусков выбранные месяцы сохраняются."
 }
