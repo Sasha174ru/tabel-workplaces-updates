@@ -1,16 +1,16 @@
-# Табель учёта рабочих мест — актуальная версия 2026.09.05.96
+# Табель учёта рабочих мест — актуальная версия 2026.09.05.97
 
 Текущий стабильный релиз:
 
-- [Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.96/upload-v96.apk)
-- [ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.96/tabel-workplaces-pc-portable-2026090596.zip)
-- [Страница релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.09.05.96)
+- [Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.97/upload-v97.apk)
+- [ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.05.97/tabel-workplaces-pc-portable-2026090597.zip)
+- [Страница релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.09.05.97)
 - [Файл автоматического обновления latest.json](https://github.com/Sasha174ru/tabel-workplaces-updates/raw/refs/heads/main/latest.json)
 
-В версии 2026.09.05.96 исправлено автораспределение отпусков для всех сотрудников: сохраняются выбранные месяцы, конфликтующие периоды сдвигаются на свободные даты внутри нужного месяца, обе части отпуска и фактические даты не теряются при синхронизации. Ускорен расчёт и удалён старый дублирующий планировщик.
+В версии 2026.09.05.97 части отпусков распределяются по календарным месяцам с учётом ожидания возвращения с того же рабочего места. Проверен сценарий 18 сотрудников: 26 периодов, 0 отказов, все начала в выбранных месяцах, одновременно не более трёх человек. После обновления выполните распределение заново.
 
-SHA-256 APK: 253CDD41D4184113DE316D9036B2F4812D0710DFA4A2CCFFF00DDFC09FBEE214
+SHA-256 APK: 1589AB2B7534E42252C83BAE9FAD775ADCBA7DBA2D30D872B05E4DF5C40E47C5
 
-SHA-256 ПК portable: F0ECBD5FAF4AF5BACF49468636C5EBE661A699078D2B85A1D57A7342039D1171
+SHA-256 ПК portable: E2E24CBD7B4465DB48D4DBD337DAED2B90C49D23328BF65F9D6BEF009312C521
 
 Supabase-схема и рабочие данные не изменялись.
