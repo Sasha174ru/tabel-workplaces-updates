@@ -1,11 +1,12 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.104/upload-v104.apk",
-  "sha256": "E70E09BAF352B9EB4C3E59761B0968B864F5B1356AF883B15E46B391432998E0",
-  "name": "upload-v104.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.104/tabel-workplaces-pc-portable-20260906104.zip",
-  "portableSha256": "67371B3A6B1460021078141F3142A3B8413BF8EB10CBFBE3025C546038C62104",
-  "portableName": "tabel-workplaces-pc-portable-20260906104.zip",
-  "version": "2026.09.06.104",
-  "versionCode": 2026090704,
-  "notes": "Исправлена стартовая синхронизация через мобильный интернет: увеличен тайм-аут, отключён устаревший кэш WebView и обновлены все копии приложения."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.105/upload-v105.apk",
+  "sha256": "644C6C37C8A035C902D4FE4D7AEB35A582006613D7510F9E0CC981A6D10B9167",
+  "name": "upload-v105.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.105/tabel-workplaces-pc-portable-20260907105.zip",
+  "portableSha256": "64C44F0B18242B6D687D49A8B449ADCB3E0274A83AF459F99C56CA48A9AC750F",
+  "portableName": "tabel-workplaces-pc-portable-20260907105.zip",
+  "version": "2026.09.07.105",
+  "versionCode": 2026090705,
+  "notes": "Исправлено автораспределение отпусков: при добавлении нового выбора неизменённые периоды не пересчитываются заново, а сотрудник сдвигается на ближайшие подходящие даты без ложного отказа."
 }
+
