@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.103/upload-v103.apk",
-  "sha256": "EDF056964874BA00308FA8917797CF306B8E0C0E2B657B4B67A489E351208D23",
-  "name": "upload-v103.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.103/tabel-workplaces-pc-portable-20260906103.zip",
-  "portableSha256": "D2E57B0819A8994F9EBFCC3C38E0399B4F4DFE733A78300FAB5F0D0A6C1C765A",
-  "portableName": "tabel-workplaces-pc-portable-20260906103.zip",
-  "version": "2026.09.06.103",
-  "versionCode": 2026090703,
-  "notes": "Части отпуска в карточке сотрудника теперь отображаются в две строки: дата отдельно, количество дней ниже."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.104/upload-v104.apk",
+  "sha256": "E70E09BAF352B9EB4C3E59761B0968B864F5B1356AF883B15E46B391432998E0",
+  "name": "upload-v104.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.104/tabel-workplaces-pc-portable-20260906104.zip",
+  "portableSha256": "67371B3A6B1460021078141F3142A3B8413BF8EB10CBFBE3025C546038C62104",
+  "portableName": "tabel-workplaces-pc-portable-20260906104.zip",
+  "version": "2026.09.06.104",
+  "versionCode": 2026090704,
+  "notes": "Исправлена стартовая синхронизация через мобильный интернет: увеличен тайм-аут, отключён устаревший кэш WebView и обновлены все копии приложения."
 }
