@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.102/upload-v102.apk",
-  "sha256": "5EF9FD5DD043D34EB43589F7095364CF249D21B691C498E42940D9389E720AAC",
-  "name": "upload-v102.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.102/tabel-workplaces-pc-portable-20260906102.zip",
-  "portableSha256": "7855CDCCCF02C23E0BF55DD5F6F17F213E969B48267D44EA9EB39E20846D3635",
-  "portableName": "tabel-workplaces-pc-portable-20260906102.zip",
-  "version": "2026.09.06.102",
-  "versionCode": 2026090702,
-  "notes": "Исправлена мобильная карточка сотрудников: блок распределения занимает всю ширину, две части отпуска больше не сжимаются в узкие колонки."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.103/upload-v103.apk",
+  "sha256": "EDF056964874BA00308FA8917797CF306B8E0C0E2B657B4B67A489E351208D23",
+  "name": "upload-v103.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.103/tabel-workplaces-pc-portable-20260906103.zip",
+  "portableSha256": "D2E57B0819A8994F9EBFCC3C38E0399B4F4DFE733A78300FAB5F0D0A6C1C765A",
+  "portableName": "tabel-workplaces-pc-portable-20260906103.zip",
+  "version": "2026.09.06.103",
+  "versionCode": 2026090703,
+  "notes": "Части отпуска в карточке сотрудника теперь отображаются в две строки: дата отдельно, количество дней ниже."
 }
