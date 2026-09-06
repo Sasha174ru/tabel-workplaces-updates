@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.99/upload-v99.apk",
-  "sha256": "5374092AA72047D7A270DB5B49955F2C866C391603CD36F3AA970FA87A004DB3",
-  "name": "upload-v99.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.99/tabel-workplaces-pc-portable-2026090699.zip",
-  "portableSha256": "BF9CBAAE5289CCE58AB8688F7728E9182812E56FE54728405B68BA3BB12725A5",
-  "portableName": "tabel-workplaces-pc-portable-2026090699.zip",
-  "version": "2026.09.06.99",
-  "versionCode": 2026090699,
-  "notes": "Полный аудит: исправлены синхронизация на нескольких устройствах, сохранение активного ввода, безопасность старых HTML-обработчиков, доступность модального окна, сенсорные кнопки, тёмная тема и проверка пути ПК-сервера. Доступ без паролей сохранён. Обновите приложение на всех устройствах."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.100/upload-v100.apk",
+  "sha256": "40485E6349B98068DEBED20DFD892309B5820207F4366C10B2EB57360AE6AD4D",
+  "name": "upload-v100.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.100/tabel-workplaces-pc-portable-20260906100.zip",
+  "portableSha256": "CC730C6AC3AA3FE1C75C8F407FC19852EBD99FA8215FCD12631DECC0CEBAFC4B",
+  "portableName": "tabel-workplaces-pc-portable-20260906100.zip",
+  "version": "2026.09.06.100",
+  "versionCode": 2026090700,
+  "notes": "Исправлена синхронизация при запуске через мобильный интернет: устаревший navigator.onLine больше не блокирует стартовый запрос, учтено LTE-подключение, увеличен тайм-аут первого чтения Supabase и добавлены повторные попытки. Офлайн-сохранение на устройстве сохранено."
 }
