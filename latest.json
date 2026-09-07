@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.111/tabel-workplaces-android-20260907111.apk",
-  "sha256": "35AE0E13659D55DDCC00726D49909FFF6D34BE721DB5E1F3E0930AAA3E0C7C2A",
-  "name": "tabel-workplaces-android-20260907111.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.111/tabel-workplaces-pc-portable-20260907111.zip",
-  "portableSha256": "3E52AEE8EEF7D769A413CCF36B1EE72DE01BFED521DE46DA0EF77B5107982629",
-  "portableName": "tabel-workplaces-pc-portable-20260907111.zip",
-  "version": "2026.09.07.111",
-  "versionCode": 2026090711,
-  "notes": "Стартовый экран адаптирован под разные смартфоны: календарь и нижняя зона не перекрываются системной навигацией. Три нижние кнопки объединены в одну кнопку «Меню», календарю возвращено освободившееся место. Обновлены Android- и portable-версии. Синхронизация загружает данные при запуске, отправка изменений выполняется после нажатия «Сохранить»."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.112/tabel-workplaces-android-20260907112.apk",
+  "sha256": "0FBF9CA69CC83E32272E8909C81F2E1BB9E530AD046D5281AF3A762FCC9A33AE",
+  "name": "tabel-workplaces-android-20260907112.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.112/tabel-workplaces-pc-portable-20260907112.zip",
+  "portableSha256": "E4A0C030842F9889AC3EF2ADF0C3FD9A4ADFE69F704DFC993561CA4253C6F8DB",
+  "portableName": "tabel-workplaces-pc-portable-20260907112.zip",
+  "version": "2026.09.07.112",
+  "versionCode": 2026090712,
+  "notes": "Обновлён корпоративный интерфейс приложения: единая визуальная система, адаптивные экраны, улучшены календарь, таблицы, статистика, план отпусков, настройки и бланки. Бизнес-логика и печатные A4-бланки сохранены. Обновлены Android- и portable-версии."
 }
