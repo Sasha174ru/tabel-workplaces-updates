@@ -1,12 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.105/upload-v105.apk",
-  "sha256": "644C6C37C8A035C902D4FE4D7AEB35A582006613D7510F9E0CC981A6D10B9167",
-  "name": "upload-v105.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.105/tabel-workplaces-pc-portable-20260907105.zip",
-  "portableSha256": "64C44F0B18242B6D687D49A8B449ADCB3E0274A83AF459F99C56CA48A9AC750F",
-  "portableName": "tabel-workplaces-pc-portable-20260907105.zip",
-  "version": "2026.09.07.105",
-  "versionCode": 2026090705,
-  "notes": "Исправлено автораспределение отпусков: при добавлении нового выбора неизменённые периоды не пересчитываются заново, а сотрудник сдвигается на ближайшие подходящие даты без ложного отказа."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.107/upload-v107.apk",
+  "sha256": "B8D301441A225AEFFFA0808E4C0941C3CB036C55BE697FA60D287916C49664A6",
+  "name": "upload-v107.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.107/tabel-workplaces-pc-portable-20260907107.zip",
+  "portableSha256": "117C70653AE78A4D023FE0C89A0A2E4D90CA2A608CB332D49C111C2BBF65C29F",
+  "portableName": "tabel-workplaces-pc-portable-20260907107.zip",
+  "version": "2026.09.07.107",
+  "versionCode": 2026090707,
+  "notes": "Автораспределение отпусков обновлено: не более 4 сотрудников одной бригады одновременно и не более 1 сотрудника с одного рабочего места. Синхронизация выполняется при запуске, отправка изменений — после кнопки «Сохранить»."
 }
-
