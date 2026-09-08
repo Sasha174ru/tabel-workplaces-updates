@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.112/tabel-workplaces-android-20260907112.apk",
-  "sha256": "0FBF9CA69CC83E32272E8909C81F2E1BB9E530AD046D5281AF3A762FCC9A33AE",
-  "name": "tabel-workplaces-android-20260907112.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.112/tabel-workplaces-pc-portable-20260907112.zip",
-  "portableSha256": "E4A0C030842F9889AC3EF2ADF0C3FD9A4ADFE69F704DFC993561CA4253C6F8DB",
-  "portableName": "tabel-workplaces-pc-portable-20260907112.zip",
-  "version": "2026.09.07.112",
-  "versionCode": 2026090712,
-  "notes": "Обновлён корпоративный интерфейс приложения: единая визуальная система, адаптивные экраны, улучшены календарь, таблицы, статистика, план отпусков, настройки и бланки. Бизнес-логика и печатные A4-бланки сохранены. Обновлены Android- и portable-версии."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.113/tabel-workplaces-android-20260907113.apk",
+  "sha256": "5485B1C6B2ADCE243B5014F0277A4E2EEF148D175804F75548A3D6ADCB782410",
+  "name": "tabel-workplaces-android-20260907113.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.07.113/tabel-workplaces-pc-portable-20260907113.zip",
+  "portableSha256": "C384131F56FD022C3B380253B933A0D2194531A5AB5004B84D7B716FFB4A157E",
+  "portableName": "tabel-workplaces-pc-portable-20260907113.zip",
+  "version": "2026.09.07.113",
+  "versionCode": 2026090713,
+  "notes": "Добавлена отдельная вкладка «Номера телефонов» с поиском, фильтром по бригаде, редактированием, вызовом и копированием номера. Функция вызова перенесена из «Единого штата сотрудников». Обновлены Android- и Windows portable-версии."
 }
