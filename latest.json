@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.08.115/tabel-workplaces-android-20260908115.apk",
-  "sha256": "450726221D1F65B1CDBC74261B36316F2AA1A79E316D4D8121A58DB1E1C48513",
-  "name": "tabel-workplaces-android-20260908115.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.08.115/tabel-workplaces-pc-portable-20260908115.zip",
-  "portableSha256": "5D74CFF2204A47876747F670AAC3EE266788B4C693E5028BD3524D0755998AB6",
-  "portableName": "tabel-workplaces-pc-portable-20260908115.zip",
-  "version": "2026.09.08.115",
-  "versionCode": 2026090815,
-  "notes": "UI/UX-аудит и адаптивность: календарь корректно помещается на коротких и горизонтальных экранах, нижняя навигация не перекрывает контент, мобильная таблица сотрудников читаема, а запуск автораспределения отпуска понятен до выбора бригады. Бизнес-логика, синхронизация, сохранение и правила распределения не менялись. Обновлены Android- и Windows portable-версии."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.116/tabel-workplaces-android-20260909116.apk",
+  "sha256": "C8977E8CE7766B5D02E8C0DACE07549E1DB8188EB5A7F232C4A148D72F742921",
+  "name": "tabel-workplaces-android-20260909116.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.116/tabel-workplaces-pc-portable-20260909116.zip",
+  "portableSha256": "2ACDD54DD9D010AA7A7C343E3F26B1AF06B730C65AE2FCEBE3E61C3B81810B35",
+  "portableName": "tabel-workplaces-pc-portable-20260909116.zip",
+  "version": "2026.09.09.116",
+  "versionCode": 2026090916,
+  "notes": "UI/UX-улучшения для смартфонов: стартовый календарь и меню корректно помещаются в портретной и горизонтальной ориентации, нижняя навигация не перекрывает контент. Добавлен крупный просмотр бланков с масштабированием, улучшены состояния интерфейса и читаемость. Бизнес-логика отпусков, синхронизация, сохранение и Supabase не изменялись. Обновлены Android- и Windows portable-версии."
 }
