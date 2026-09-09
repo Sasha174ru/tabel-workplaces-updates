@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.117/tabel-workplaces-android-20260909117.apk",
-  "sha256": "8B647A88ED15C4FCC3195A8AD432AE176537E68C9FB8C0ED15E1D24A9A29BB7F",
-  "name": "tabel-workplaces-android-20260909117.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.117/tabel-workplaces-pc-portable-20260909117.zip",
-  "portableSha256": "3741F5585246C76B51B087E1C34C94CF24127E0802D7003BC82278C347F78EC4",
-  "portableName": "tabel-workplaces-pc-portable-20260909117.zip",
-  "version": "2026.09.09.117",
-  "versionCode": 2026090917,
-  "notes": "Откат интерфейса к стабильной версии 2026.09.08.115 по запросу пользователя. Номер сборки 2026.09.09.117 сохранён выше предыдущего, чтобы устройства с версией 116 приняли откат автоматически. Supabase, синхронизация, сохранение и данные не изменялись. Обновлены Android- и Windows portable-версии."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.118/tabel-workplaces-android-20260909118.apk",
+  "sha256": "C4AD7C731EB4AB9599863E136E9D83FBD77FEAD77370CF3CAA03A70EE111464E",
+  "name": "tabel-workplaces-android-20260909118.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.118/tabel-workplaces-pc-portable-20260909118.zip",
+  "portableSha256": "07134E1160A04065C9EB69EB54C92FA3DB21F0C53133D40AB4F5FB927379B4CB",
+  "portableName": "tabel-workplaces-pc-portable-20260909118.zip",
+  "version": "2026.09.09.118",
+  "versionCode": 2026090918,
+  "notes": "Исправлен алгоритм распределения отпусков: выбранные месяцы сохраняются, при конфликте сдвигается только связанная цепочка сотрудников. Добавлена проверка и автоматическое исправление старых пересекающихся записей. Сохранены ограничения: не более 4 сотрудников одновременно и не более 1 сотрудника с рабочего места. Supabase, синхронизация и сохранение данных не изменялись."
 }

@@ -1,16 +1,16 @@
-# Табель учёта рабочих мест — версия 2026.09.06.98
+# Табель учёта рабочих мест — версия 2026.09.09.118
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.98/upload-v98.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.06.98/tabel-workplaces-pc-portable-2026090698.zip)
-- [Страница релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.09.06.98)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.118/tabel-workplaces-android-20260909118.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.118/tabel-workplaces-pc-portable-20260909118.zip)
+- [Страница релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.09.09.118)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
 
-Исправлены сохранение и синхронизация: правки во время отправки остаются в очереди, повторы используют неизменный снимок, сбой локального сохранения не отображается как успех. Доступ сотрудников без паролей сохранён. Рабочие данные и права Supabase не менялись.
+Исправлен алгоритм распределения отпусков: выбранные месяцы сохраняются, а при конфликте сдвигается только связанная цепочка сотрудников. Старые пересекающиеся записи автоматически выявляются и исправляются. Ограничения сохранены: не более 4 сотрудников одновременно и не более 1 сотрудника с одного рабочего места.
 
-Обновите приложение на всех устройствах. Устанавливайте APK поверх существующей версии, не удаляя приложение и не очищая данные.
+Supabase, синхронизация, сохранение и доступ сотрудников без паролей не изменялись. Устанавливайте APK поверх существующей версии, не удаляя приложение и не очищая данные.
 
-SHA-256 APK: DBE85470CF753C477E1773ECB69244F627D22F1CCE0F9903225BAE748B6FEEC6
+SHA-256 APK: C4AD7C731EB4AB9599863E136E9D83FBD77FEAD77370CF3CAA03A70EE111464E
 
-SHA-256 ПК portable: 2C27CA63AC95211498FFA38D6AE8A18BB1C3DACAA01F05FAF4848C8FAA324E41
+SHA-256 ПК portable: 07134E1160A04065C9EB69EB54C92FA3DB21F0C53133D40AB4F5FB927379B4CB
 
-Автоматические проверки и сборка выполнены. Физическая установка на телефон ещё не проверена.
+Автоматические проверки и сборка выполнены.
