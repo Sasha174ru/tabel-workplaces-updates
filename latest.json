@@ -1,11 +1,12 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.122/tabel-workplaces-android-20260910122.apk",
-  "sha256": "78574415C5BCEE9D16B254808AB4095B4BF051BD0960158A9F73D95909118621",
-  "name": "tabel-workplaces-android-20260910122.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.122/tabel-workplaces-pc-portable-20260910122.zip",
-  "portableSha256": "B8484FFEE50629EC239FA43838319231CA4817CDA41DB48E19292FB505CCD8F2",
-  "portableName": "tabel-workplaces-pc-portable-20260910122.zip",
-  "version": "2026.09.10.122",
-  "versionCode": 2026091022,
-  "notes": "Автораспределение заново рассчитывает всех выбранных сотрудников одним планом. Обновлены правила отпусков: одновременно не более 5 человек в бригаде, не более 1 человека с одного рабочего места, каждая часть отпуска не менее 14 дней, следующий отпуск начинается после ближайшего возвращения. Сохранены автоматическое распределение по выбранным месяцам, перенос через границы года и синхронизация данных."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.123/tabel-workplaces-android-20260910123.apk",
+  "sha256": "F0C2DB4D0C7D53A980B0E821AA38D65F1FCB1137C0BD5026463FE1347196D6E6",
+  "name": "tabel-workplaces-android-20260910123.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.123/tabel-workplaces-pc-portable-20260910123.zip",
+  "portableSha256": "3A0FB41866F4B1744348B72CE2C91CFE16511603C2F016A2EA8236C1C162064D",
+  "portableName": "tabel-workplaces-pc-portable-20260910123.zip",
+  "version": "2026.09.10.123",
+  "versionCode": 2026091023,
+  "notes": "Исправлено отображение отменённых отпусков: старые автоматические периоды больше не возвращаются в список и печатные бланки после отмены выбранного месяца. Сохранены действующие правила распределения и синхронизация данных."
 }
+
