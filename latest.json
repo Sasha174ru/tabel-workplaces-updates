@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.124/tabel-workplaces-android-20260910124.apk",
-  "sha256": "A7C772E1BCD70926CC49DE71094574F05DCBEE288C01126E37AD24B02FA77327",
-  "name": "tabel-workplaces-android-20260910124.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.124/tabel-workplaces-pc-portable-20260910124.zip",
-  "portableSha256": "1E983188FD617415C69F3B310E946D7ADC3D9A8C510C36D870A5AED3B903906D",
-  "portableName": "tabel-workplaces-pc-portable-20260910124.zip",
-  "version": "2026.09.10.124",
-  "versionCode": 2026091024,
-  "notes": "Исправлена очистка выбранного месяца с синхронизацией отменённых записей, настроен расчёт графика смен, добавлена фильтрация записей и сводки по месяцу, усилена проверка SHA-256 обновлений ПК и загрузка Android WebView."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.125/tabel-workplaces-android-20260910125.apk",
+  "sha256": "D540303E8827B4A523B01A44105B2ED2C0161BE9FD00BB58C68D80FE295D9932",
+  "name": "tabel-workplaces-android-20260910125.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.125/tabel-workplaces-pc-portable-20260910125.zip",
+  "portableSha256": "77F513950A7FC1DBE5D4EC8444B5095E2B5BB90442315EA46B325174714A16E6",
+  "portableName": "tabel-workplaces-pc-portable-20260910125.zip",
+  "version": "2026.09.10.125",
+  "versionCode": 2026091025,
+  "notes": "Бланки графика отпусков печатаются только за следующий календарный год; сформирован только один бланк следующего года. Синхронизированы Android и ПК portable сборки."
 }
