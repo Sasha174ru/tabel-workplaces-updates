@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.118/tabel-workplaces-android-20260909118.apk",
-  "sha256": "C4AD7C731EB4AB9599863E136E9D83FBD77FEAD77370CF3CAA03A70EE111464E",
-  "name": "tabel-workplaces-android-20260909118.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.118/tabel-workplaces-pc-portable-20260909118.zip",
-  "portableSha256": "07134E1160A04065C9EB69EB54C92FA3DB21F0C53133D40AB4F5FB927379B4CB",
-  "portableName": "tabel-workplaces-pc-portable-20260909118.zip",
-  "version": "2026.09.09.118",
-  "versionCode": 2026090918,
-  "notes": "Исправлен алгоритм распределения отпусков: выбранные месяцы сохраняются, при конфликте сдвигается только связанная цепочка сотрудников. Добавлена проверка и автоматическое исправление старых пересекающихся записей. Сохранены ограничения: не более 4 сотрудников одновременно и не более 1 сотрудника с рабочего места. Supabase, синхронизация и сохранение данных не изменялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.119/tabel-workplaces-android-20260909119.apk",
+  "sha256": "4BC06D8AFBB12E1F76B6A795000EB269F2F04C1198D27F44BEB7ABAA9B2FFAE6",
+  "name": "tabel-workplaces-android-20260909119.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.09.119/tabel-workplaces-pc-portable-20260909119.zip",
+  "portableSha256": "B6EBBD1F7A49166148D7E2726EAB87A1EC217E151443E2E8610B89EB3DD04598",
+  "portableName": "tabel-workplaces-pc-portable-20260909119.zip",
+  "version": "2026.09.09.119",
+  "versionCode": 2026090919,
+  "notes": "Исправлен пересчёт цепочки отпусков и нормализация старых записей. Для двух частей нормы проверяются допустимые варианты длительности: для 35 дней 14+21…21+14, для 42 дней 14+28…21+21. Сохранены ограничения: не более 4 сотрудников одновременно и не более 1 сотрудника с рабочего места. Снятый выбор сотрудника не возвращается. Supabase, синхронизация и сохранение данных не изменялись."
 }
