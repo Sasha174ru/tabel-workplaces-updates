@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.120/tabel-workplaces-android-20260910120.apk",
-  "sha256": "39030BF0C9857BA1723A65C90ECEF71C6977450C395B0F06488AFD1A875CADF2",
-  "name": "tabel-workplaces-android-20260910120.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.120/tabel-workplaces-pc-portable-20260910120.zip",
-  "portableSha256": "ADCE33F4CA5C181B36DA2C4B3C1130BCF266B30020742224C605AB663B7DB4C1",
-  "portableName": "tabel-workplaces-pc-portable-20260910120.zip",
-  "version": "2026.09.10.120",
-  "versionCode": 2026091020,
-  "notes": "Исправлено автораспределение при добавлении нового сотрудника: полный пересчёт цепочки запускается устойчиво, старые ключи с пробелами сопоставляются по табельному номеру и ФИО, а автоматические записи уволенных сотрудников больше не блокируют новый план и сохраняются в истории. Шаймухаметов с февралём и июнём распределяется в выбранные месяцы. Для двух частей нормы проверяются варианты 35 дней 14+21…21+14 и 42 дней 14+28…21+21. Ограничения: не более 4 сотрудников одновременно и не более 1 сотрудника с рабочего места. Supabase, синхронизация и сохранение данных не изменялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.121/tabel-workplaces-android-20260910121.apk",
+  "sha256": "D5F301965C0CBF6DD1363F3040B512DC8CCDEAE3BDD922945D3453FEDFDC681D",
+  "name": "tabel-workplaces-android-20260910121.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.10.121/tabel-workplaces-pc-portable-20260910121.zip",
+  "portableSha256": "47C9EFE1F5FD209E2D07D31F6B06C535B8661045D0EC90837EBE63017CEC1CE1",
+  "portableName": "tabel-workplaces-pc-portable-20260910121.zip",
+  "version": "2026.09.10.121",
+  "versionCode": 2026091021,
+  "notes": "Исправлена ошибка отмены выбора месяца. При удалении последнего автоматического периода старое предпочтение сотрудника теперь очищается в локальном состоянии и передаётся на другие устройства через синхронизацию. Если удаляется только одна из двух частей отпуска, оставшийся выбор сохраняется. Исправление не меняет правила распределения, лимиты бригады и рабочие места."
 }
