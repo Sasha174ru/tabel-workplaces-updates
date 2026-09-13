@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.13.128/tabel-workplaces-android-20260913128.apk",
-  "sha256": "12AAB8E18A37049BB03CB9F5364B41E4DCF3493036C15D52C32FB48F7C84C0C9",
-  "name": "tabel-workplaces-android-20260913128.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.13.128/tabel-workplaces-pc-portable-20260913128.zip",
-  "portableSha256": "A2A64E5264E1110EDF6480152A01E79DDDB7A2BD85ADA42DFAFBC87D8A242308",
-  "portableName": "tabel-workplaces-pc-portable-20260913128.zip",
-  "version": "2026.09.13.128",
-  "versionCode": 2026091328,
-  "notes": "Удалён устаревший код синхронизации и очищены пустые legacy-таблицы Supabase. Android и ПК portable собраны из одной синхронизированной версии 2026.09.13.128."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.13.129/tabel-workplaces-android-20260913129.apk",
+  "sha256": "80039D6C016E05C37E6F6CA33095A2ED0A5829E6E89D125F6FA43F571BC5B9F0",
+  "name": "tabel-workplaces-android-20260913129.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.13.129/tabel-workplaces-pc-portable-20260913129.zip",
+  "portableSha256": "5C6DF664617433DE63CD1683FD0C7CC09A568826294CFE9F9A528D88AB50DA81",
+  "portableName": "tabel-workplaces-pc-portable-20260913129.zip",
+  "version": "2026.09.13.129",
+  "versionCode": 2026091329,
+  "notes": "Исправлена ошибка синхронизации после обновления: восстановлено чтение полного состояния из Supabase. Android и ПК portable собраны из одной синхронизированной версии 2026.09.13.129."
 }
