@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.15.133/tabel-workplaces-android-20260915133.apk",
-  "sha256": "122DE5D6BBE3C75EE66536EFBBC9CE8D2CF8047376E4621C68D4C7C533E385FF",
-  "name": "tabel-workplaces-android-20260915133.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.15.133/tabel-workplaces-pc-portable-20260915133.zip",
-  "portableSha256": "01AF7C782BD22D0462568FAC82CEEDFBD40EB70E7278C91C67CF5A0B0FE909E5",
-  "portableName": "tabel-workplaces-pc-portable-20260915133.zip",
-  "version": "2026.09.15.133",
-  "versionCode": 2026091513,
-  "notes": "Исправлена привязка сотрудников по уникальному табельному номеру: изменение ФИО, бригады или рабочего места не теряет исторические смены, переводы и отпуска. Подработчики доступны в бланках переводов, но не включаются во встречносменные собрания. Исправлено отображение строк встречносменных собраний. ПК portable и Android собраны из одной версии; данные бланков, смен, отпусков и единого штата не изменялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.15.135/tabel-workplaces-android-20260915135.apk",
+  "sha256": "F443B91384E18D67F1D559DC5A629501817A41E37332647A9274934E75751412",
+  "name": "tabel-workplaces-android-20260915135.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.15.135/tabel-workplaces-pc-portable-20260915135.zip",
+  "portableSha256": "6AE876EAFFB7F74B22C1E2EE8DB8ADCA4D11A9F54E6142543507566A27C3FABC",
+  "portableName": "tabel-workplaces-pc-portable-20260915135.zip",
+  "version": "2026.09.15.135",
+  "versionCode": 2026091515,
+  "notes": "Исправлено восстановление даты смены после выбора дня на стартовом календаре; обновлены карточки отсутствующих, статистика и переводные бланки. Добавлена проверка уникальности табельного номера. Android и ПК portable собраны из одной версии 2026.09.15.135."
 }
