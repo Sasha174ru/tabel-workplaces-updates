@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.15.136/tabel-workplaces-android-20260915136.apk",
-  "sha256": "641BA3B49456975486C48B7D478E27CF53E96ACDACF82E682A18C386401F34DB",
-  "name": "tabel-workplaces-android-20260915136.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.15.136/tabel-workplaces-pc-portable-20260915136.zip",
-  "portableSha256": "4EE6067F45C150993731E96905D5026169801544B7C3A08CFB0866493A0FC3EC",
-  "portableName": "tabel-workplaces-pc-portable-20260915136.zip",
-  "version": "2026.09.15.136",
-  "versionCode": 2026091516,
-  "notes": "Исправлена печать переводных бланков на ПК: окно печати больше не теряет действие пользователя из-за задержки. Обновлены Android cache-buster и portable-пакет; сохранены правила переводов, единый штат, смены, отпуска и синхронизация. Android и ПК portable собраны из одной версии 2026.09.15.136."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.16.137/tabel-workplaces-android-20260916137.apk",
+  "sha256": "13EDEE983042C8083B0D7C883AD8796D1A05EB75E9F32B03DE895F7C1AA29AB9",
+  "name": "tabel-workplaces-android-20260916137.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.16.137/tabel-workplaces-pc-portable-20260916137.zip",
+  "portableSha256": "B7AE04BDD5B71252D1D05F6D50E5C4C0FDA74E6B99C6A84200B7436301A34063",
+  "portableName": "tabel-workplaces-pc-portable-20260916137.zip",
+  "version": "2026.09.16.137",
+  "versionCode": 2026091617,
+  "notes": "Исправлен стартовый экран ПК: календарь смен стал компактным и ровным, ячейки выровнены, подписи смен не налезают, кнопка «Меню» полностью видна. Android и ПК portable собраны из одной версии 2026.09.16.137; сохранены правила переводов, единый штат, смены, отпуска и синхронизация."
 }
