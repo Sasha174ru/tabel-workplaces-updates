@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.17.138/tabel-workplaces-android-20260917138.apk",
-  "sha256": "1865FEBF09F06E558352A3E860537F99CD12F95584B669839361A3E618BC16D8",
-  "name": "tabel-workplaces-android-20260917138.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.17.138/tabel-workplaces-pc-portable-20260917138.zip",
-  "portableSha256": "E36829F909B5E5A760F5495A441F98534D32CD99FAB7705297BC64ED2ED58BD8",
-  "portableName": "tabel-workplaces-pc-portable-20260917138.zip",
-  "version": "2026.09.17.138",
-  "versionCode": 2026091718,
-  "notes": "Android: в календаре смен полностью отображаются подписи День и Ночь с номером бригады; суббота и воскресенье выделены красным. В компактном режиме подписи не скрываются и не пересекаются. Android и ПК portable собраны из одной версии; данные бланков, смен, отпусков и единого штата, правила переводов и синхронизация сохранены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.17.139/tabel-workplaces-android-20260917139.apk",
+  "sha256": "5DBFA66F9306D80FFE98AEC4940FA31208D6282625EBFFEB11F81D2C24155B44",
+  "name": "tabel-workplaces-android-20260917139.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.17.139/tabel-workplaces-pc-portable-20260917139.zip",
+  "portableSha256": "61AD803EEECA877AEE956C9EF0A2749A70A7848495D2E455379F076EFB81D258",
+  "portableName": "tabel-workplaces-pc-portable-20260917139.zip",
+  "version": "2026.09.17.139",
+  "versionCode": 2026091719,
+  "notes": "Android и ПК portable собраны из одной версии. Фон календаря сделан жёлтым, ячейки дней и смен оставлены белыми; подписи День и Ночь с номером бригады полностью отображаются, суббота и воскресенье выделены красным. Данные бланков, смен, отпусков и единого штата, правила переводов и синхронизация сохранены."
 }
