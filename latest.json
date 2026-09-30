@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.30.143/tabel-workplaces-android-20260930143.apk",
-  "sha256": "91EB067117905E8A25A5CE8FC40C57307D9004BD56F943147DA4F054D879B037",
-  "name": "tabel-workplaces-android-20260930143.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.30.143/tabel-workplaces-pc-portable-20260930143.zip",
-  "portableSha256": "95CF67C423DFBEB3F3B1FEAD8A7AF8F0F89DC703CE27B96DB21EEE7A106EB463",
-  "portableName": "tabel-workplaces-pc-portable-20260930143.zip",
-  "version": "2026.09.30.143",
-  "versionCode": 2026093023,
-  "notes": "Исправлено обновление portable-версии на ПК через локальный сервер: архив скачивается через GitHub-редирект, проверяется по SHA-256 и устанавливается с перезапуском. Исправлено сохранение смен ремонта и разогрева после изменения типа смены: разные ключи не позволяют старому tombstone скрыть новую запись. Синхронизированы ПК и Android. Рабочие данные браузера, Supabase, смены, отпуска, бланки и единый штат при обновлении не удаляются."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.30.144/tabel-workplaces-android-20260930144.apk",
+  "sha256": "C7A091377F12FF0F671710C2BF43AAE5C68AD95993E16AC331D4B7F06B5C663E",
+  "name": "tabel-workplaces-android-20260930144.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.30.144/tabel-workplaces-pc-portable-20260930144.zip",
+  "portableSha256": "941839EB672FAED2A3A42C8C807FC406963AFFFBAEE0F74B3756B148EDBE7D88",
+  "portableName": "tabel-workplaces-pc-portable-20260930144.zip",
+  "version": "2026.09.30.144",
+  "versionCode": 2026093024,
+  "notes": "Исправлено отображение стартового календаря на широком экране ПК: календарь использует доступную ширину монитора вместо узкого центрального ограничения. Увеличена читаемость дат и подписей смен на desktop-экранах; мобильная и Android-верстка сохранена. Исправлено обновление portable-версии через локальный сервер с проверкой SHA-256. Рабочие данные браузера, Supabase, смены, отпуска, бланки и единый штат при обновлении не удаляются."
 }
