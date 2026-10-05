@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.05.146/tabel-workplaces-android-20261005146.apk",
-  "sha256": "825E47840725BDB5DEF6FA114947AB1590A396A1579CCBB8AF13A1D0FB82B2C8",
-  "name": "tabel-workplaces-android-20261005146.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.05.146/tabel-workplaces-pc-portable-20261005146.zip",
-  "portableSha256": "7BBACD56EF8A9702DCE06CD760E9AAA4A1224C0CD0AB2A19237735832DE06380",
-  "portableName": "tabel-workplaces-pc-portable-20261005146.zip",
-  "version": "2026.10.05.146",
-  "versionCode": 2026100526,
-  "notes": "Исправлено масштабирование четырёх бланков в WebView без поддержки нового CSS-расчёта: лист вписывается в экран, поворот пересчитывает масштаб, печатный A4 сохранён. Улучшены очередь ручного сохранения, сообщения ошибок и календарь ПК. Рабочие данные при обновлении не удаляются. Проверка на физическом Huawei и реальная синхронизация двух устройств пока не выполнены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.05.147/tabel-workplaces-android-20261005147.apk",
+  "sha256": "7674DF51574A520ACFA7C74DEF3705908FA491455CEB35DF2412C0EEC7D67D38",
+  "name": "tabel-workplaces-android-20261005147.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.05.147/tabel-workplaces-pc-portable-20261005147.zip",
+  "portableSha256": "A24D9AC53F728346A427F73191F4E6B183ED748EFCFDA5D1A271688B70C468CF",
+  "portableName": "tabel-workplaces-pc-portable-20261005147.zip",
+  "version": "2026.10.05.147",
+  "versionCode": 2026100527,
+  "notes": "Улучшены безопасный запуск, остановка и восстановление после прерванного обновления ПК. Незавершённое ручное сохранение помнится после перезагрузки, без автоматической отправки. Рабочие данные и настройки Supabase не менялись. Первый переход с v146 рекомендуется распаковкой новой ПК-версии в отдельную папку и запуском в том же Chrome и на прежнем локальном адресе. Проверка на физическом Huawei и реальный обмен двух устройств пока не выполнены."
 }
