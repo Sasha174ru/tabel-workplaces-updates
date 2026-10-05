@@ -1,12 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.04.145/tabel-workplaces-android-20261004145.apk",
-  "sha256": "DEB10C01AC1C2A60FC7D7C9DA9A576DDA50DB8D058D42CA99ED5F5B6984E831D",
-  "name": "tabel-workplaces-android-20261004145.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.04.145/tabel-workplaces-pc-portable-20261004145.zip",
-  "portableSha256": "D779FCE2453E6927F8473FF67B4AA81B98049AF9D38463F87B862CC0E507A3D3",
-  "portableName": "tabel-workplaces-pc-portable-20261004145.zip",
-  "version": "2026.10.04.145",
-  "versionCode": 2026100425,
-  "notes": "Исправлены предупреждения поверх форм, удаление специальной роли после сохранения норм и обрезание горизонтального календаря Android. Для РМ убраны запрещённые виды смен, подсказки правил согласованы с интерфейсом. Рабочие данные при обновлении не удаляются. Реальная межустройственная синхронизация и ранее сообщённая ошибка Supabase при входе этим выпуском не подтверждены как исправленные."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.05.146/tabel-workplaces-android-20261005146.apk",
+  "sha256": "825E47840725BDB5DEF6FA114947AB1590A396A1579CCBB8AF13A1D0FB82B2C8",
+  "name": "tabel-workplaces-android-20261005146.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.05.146/tabel-workplaces-pc-portable-20261005146.zip",
+  "portableSha256": "7BBACD56EF8A9702DCE06CD760E9AAA4A1224C0CD0AB2A19237735832DE06380",
+  "portableName": "tabel-workplaces-pc-portable-20261005146.zip",
+  "version": "2026.10.05.146",
+  "versionCode": 2026100526,
+  "notes": "Исправлено масштабирование четырёх бланков в WebView без поддержки нового CSS-расчёта: лист вписывается в экран, поворот пересчитывает масштаб, печатный A4 сохранён. Улучшены очередь ручного сохранения, сообщения ошибок и календарь ПК. Рабочие данные при обновлении не удаляются. Проверка на физическом Huawei и реальная синхронизация двух устройств пока не выполнены."
 }
-
