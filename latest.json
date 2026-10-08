@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.148/tabel-workplaces-android-20261008148.apk",
-  "sha256": "6E63822ABDE4A35509D48666B5AEC11DC30155C9753412B02A01B9A3747F5EC3",
-  "name": "tabel-workplaces-android-20261008148.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.148/tabel-workplaces-pc-portable-20261008148.zip",
-  "portableSha256": "63E95935D08C89B09E58B0F1F9536A29B237F772D286D3640CA0CC85043B03E7",
-  "portableName": "tabel-workplaces-pc-portable-20261008148.zip",
-  "version": "2026.10.08.148",
-  "versionCode": 2026100801,
-  "notes": "В настройках добавлен раздел «Должности»: Плавильщик и Машинист разливочной машины. Список использует общий справочник единого штата; добавлен возврат к настройкам, проверено отображение на ПК и узких экранах. Рабочие данные и настройки Supabase не менялись. Проверка установки на физическом Huawei пока не выполнена."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.149/tabel-workplaces-android-20261008149.apk",
+  "sha256": "A33DCD0449EB5111C3CA08CF7FCEE185935B62C74E3FE0E1B12CEF776DBA848D",
+  "name": "tabel-workplaces-android-20261008149.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.149/tabel-workplaces-pc-portable-20261008149.zip",
+  "portableSha256": "7CAB3909B6BF95C3F6ACCCE6927312E0AE54DECBE6FBE1F6FE40F04A48F5608C",
+  "portableName": "tabel-workplaces-pc-portable-20261008149.zip",
+  "version": "2026.10.08.149",
+  "versionCode": 2026100802,
+  "notes": "В разделе «Должности» добавлены кнопки «Удалить» возле каждой строки и «Создать должность» внизу. Новые должности доступны в едином штате; удаление из справочника сохраняет сотрудников и их прежние должности, смены, отпуска и бланки. Для передачи изменений нажмите «Сохранить»; на других устройствах нужна v149 или новее. Проверены ПК, мобильные размеры и изолированная синхронизация. Физические телефоны пока не проверялись."
 }
