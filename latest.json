@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.155/tabel-workplaces-android-20261008155.apk",
-  "sha256": "9B43710F11A142C19C1A20299C54E306469A9BAD93C2AE6261C7D6D62C7CE8CE",
-  "name": "tabel-workplaces-android-20261008155.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.155/tabel-workplaces-pc-portable-20261008155.zip",
-  "portableSha256": "7CAF626CB681168154D237612756D656C3B3ADC432986AC9D707CF4C7E0CF719",
-  "portableName": "tabel-workplaces-pc-portable-20261008155.zip",
-  "version": "2026.10.08.155",
-  "versionCode": 2026100808,
-  "notes": "Исправлены правила переводов для новых рабочих мест и должностей: сравниваются полные названия мест, а не короткие номера. «Печь 41» и «Цех 41» различаются; регистр, пробелы и устаревший код не создают ложный перевод. Своё место/разряд, другое место/разряд и подработчики учитываются согласно настройкам бланка. Проверены новые, вложенные места и разливочные машины, история и объединение периодов. Пройдены 42 сценария, 672 сочетания настроек, тесты интерфейса на шести размерах и сборки ПК/Android; SHA-256 проверены. Рабочие данные не изменены. Физические телефоны и живая синхронизация не проверялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.09.156/tabel-workplaces-android-20261009156.apk",
+  "sha256": "A6821B8E5C8B63926F7B176334F0DC58F9F091AD46535D273E4C67739B16A27D",
+  "name": "tabel-workplaces-android-20261009156.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.09.156/tabel-workplaces-pc-portable-20261009156.zip",
+  "portableSha256": "E78F02F2CD74F4F2CD242689BD9E6E1FF729DCB1B8EB6536B4661B42B3321EC3",
+  "portableName": "tabel-workplaces-pc-portable-20261009156.zip",
+  "version": "2026.10.09.156",
+  "versionCode": 2026100901,
+  "notes": "Исправлено добавление сотрудников на пользовательские рабочие места: новое и уже созданное место, включая СГП, сразу получает кнопку «Добавить». Вложенные места поддерживаются на нескольких уровнях; сотрудники добавляются на каждое из них. Встроенные печи и машины, история, нормы и правила переводов сохранены. Пройдены 120 назначений на 20 тестовых местах и шести размерах, миграция, слияние каталогов, перезагрузка, скрытие/восстановление, регрессии бланков и сборка ПК/Android. Рабочие данные не изменены; физический телефон и живая синхронизация не проверялись."
 }
