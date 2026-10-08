@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.149/tabel-workplaces-android-20261008149.apk",
-  "sha256": "A33DCD0449EB5111C3CA08CF7FCEE185935B62C74E3FE0E1B12CEF776DBA848D",
-  "name": "tabel-workplaces-android-20261008149.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.149/tabel-workplaces-pc-portable-20261008149.zip",
-  "portableSha256": "7CAB3909B6BF95C3F6ACCCE6927312E0AE54DECBE6FBE1F6FE40F04A48F5608C",
-  "portableName": "tabel-workplaces-pc-portable-20261008149.zip",
-  "version": "2026.10.08.149",
-  "versionCode": 2026100802,
-  "notes": "В разделе «Должности» добавлены кнопки «Удалить» возле каждой строки и «Создать должность» внизу. Новые должности доступны в едином штате; удаление из справочника сохраняет сотрудников и их прежние должности, смены, отпуска и бланки. Для передачи изменений нажмите «Сохранить»; на других устройствах нужна v149 или новее. Проверены ПК, мобильные размеры и изолированная синхронизация. Физические телефоны пока не проверялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.150/tabel-workplaces-android-20261008150.apk",
+  "sha256": "E74A2EEED744FF84FB9E94D14A503AF87313629CD28A1D8C38D71B0694EB61F7",
+  "name": "tabel-workplaces-android-20261008150.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.150/tabel-workplaces-pc-portable-20261008150.zip",
+  "portableSha256": "32ECE9B43559C400E188D8E900775AD8651C2EE7CF649A7AAFC19C11B31D2E49",
+  "portableName": "tabel-workplaces-pc-portable-20261008150.zip",
+  "version": "2026.10.08.150",
+  "versionCode": 2026100803,
+  "notes": "Добавлен раздел «Спец должности»: Пролётчик, Подработчик, Капремонт и свои названия. Возле каждой роли — «Удалить», внизу — «Создать спец должность». Удаление исключает только новые назначения, история смен, часы, бланки и нормы сохраняются. Повторное создание с прежним названием возвращает ту же роль. Для передачи справочника нажмите «Сохранить»; на всех устройствах рекомендуется v150. Проверены ПК, мобильные размеры, поворот и изолированная передача JSON-настроек. Физические телефоны пока не проверялись."
 }
