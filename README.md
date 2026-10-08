@@ -1,19 +1,29 @@
-# Табель учёта рабочих мест — версия 2026.09.12.126
+# Табель учёта рабочих мест — версия 2026.10.08.148
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.12.126/tabel-workplaces-android-20260912126.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.09.12.126/tabel-workplaces-pc-portable-20260912126.zip)
-- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.09.12.126)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.148/tabel-workplaces-android-20261008148.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.08.148/tabel-workplaces-pc-portable-20261008148.zip)
+- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.10.08.148)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
 
 ## Что изменилось
 
-- Исправлен рендеринг вкладки «Номера телефонов».
-- Android и ПК portable собраны из одной синхронизированной версии приложения.
-- APK можно устанавливать поверх предыдущей версии без удаления приложения и очистки локальных данных.
+- В настройках добавлен раздел «Должности»: «Плавильщик» и «Машинист разливочной машины».
+- Названия берутся из общего справочника единого штата; добавлена кнопка возврата к настройкам.
+- Длинное название переносится на узких экранах. Проверены ПК, мобильные размеры окна и поворот экрана.
+- Раздел предназначен для просмотра. Смены, отпуска, бланки, единый штат и Supabase не очищались.
+- Пройдены проверки синтаксиса, логики и критических сценариев, Android lintRelease и assembleRelease. Файлы APK и ПК-пакета сверены с исходниками; подпись APK совпадает с предыдущей версией.
 
-## Контрольные суммы
+## Обновление
 
-- SHA-256 APK: `B602A716B635A1BB74543C907A66B5A5FBB5713598CA9A6F21D7BAD5F17C7A60`
-- SHA-256 ПК portable: `BC168D2D0B6104568E3B2DC65FE147559D35F5C3C5E5E409E07535FD0718F909`
+Android APK устанавливается поверх предыдущей версии — не удаляйте приложение и не очищайте его данные. Установка на физическом Huawei пока не проверялась.
 
-Текущий стабильный релиз: `v2026.09.12.126`. Предыдущие версии доступны в разделе [Releases](https://github.com/Sasha174ru/tabel-workplaces-updates/releases).
+На ПК запускайте программу через «Запуск программы», затем используйте «Настройки → Проверить обновление». Сохраняйте прежний Chrome и локальный адрес, на котором хранятся данные устройства.
+
+## Контрольные суммы SHA-256
+
+```text
+6E63822ABDE4A35509D48666B5AEC11DC30155C9753412B02A01B9A3747F5EC3  tabel-workplaces-android-20261008148.apk
+63E95935D08C89B09E58B0F1F9536A29B237F772D286D3640CA0CC85043B03E7  tabel-workplaces-pc-portable-20261008148.zip
+```
+
+Текущий релиз: `v2026.10.08.148`. Предыдущие версии доступны в разделе [Releases](https://github.com/Sasha174ru/tabel-workplaces-updates/releases).
