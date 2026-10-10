@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.159/tabel-workplaces-android-20261010159.apk",
-  "sha256": "537D217A2B90B1EF2913FC5289C85E80149C9348FD7163437975BA0EB5C29E62",
-  "name": "tabel-workplaces-android-20261010159.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.159/tabel-workplaces-pc-portable-20261010159.zip",
-  "portableSha256": "D800922E11296B63E5510E583E3713A0BBA64CC1E9026F349D70A4E7A75A8EF6",
-  "portableName": "tabel-workplaces-pc-portable-20261010159.zip",
-  "version": "2026.10.10.159",
-  "versionCode": 2026101001,
-  "notes": "У пролётчика и подработчика обычная смена теперь отображается как «Обычная» в таблице рабочего места, общем списке смены и календаре. Спецдолжности, цвета, часы, нормы и расчёты переводов сохранены. Настоящие ремонт и разогрев остаются соответствующими видами смены. Все исправления v158 сохранены. Пройдены 13 новых проверок, 9 наборов регрессионных тестов и сборка Android; защита и рабочие данные не менялись. Установка на физический телефон и обмен четырёх настоящих устройств не проверялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.160/tabel-workplaces-android-20261010160.apk",
+  "sha256": "94F437A0E1C014A4C3D488532E269AD2020BE2F318C716FDC0745941D42BD5AC",
+  "name": "tabel-workplaces-android-20261010160.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.160/tabel-workplaces-pc-portable-20261010160.zip",
+  "portableSha256": "775E904EEF82E4A0C42AE7AD2142B3604379895BF7714DE148CA684F030D7480",
+  "portableName": "tabel-workplaces-pc-portable-20261010160.zip",
+  "version": "2026.10.10.160",
+  "versionCode": 2026101002,
+  "notes": "В «Настройки → Рабочие места → Разливочные машины» исправлено отображение существующего места «РМ». Оно открывается, рядом доступно удаление, внутри — создание вложенных рабочих мест. Удалённые пользователем места автоматически не восстанавливаются; заново создавать существующее «РМ» не нужно. Все исправления v159 сохранены. Пройдены 11 новых проверок и 10 наборов регрессионных тестов, визуальная проверка Chrome и сборка Android. Защита и рабочие данные не менялись. Установка на физический телефон и обмен четырёх настоящих устройств не проверялись."
 }
