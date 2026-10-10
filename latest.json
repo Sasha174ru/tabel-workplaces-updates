@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.162/tabel-workplaces-android-20261010162.apk",
-  "sha256": "C50C861893C49A4C26BC64659535B6FF468319181336A55C7D8A29C7C2359D40",
-  "name": "tabel-workplaces-android-20261010162.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.162/tabel-workplaces-pc-portable-20261010162.zip",
-  "portableSha256": "594942532BAFE544FA2ED4CD01735908D7AD102DD33DEE76B3E23C8822F338C8",
-  "portableName": "tabel-workplaces-pc-portable-20261010162.zip",
-  "version": "2026.10.10.162",
-  "versionCode": 2026101004,
-  "notes": "В меню выбора рабочего места теперь показаны все активные разделы и вложенные места с полным путём: ЦЕХ 7, Печи, печи 41–48, Разливочные машины, РМ, СГП и созданные пользователем места. Конкретное место открывается сразу с кнопкой «Добавить». Новые места появляются автоматически, удалённые скрываются из новых назначений; история, смены и ID сохраняются. Самостоятельные места не дублируются. Все исправления v161 сохранены. Пройдены 17 новых проверок полного списка и все 13 наборов тестов, визуальная проверка Chrome и сборка Android. Защита и рабочие данные не менялись. Физический смартфон и обмен четырёх настоящих устройств не проверялись."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.163/tabel-workplaces-android-20261010163.apk",
+  "sha256": "9DFC8009AA480E1BB1425436BF2A0348F51EBE736F37716F542DD35D2E981015",
+  "name": "tabel-workplaces-android-20261010163.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.163/tabel-workplaces-pc-portable-20261010163.zip",
+  "portableSha256": "3EA81423BED1F69B9D541EB47874E6F97949A7DCE936327ECC7A8EBAE34D7468",
+  "portableName": "tabel-workplaces-pc-portable-20261010163.zip",
+  "version": "2026.10.10.163",
+  "versionCode": 2026101005,
+  "notes": "Исправлено восстановление удалённого СГП внутри ЦЕХ 7: прежнее название в исходном списке возвращает место с прежним ID, историей, настройками, нормами и вложенными местами без создания дубликата. Действующие дубли и восстановление в неправильном разделе запрещены; отдельно удалённые потомки остаются удалёнными. Все исправления v162 сохранены. Пройдены 14 наборов тестов и 25 специальных сценариев восстановления и авторизации, визуальная проверка Chrome и сборка Android. Защита и рабочие данные не менялись. Физический смартфон и обмен четырёх настоящих устройств не проверялись."
 }
