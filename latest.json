@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.166/tabel-workplaces-android-20261010166.apk",
-  "sha256": "EE846DA7B8621A2FD3362BC123FBE13A6B74BC1C325C190213340C656B7B56F3",
-  "name": "tabel-workplaces-android-20261010166.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.166/tabel-workplaces-pc-portable-20261010166.zip",
-  "portableSha256": "E18220631CAC30AFD3D890D625DEE5FB28F09FBD721228C79E12781D8E9DA6AD",
-  "portableName": "tabel-workplaces-pc-portable-20261010166.zip",
-  "version": "2026.10.10.166",
-  "versionCode": 2026101008,
-  "notes": "Исправлен режим Все во вкладке Места: нажатие на карточку открывает её подробности и кнопку Добавить, сохраняя Все в фильтре и остальные карточки. Выбор конкретного места именно в фильтре по-прежнему показывает только его карточку. Исправлено открытие мест с кавычками и HTML-символами в названии. Пройдены 18 наборов автоматических тестов, включая 22 новых сценария; сборка Android, подпись и SHA-256 проверены. Визуальная проверка v166 в Chrome не выполнена; физический телефон и обмен четырёх устройств не проверялись. Защита, рабочие данные и старые версии не затрагиваются."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.167/tabel-workplaces-android-20261010167.apk",
+  "sha256": "C53D0516974B597CAC88FBB15DAAFC007BD2D8D68494B0F401A6F7AEADA7481F",
+  "name": "tabel-workplaces-android-20261010167.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.167/tabel-workplaces-pc-portable-20261010167.zip",
+  "portableSha256": "17A99E104A141A9986010AE095D4831EF707EF3D054F1C2A8DF612E65C68146D",
+  "portableName": "tabel-workplaces-pc-portable-20261010167.zip",
+  "version": "2026.10.10.167",
+  "versionCode": 2026101009,
+  "notes": "Добавлена настройка Название в бланках переводов для каждого рабочего места: можно указать РМ или другое обозначение, не переименовывая место в программе. Применить сохраняет на устройстве, общая кнопка Сохранить передаёт настройку другим устройствам. По умолчанию возвращает прежнее обозначение. Пройдены 19 наборов автоматических тестов, включая 27 новых сценариев; сборка Android, подпись и SHA-256 проверены. Визуальная проверка v167 в Chrome не выполнена; физический телефон и обмен четырёх устройств не проверялись. Защита, рабочие данные и старые версии не затрагиваются."
 }
