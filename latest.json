@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.164/tabel-workplaces-android-20261010164.apk",
-  "sha256": "9ED12E3AAD6C6507F7866D3CFD8C206C04E832151598BF371030EEBDC450E925",
-  "name": "tabel-workplaces-android-20261010164.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.164/tabel-workplaces-pc-portable-20261010164.zip",
-  "portableSha256": "F3569B5F8D45BEF0BC61E259743122556F5ACE28195E16AFC3AF304E4217ECCB",
-  "portableName": "tabel-workplaces-pc-portable-20261010164.zip",
-  "version": "2026.10.10.164",
-  "versionCode": 2026101006,
-  "notes": "Настройки: Подразделение → Участки → Рабочие места с отдельными кнопками создания. Во вкладке Места добавлены связанные фильтры Выбрать подразделение, Выбрать участок и Выбрать рабочее место; создание и удаление обновляют списки, смена родителя очищает дочерний выбор. Существующие места, ID и история сохранены. Пройдены 16 наборов автоматических тестов, сборка Android, проверка подписи и SHA-256. Визуальная проверка v164 в Chrome не завершена; физический телефон и обмен четырёх устройств не проверялись. Защита и рабочие данные не менялись. Старые версии не удаляются."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.165/tabel-workplaces-android-20261010165.apk",
+  "sha256": "9959B8093624075519C9DABEFBF5CA6522289CDE28103BBC861BF1724EAA75C2",
+  "name": "tabel-workplaces-android-20261010165.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.10.165/tabel-workplaces-pc-portable-20261010165.zip",
+  "portableSha256": "798EB2F96F9E4EE7FC95607D61B2DE535F1FE156E0A44A1FCF410858344F0468",
+  "portableName": "tabel-workplaces-pc-portable-20261010165.zip",
+  "version": "2026.10.10.165",
+  "versionCode": 2026101007,
+  "notes": "Во вкладке Места добавлен пункт Все для рабочих мест выбранного участка. Конкретное место показывает только свою карточку с кнопкой Добавить и списком сотрудников, без ленты соседних мест. Переключение обновляет карточку, выбор Все возвращает общий список. Пройдены 17 наборов автоматических тестов, включая 16 новых сценариев карточек; сборка Android, подпись и SHA-256 проверены. Визуальная проверка v165 в Chrome не завершена; физический телефон и обмен четырёх устройств не проверялись. Защита, рабочие данные и старые версии не затрагиваются."
 }
