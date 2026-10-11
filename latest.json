@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.176/tabel-workplaces-android-20261011176.apk",
-  "sha256": "0408467D86C291DB19D1A2F1ECC8706F4E72BC4FFDD86765FD2BFC91F6BEC0FF",
-  "name": "tabel-workplaces-android-20261011176.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.176/tabel-workplaces-pc-portable-20261011176.zip",
-  "portableSha256": "0CB68557E9D70A7AA5FE55BAF490D1DE40919A1D8B1235D5B27D5C9DB34DD2B8",
-  "portableName": "tabel-workplaces-pc-portable-20261011176.zip",
-  "version": "2026.10.11.176",
-  "versionCode": 2026101107,
-  "notes": "Исправления аудита: запрет нулевых часов нового назначения; исторические нулевые записи сохранены и исключены из рабочей статистики; ускорение статистики; текстовая спецдолжность при выключенной подсветке; мобильные карточки назначений и календарь для узких экранов; сохранение фильтров между вкладками. 27 регрессионных наборов и 117 дополнительных проверок пройдены. Android сборка и lint успешны, прежняя подпись APK и SHA-256 проверены. Проверки на искусственных данных без записи в рабочую базу. Физический телефон и обмен четырёх настоящих устройств пока не проверены. Защита, рабочие данные и старые версии не затрагиваются."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.177/tabel-workplaces-android-20261011177.apk",
+  "sha256": "95C62D8107425151E7A8E477F377E5088B391EE9F1AF7015A602EBFEA6ACDF7A",
+  "name": "tabel-workplaces-android-20261011177.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.177/tabel-workplaces-pc-portable-20261011177.zip",
+  "portableSha256": "4FD15D7511BCABD12610FF44A17CDC5E4FA08BC3ED7A2DBB48B16A54106F5430",
+  "portableName": "tabel-workplaces-pc-portable-20261011177.zip",
+  "version": "2026.10.11.177",
+  "versionCode": 2026101108,
+  "notes": "Кнопка «Меню» теперь находится ниже полного календаря и не закрывает последние ночные смены. На небольшом портретном экране панель графика прокручивается целиком до последней недели и кнопки меню. Размер кнопок смен и безопасный отступ Android сохранены. 27 регрессионных наборов и визуальные проверки в Chrome пройдены; Android сборка, lint, прежняя подпись APK и SHA-256 проверены. Физический смартфон не проверен. Расчёты, защита и рабочие данные не менялись. Старые версии не удаляются."
 }
