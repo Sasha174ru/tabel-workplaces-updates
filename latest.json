@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.178/tabel-workplaces-android-20261011178.apk",
-  "sha256": "0A2CF30633040E08800EEBC4F9FA17863604F49327A2E34ED70968C92D4F5513",
-  "name": "tabel-workplaces-android-20261011178.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.178/tabel-workplaces-pc-portable-20261011178.zip",
-  "portableSha256": "9C794DF0836B44B786B19630A816FE922225C639632A6B01AF0DDFA38CF5B134",
-  "portableName": "tabel-workplaces-pc-portable-20261011178.zip",
-  "version": "2026.10.11.178",
-  "versionCode": 2026101109,
-  "notes": "Весь календарь и кнопка «Меню» помещаются на одном вертикальном экране телефона без прокрутки. Высота недель подстраивается под экран, включая месяц с шестью неделями и длинный статус сохранения. На низких экранах смены обозначаются «Д · 2» и «Н · 3», с пояснением сверху. 27 наборов автоматических проверок и 11 проверок интерфейса пройдены; Android-сборка, lint, прежняя подпись APK и SHA-256 проверены. Физический смартфон не проверен. Расчёты, защита и рабочие данные не менялись. Старые версии не удаляются."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.12.179/tabel-workplaces-android-20261012179.apk",
+  "sha256": "F2D0EBB947000FEA337172C0DAD860AC0F43523697FE7F922EEFEF580AA83CFC",
+  "name": "tabel-workplaces-android-20261012179.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.12.179/tabel-workplaces-pc-portable-20261012179.zip",
+  "portableSha256": "E84A63F119D823DE46CCFB2C8FD5663479937E8C57F799DEBA1B0B96087A5DD7",
+  "portableName": "tabel-workplaces-pc-portable-20261012179.zip",
+  "version": "2026.10.12.179",
+  "versionCode": 2026101201,
+  "notes": "Исправлена безопасная область Android: кнопка «Меню» расположена под календарём и выше системной навигации. Весь календарь на вертикальном экране остаётся без прокрутки. Исправлено обрезание компактных подписей смен на небольших экранах. 27 наборов автоматических проверок, 15 проверок интерфейса Chrome с моделью системных панелей, Android-сборка и lint пройдены. Подпись APK прежняя; SHA-256 проверены. Физический смартфон не проверен. Защита, расчёты, бланки и рабочие данные не менялись. Старые версии не удаляются."
 }
