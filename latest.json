@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.175/tabel-workplaces-android-20261011175.apk",
-  "sha256": "A09FDE3615A23697E4FCC2A07A9FADC83FD7A2945F31EE6250BF823ECA082CE9",
-  "name": "tabel-workplaces-android-20261011175.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.175/tabel-workplaces-pc-portable-20261011175.zip",
-  "portableSha256": "0729441FA95F25A289BA6B349D0616C42DBF3EF0823EA44213EB8E69F7E8DE67",
-  "portableName": "tabel-workplaces-pc-portable-20261011175.zip",
-  "version": "2026.10.11.175",
-  "versionCode": 2026101106,
-  "notes": "Исправления аудита: пределы часов нового назначения (обычная, по среднему и разогрев — до 12 ч, ремонт — до 11,5 ч); на РМ только разряды 3 и 4; независимые изменения норм объединяются по полям; очищенный телефон не восстанавливается при синхронизации. Исторические записи не переписываются. 27 регрессионных наборов, 20 сценариев аудита и 50 дополнительных тестов пройдены; Chrome на ПК и мобильной ширине проверен на искусственных данных. Android lint и сборка успешны, прежняя подпись APK и SHA-256 проверены. Физический телефон и обмен четырёх настоящих устройств пока не проверены. Защита, рабочие данные и старые версии не затрагиваются."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.176/tabel-workplaces-android-20261011176.apk",
+  "sha256": "0408467D86C291DB19D1A2F1ECC8706F4E72BC4FFDD86765FD2BFC91F6BEC0FF",
+  "name": "tabel-workplaces-android-20261011176.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.11.176/tabel-workplaces-pc-portable-20261011176.zip",
+  "portableSha256": "0CB68557E9D70A7AA5FE55BAF490D1DE40919A1D8B1235D5B27D5C9DB34DD2B8",
+  "portableName": "tabel-workplaces-pc-portable-20261011176.zip",
+  "version": "2026.10.11.176",
+  "versionCode": 2026101107,
+  "notes": "Исправления аудита: запрет нулевых часов нового назначения; исторические нулевые записи сохранены и исключены из рабочей статистики; ускорение статистики; текстовая спецдолжность при выключенной подсветке; мобильные карточки назначений и календарь для узких экранов; сохранение фильтров между вкладками. 27 регрессионных наборов и 117 дополнительных проверок пройдены. Android сборка и lint успешны, прежняя подпись APK и SHA-256 проверены. Проверки на искусственных данных без записи в рабочую базу. Физический телефон и обмен четырёх настоящих устройств пока не проверены. Защита, рабочие данные и старые версии не затрагиваются."
 }
