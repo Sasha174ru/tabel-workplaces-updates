@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.12.180/tabel-workplaces-android-20261012180.apk",
-  "sha256": "609AA48FCD0AF05B879881204E9527CE35280522113199A43E30F95A567796F8",
-  "name": "tabel-workplaces-android-20261012180.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.12.180/tabel-workplaces-pc-portable-20261012180.zip",
-  "portableSha256": "82196D6D52C5BADD42E4F6921446962548015DD46F61CFFFEF3D5060E6AC62C6",
-  "portableName": "tabel-workplaces-pc-portable-20261012180.zip",
-  "version": "2026.10.12.180",
-  "versionCode": 2026101202,
-  "notes": "Исправлены выбор смены на маленьком экране, ввод часов, подписи подразделений и статистики. Добавлено безопасное локальное хранение большой истории в IndexedDB и устойчивый импорт. Ускорены статистика и группировка переводов без изменения результатов. 27 наборов регрессии, 152 дополнительные и 16 проверок Chrome, Android-сборка и lint прошли. Подпись APK прежняя; физический Android не проверен. Защита, облачные разрешения и рабочие данные не менялись. Устанавливайте APK поверх, не очищая данные. После перехода большой истории на IndexedDB не откатывайтесь на v179 и более старые версии; экспорт JSON доступен."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.12.182/tabel-workplaces-android-20261012182.apk",
+  "sha256": "E607A282825400E274158EB8967463723FAEB121E545C3504188D9A0391A8A5D",
+  "name": "tabel-workplaces-android-20261012182.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.12.182/tabel-workplaces-pc-portable-20261012182.zip",
+  "portableSha256": "5CAE32D53B2AFCAAB269E6CF98E7CB44929F37CD1791523734ACFDE0AC907214",
+  "portableName": "tabel-workplaces-pc-portable-20261012182.zip",
+  "version": "2026.10.12.182",
+  "versionCode": 2026101204,
+  "notes": "Сотрудники на телефоне показаны узкими строками таблицы, как в горизонтальном виде. Номер и ФИО рядом, спецдолжность под ФИО, цвета сохранены. Место, разряд, вид, часы и кнопка удаления доступны сдвигом таблицы вбок; полные ФИО переносятся без обрезания. Работает для конкретного места и «Все». 27 наборов регрессии, 141 дополнительная и 15 проверок Chrome, Android-сборка и lint прошли. Подпись APK прежняя; физический Android не проверен. Защита, расчёты, синхронизация и рабочая база не менялись. Устанавливайте APK поверх, не очищая данные. После перехода большой истории на IndexedDB не откатывайтесь на v179 и более старые версии; экспорт JSON доступен."
 }
