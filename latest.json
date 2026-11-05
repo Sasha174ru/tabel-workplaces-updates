@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.207/tabel-workplaces-android-20261105207.apk",
-  "sha256": "6C7FBA214B37CE01B3E6CDCE96ACACD21AF7E0735E1B97A656C6FB7FCE62BD59",
-  "name": "tabel-workplaces-android-20261105207.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.207/tabel-workplaces-pc-portable-20261105207.zip",
-  "portableSha256": "3DE90DB7BDC3046C180225878BDEDF6C9EDDBE2D7844412AB4904F5D27968E18",
-  "portableName": "tabel-workplaces-pc-portable-20261105207.zip",
-  "version": "2026.11.05.207",
-  "versionCode": 2026110507,
-  "notes": "Медкомиссия: красные отметки, выбор пола и гинеколог, улучшенная прокрутка и переход к специалисту на ПК."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.209/tabel-workplaces-android-20261105209.apk",
+  "sha256": "A8CD12F6B9E53592D459A65973DA637B68FB8074DA523AF1AE1C87B14FB70E75",
+  "name": "tabel-workplaces-android-20261105209.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.209/tabel-workplaces-pc-portable-20261105209.zip",
+  "portableSha256": "2CF76C8054BAC86E77C08890CBC4A4A6292D654B55D33311037CFB9F46077540",
+  "portableName": "tabel-workplaces-pc-portable-20261105209.zip",
+  "version": "2026.11.05.209",
+  "versionCode": 2026110509,
+  "notes": "В бланке медкомиссии добавлена должность. Кнопки «Назад к графику» и «Сохранить» выровнены по высоте."
 }

@@ -1,9 +1,14 @@
-# Табель учёта рабочих мест — версия 2026.11.05.207
+# Табель учёта рабочих мест — версия 2026.11.05.209
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.207/tabel-workplaces-android-20261105207.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.207/tabel-workplaces-pc-portable-20261105207.zip)
-- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.207)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.209/tabel-workplaces-android-20261105209.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.209/tabel-workplaces-pc-portable-20261105209.zip)
+- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.209)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
+
+## Что нового в v209
+
+- В бланк «Медкомиссия — не прошедшие» после ФИО добавлена штатная должность. Колонка доступна в предпросмотре, при печати на А4 и в файле для письма.
+- На экране медкомиссии кнопки «Назад к графику» и «Сохранить» выровнены по высоте.
 
 ## Что нового в v207
 
@@ -119,7 +124,8 @@
 
 Узкие строки сотрудников и цветовые обозначения спецдолжностей из предыдущего выпуска сохранены.
 
-Текущий релиз: `v2026.11.05.207`.
+Текущий релиз: `v2026.11.05.209`.
+
 
 
 
