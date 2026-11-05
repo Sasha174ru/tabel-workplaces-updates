@@ -1,9 +1,15 @@
-# Табель учёта рабочих мест — версия 2026.11.05.202
+# Табель учёта рабочих мест — версия 2026.11.05.203
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.202/tabel-workplaces-android-20261105202.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.202/tabel-workplaces-pc-portable-20261105202.zip)
-- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.202)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.203/tabel-workplaces-android-20261105203.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.203/tabel-workplaces-pc-portable-20261105203.zip)
+- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.203)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
+
+## Что нового в v203
+
+- В «Бланки» добавлена «Мед комиссия» за выбранный год по текущей бригаде.
+- В список входят только сотрудники с незакрытыми пунктами. «Не пройдено» и «Пересдать» указаны отдельно.
+- Добавлена печать на Android и ПК. Android готовит PDF для письма, ПК скачивает HTML для ручного вложения.
 
 ## Что нового в v202
 
@@ -103,4 +109,5 @@
 
 Узкие строки сотрудников и цветовые обозначения спецдолжностей из предыдущего выпуска сохранены.
 
-Текущий релиз: `v2026.11.05.202`.
+Текущий релиз: `v2026.11.05.203`.
+

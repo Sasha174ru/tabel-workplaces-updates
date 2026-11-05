@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.202/tabel-workplaces-android-20261105202.apk",
-  "sha256": "C9CD8395AC6A117FCF1D910914192B179BDF7DFF83BC9154129327B7A4F37886",
-  "name": "tabel-workplaces-android-20261105202.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.202/tabel-workplaces-pc-portable-20261105202.zip",
-  "portableSha256": "441E8EFF4F8E0895702E0FB30CF5D6001AAFED6B52F48C5E815B6465B250C445",
-  "portableName": "tabel-workplaces-pc-portable-20261105202.zip",
-  "version": "2026.11.05.202",
-  "versionCode": 2026110502,
-  "notes": "На ПК меню открывается над кнопкой пятью пунктами в столбик. Один файл запуска. В медкомиссии год выбирается из списка. Все 14 пунктов, включая ФОГ и ФВД, сохранены."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.203/tabel-workplaces-android-20261105203.apk",
+  "sha256": "1143DF959E2FBB383151AEDFFA5CE85E2643FC97A6EB3EDE0674FA0424FC0EE8",
+  "name": "tabel-workplaces-android-20261105203.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.203/tabel-workplaces-pc-portable-20261105203.zip",
+  "portableSha256": "924F9C87662215F161F2700E21C57572B47F91AF62ECC127E7CA4EA1809E8A50",
+  "portableName": "tabel-workplaces-pc-portable-20261105203.zip",
+  "version": "2026.11.05.203",
+  "versionCode": 2026110503,
+  "notes": "Бланк медкомиссии за выбранный год и бригаду. Только непройденные пункты и пересдачи. Печать и подготовка письма."
 }
