@@ -1,9 +1,15 @@
-# Табель учёта рабочих мест — версия 2026.11.05.204
+# Табель учёта рабочих мест — версия 2026.11.05.207
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.204/tabel-workplaces-android-20261105204.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.204/tabel-workplaces-pc-portable-20261105204.zip)
-- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.204)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.207/tabel-workplaces-android-20261105207.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.207/tabel-workplaces-pc-portable-20261105207.zip)
+- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.207)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
+
+## Что нового в v207
+
+- В медкомиссии «Не пройден» и «Пересдать» выделяются красным в светлой и тёмной темах.
+- Для сотрудника можно выбрать пол. Гинеколог доступен и учитывается в статусе и бланке при выборе женского пола.
+- На ПК колёсико прокручивает сотрудников, Shift + колёсико прокручивает колонки. Добавлен переход к специалисту из списка и закрепление заголовков.
 
 ## Что нового в v204
 
@@ -113,6 +119,7 @@
 
 Узкие строки сотрудников и цветовые обозначения спецдолжностей из предыдущего выпуска сохранены.
 
-Текущий релиз: `v2026.11.05.204`.
+Текущий релиз: `v2026.11.05.207`.
+
 
 
