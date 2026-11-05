@@ -1,9 +1,13 @@
-# Табель учёта рабочих мест — версия 2026.11.05.209
+# Табель учёта рабочих мест — версия 2026.11.05.210
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.209/tabel-workplaces-android-20261105209.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.209/tabel-workplaces-pc-portable-20261105209.zip)
-- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.209)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.210/tabel-workplaces-android-20261105210.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.210/tabel-workplaces-pc-portable-20261105210.zip)
+- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.210)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
+
+## Что нового в v210
+
+- На ПК специалисты и анализы медкомиссии показаны в два ряда напротив ФИО без горизонтальной прокрутки. В узком окне добавляются ряды.
 
 ## Что нового в v209
 
@@ -124,7 +128,8 @@
 
 Узкие строки сотрудников и цветовые обозначения спецдолжностей из предыдущего выпуска сохранены.
 
-Текущий релиз: `v2026.11.05.209`.
+Текущий релиз: `v2026.11.05.210`.
+
 
 
 

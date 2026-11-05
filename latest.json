@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.209/tabel-workplaces-android-20261105209.apk",
-  "sha256": "A8CD12F6B9E53592D459A65973DA637B68FB8074DA523AF1AE1C87B14FB70E75",
-  "name": "tabel-workplaces-android-20261105209.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.209/tabel-workplaces-pc-portable-20261105209.zip",
-  "portableSha256": "2CF76C8054BAC86E77C08890CBC4A4A6292D654B55D33311037CFB9F46077540",
-  "portableName": "tabel-workplaces-pc-portable-20261105209.zip",
-  "version": "2026.11.05.209",
-  "versionCode": 2026110509,
-  "notes": "В бланке медкомиссии добавлена должность. Кнопки «Назад к графику» и «Сохранить» выровнены по высоте."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.210/tabel-workplaces-android-20261105210.apk",
+  "sha256": "BF120BD727A5652A9FD98F28A9F215284C326BBCD2FB829BFEC243BB8165DE4B",
+  "name": "tabel-workplaces-android-20261105210.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.210/tabel-workplaces-pc-portable-20261105210.zip",
+  "portableSha256": "04F7CBFB4A9DEBE59AB4710D4965C4E7EA7DCA2B3C3A9DD4506D0D9BBD825021",
+  "portableName": "tabel-workplaces-pc-portable-20261105210.zip",
+  "version": "2026.11.05.210",
+  "versionCode": 2026110510,
+  "notes": "На ПК специалисты и анализы медкомиссии показаны в два ряда напротив ФИО без горизонтальной прокрутки. В узком окне добавляются ряды."
 }
