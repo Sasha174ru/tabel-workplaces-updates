@@ -1,9 +1,14 @@
-# Табель учёта рабочих мест — версия 2026.11.05.200
+# Табель учёта рабочих мест — версия 2026.11.05.202
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.200/tabel-workplaces-android-20261105200.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.200/tabel-workplaces-pc-portable-20261105200.zip)
-- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.200)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.202/tabel-workplaces-android-20261105202.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.202/tabel-workplaces-pc-portable-20261105202.zip)
+- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.202)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
+
+## Что нового в v202
+
+- На ПК меню открывается над кнопкой пятью пунктами в столбик. Один файл запуска. В медкомиссии год выбирается из списка. Все 14 пунктов, включая ФОГ и ФВД, сохранены.
+- APK устанавливайте поверх прежней версии без очистки данных.
 
 ## Что нового в v200
 
@@ -98,4 +103,4 @@
 
 Узкие строки сотрудников и цветовые обозначения спецдолжностей из предыдущего выпуска сохранены.
 
-Текущий релиз: `v2026.11.05.200`.
+Текущий релиз: `v2026.11.05.202`.
