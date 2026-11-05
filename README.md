@@ -1,9 +1,13 @@
-# Табель учёта рабочих мест — версия 2026.11.05.203
+# Табель учёта рабочих мест — версия 2026.11.05.204
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.203/tabel-workplaces-android-20261105203.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.203/tabel-workplaces-pc-portable-20261105203.zip)
-- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.203)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.204/tabel-workplaces-android-20261105204.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.204/tabel-workplaces-pc-portable-20261105204.zip)
+- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.204)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
+
+## Что нового в v204
+
+- Бланк «Мед комиссия» разбивается на листы А4 по фактической высоте строк. На каждой странице повторяется шапка таблицы. Исправление применяется к предпросмотру, печати и файлу для письма.
 
 ## Что нового в v203
 
@@ -109,5 +113,6 @@
 
 Узкие строки сотрудников и цветовые обозначения спецдолжностей из предыдущего выпуска сохранены.
 
-Текущий релиз: `v2026.11.05.203`.
+Текущий релиз: `v2026.11.05.204`.
+
 

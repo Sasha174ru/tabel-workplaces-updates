@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.203/tabel-workplaces-android-20261105203.apk",
-  "sha256": "1143DF959E2FBB383151AEDFFA5CE85E2643FC97A6EB3EDE0674FA0424FC0EE8",
-  "name": "tabel-workplaces-android-20261105203.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.203/tabel-workplaces-pc-portable-20261105203.zip",
-  "portableSha256": "924F9C87662215F161F2700E21C57572B47F91AF62ECC127E7CA4EA1809E8A50",
-  "portableName": "tabel-workplaces-pc-portable-20261105203.zip",
-  "version": "2026.11.05.203",
-  "versionCode": 2026110503,
-  "notes": "Бланк медкомиссии за выбранный год и бригаду. Только непройденные пункты и пересдачи. Печать и подготовка письма."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.204/tabel-workplaces-android-20261105204.apk",
+  "sha256": "7074AEA4E7FA722BF3FA27AAD89BD69B7F1B844952EC8B40DC411F4E7EF3D900",
+  "name": "tabel-workplaces-android-20261105204.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.204/tabel-workplaces-pc-portable-20261105204.zip",
+  "portableSha256": "EF79F612FF180E18858165BD360BE9421A392E50F23158A295BE26477F3FDB59",
+  "portableName": "tabel-workplaces-pc-portable-20261105204.zip",
+  "version": "2026.11.05.204",
+  "versionCode": 2026110504,
+  "notes": "Бланк «Мед комиссия» разбивается на листы А4 по фактической высоте строк. На каждой странице повторяется шапка таблицы. Исправление применяется к предпросмотру, печати и файлу для письма."
 }
