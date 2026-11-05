@@ -1,9 +1,17 @@
-# Табель учёта рабочих мест — версия 2026.10.21.199
+# Табель учёта рабочих мест — версия 2026.11.05.200
 
-- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.21.199/tabel-workplaces-android-20261021199.apk)
-- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.21.199/tabel-workplaces-pc-portable-20261021199.zip)
-- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.10.21.199)
+- [Скачать Android APK](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.200/tabel-workplaces-android-20261105200.apk)
+- [Скачать ПК portable](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.200/tabel-workplaces-pc-portable-20261105200.zip)
+- [Страница актуального релиза](https://github.com/Sasha174ru/tabel-workplaces-updates/releases/tag/v2026.11.05.200)
 - [Метаданные автоматического обновления](https://github.com/Sasha174ru/tabel-workplaces-updates/blob/main/latest.json)
+
+## Что нового в v200
+
+- 14 пунктов медкомиссии, отдельные отметки ФОГ и ФВД. Прежние отметки ЛОР сохранены под названием «Отоларинголог».
+- Исправлен запуск ПК-версии на Windows PowerShell 5.1.
+- Для совместной работы с новыми отметками обновите все устройства. APK устанавливайте поверх, не очищая данные.
+
+## Примечания к предыдущему выпуску v199
 
 ## Мед комиссия
 
@@ -90,4 +98,4 @@
 
 Узкие строки сотрудников и цветовые обозначения спецдолжностей из предыдущего выпуска сохранены.
 
-Текущий релиз: `v2026.10.21.199`.
+Текущий релиз: `v2026.11.05.200`.

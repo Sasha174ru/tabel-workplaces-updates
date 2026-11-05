@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.21.199/tabel-workplaces-android-20261021199.apk",
-  "sha256": "496647AC0BA3087A2936FF5386C2058798B7D8F388FFBCBC10BA5E9B68300856",
-  "name": "tabel-workplaces-android-20261021199.apk",
-  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.10.21.199/tabel-workplaces-pc-portable-20261021199.zip",
-  "portableSha256": "34DA51FD33DD49EE441BABFC9402598C0DB55C4DAD7A2FF1C983EACD3055289C",
-  "portableName": "tabel-workplaces-pc-portable-20261021199.zip",
-  "version": "2026.10.21.199",
-  "versionCode": 2026102109,
-  "notes": "Добавлен раздел Мед комиссия под единым штатом: год, бригада, подразделение, участок, рабочее место; ЛОР, хирург и офтальмолог; Не пройден, Пройден и Пересдать, дата и ежегодная история. Отметки входят в локальное хранение, резервную копию и ручную синхронизацию через Сохранить. Для совместной работы обновите все устройства. Без диагнозов и заключений о допуске. Включены исправления узкого календаря и подписей v198. Прошли 40 целевых проверок, 6 сценариев тестового обмена, 41 общий сценарий, 27 регрессионных наборов и 27 функциональных проверок настоящего APK на Android 15; наборы пересекаются. Chrome проверен в 320×568, 360×800 и 1280×900. Android release/lint успешны, подпись прежняя. Физические телефоны, чистая нативная визуальная приёмка и обмен с рабочим облаком не проверялись. Рабочие данные, права доступа, ключи, старые версии и рабочая ПК-копия сохранены. Устанавливайте APK поверх без удаления и очистки данных; для ПК сохраняйте конфигурации, порт и профиль браузера. Рекомендуется экспорт JSON."
+  "apkUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.200/tabel-workplaces-android-20261105200.apk",
+  "sha256": "156C44BBD3AB059A64F704E7E7A408824EDE61D32106FE998146F72C86800390",
+  "name": "tabel-workplaces-android-20261105200.apk",
+  "portableUrl": "https://github.com/Sasha174ru/tabel-workplaces-updates/releases/download/v2026.11.05.200/tabel-workplaces-pc-portable-20261105200.zip",
+  "portableSha256": "4C6AF8AC1202297525BDC5E893A2212917CA1E708A05C6A1F2D485709CFF1868",
+  "portableName": "tabel-workplaces-pc-portable-20261105200.zip",
+  "version": "2026.11.05.200",
+  "versionCode": 2026110500,
+  "notes": "Медкомиссия: 14 пунктов, ФОГ и ФВД отдельно. Отметки ЛОР сохранены как Отоларинголог. Исправлен запуск на Windows PowerShell 5.1. Перед использованием новых отметок обновите все устройства."
 }
